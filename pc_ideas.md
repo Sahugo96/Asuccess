@@ -1,368 +1,351 @@
-# Идеи для ПК-игры с друзьями: каталог без дублей
+#Идеи для ПК-игры с друзьями: каталог без дублей
 
 Здесь собрано то, что осталось после чистки исходных 20 партий (10 016 идей).
-Названия и описания идей оставлены на английском, как в оригинале. В скобках указан номер идеи в исходном файле.
+Названия и описания идей, оставленных на английском языке, как в оригинале. В скобках указан номер идеи в исходном файле.
 
 | Этап | Осталось |
 |---|---|
-| Было идей | 10 016 |
+| Было идеи | 10 016 |
 | Уникальных после удаления повторов (по названию и описанию) | 1 468 |
-| После отсева алкоголя, еды, улицы, модов настолок и клонов чужих игр | 747 |
+| После отева алкоголя, еды, улиц, модов настолок и клонов чужих игр | 747 |
 | После ручного отсева мусора и повторов, отличающихся только названием | 321 |
 
-**Что выкинуто как мусор:** алкогольные игры и игры с едой, игры на улице и с телом (яйца об лоб, повязки на глаза); моды обычных колод и настолок; «Personal»-перекраски чужих игр (Among Us, Codenames, Spyfall, Secret Hitler…); списки чужих настольных ролевых игр (Call of Cthulhu, Vampire…); философские парадоксы и когнитивные искажения; функции iPhone; уроки рисования; вода вроде «The Game — ты играешь в неё прямо сейчас»; игры, которые требуют рыться в реальном телефоне друга.
+**Что выкинуто как мусор:** алкогольные игры и игры с едой, игры на улице и с телом (яйца об лоб, повязки на глаза); мода обычных колодок и настолок; «Личные»-перекраски чужих игр (Среди нас, Кодовые имена, Шпион, Тайный Гитлер…); организованы чужих настольных ролевых игр (Зов Ктулху, Вампир…); философские парадоксы и когнитивные искажения; функции iPhone; уроки рисования; вода вроде «Игра — ты играешь в ней прямо сейчас»; игры, которые требуют сначала позвонить другу.
 
-Лучшие кандидаты, переработанные в концепты ПК-игры, лежат в [game_concepts.md](game_concepts.md).
+Лучшие кандидаты, переработанные в концепции ПК-игры, остались в [game_concepts.md](game_concepts.md).
 
-## Обман, предатели и скрытые роли (35)
+## Обман, предатели и скрытые ролики (35)
 
-- **Traitor's Translator** (#1) — One player secretly retranslates everyone's words to the group with subtle malicious changes. Others must guess who's the "translator".
-- **Fake Rules** (#2) — Each round, one player invents a fake rule everyone must follow. Last to realize it's fake drinks/does penalty.
-- **Secret Signal** (#3) — Two players have a secret signal. They must communicate it to each other publicly without others noticing. Others bet on who the pair is.
-- **Gaslight Gallery** (#4) — Players describe a shared "memory" that never happened. One player wasn't there - they must pretend they remember. Group votes on the impostor.
-- **Whisper Down the Lane: Sabotage Edition** (#5) — Message passes through players. One designated saboteur must change exactly one word per pass. Final message read aloud.
-- **The Accuser** (#6) — One player accuses another of a ridiculous specific crime ("Dave stole my left sock at 3:47 PM"). Accused must defend with increasingly absurd evidence. Group votes guilty/not guilty.
-- **Two Truths, One Lie: Collaborative** (#7) — Group writes 3 statements about one player. That player must guess which is the lie. If wrong, they do a dare.
-- **Impostor Syndrome** (#10) — Everyone gets a role card. One says "Impostor". Impostor doesn't know they're the impostor. Others must guide them to reveal themselves without saying it directly.
-- **Blind Accusation** (#11) — Lights out. One player tapped as "killer". Lights on. Dead player gives ONE vague clue. Group votes. Killer wins if survives 3 rounds.
-- **Fake Identity** (#12) — Each player draws a celebrity/character. They answer questions AS that person. One player has NO card - they improvise. Group guesses who's faking.
-- **The Frame-Up** (#13) — Before game, each player writes a "crime" on paper. Shuffle. Each round, one crime read. Players accuse each other. Real culprit stays silent.
-- **Paranoia Circle** (#14) — Whisper a question to neighbor ("Who here would survive a horror movie?"). Neighbor answers NAME OUT LOUD. Coin flip: if heads, question revealed. If tails, stays secret.
-- **Liar's Resume** (#15) — Each player writes 3 fake qualifications for a ridiculous job ("Professional Cloud Taster"). Read aloud. Group hires one. Hired player must justify qualifications for 60 seconds.
-- **Secret Santa Sabotage** (#16) — Draw names. Buy/give "gifts" (can be trash, insults, rocks). Recipient must act grateful and guess giver. Giver can lie.
-- **The Witness** (#17) — One player witnesses a "crime" (staged by host). They describe it BADLY on purpose. Others reconstruct. Witness gets points for each wrong detail others include.
-- **Alibi** (#18) — Pair up. 5 mins to create shared alibi for a ridiculous crime. Separated. Interrogated individually. Contradictions = guilt.
-- **Trust Fall: Verbal** (#19) — Player states "I trust [name] with [secret/action]". That person can betray or honor. Points for honor, double for betrayal undetected.
-- **The Plant** (#20) — One player given a ridiculous opinion to defend ("Hot dogs are sandwiches"). Others don't know who. Plant gets points for each person they convince.
-- **Hidden Agenda** (#22) — Each player gets a secret win condition ("Make someone laugh", "Get voted out", "Say 'actually' 5 times"). Game ends when someone achieves theirs.
-- **The Informant** (#23) — One player gets all roles secretly. They announce "I'm the informant" and give ONE piece of true info, rest lies. Others must parse.
-- **Gaslighting: The Game** (#24) — Players take turns stating "Remember when [X] happened?" Group must agree or disagree. One player was asleep/absent for real events.
-- **Escape Room: Mole** (#301) — Solve puzzles. Mole has wrong solutions. Sabotages subtly. Identify mole to escape.
-- **Heist: Double Cross** (#302) — Plan heist. Each has secret objective: "steal diamond", "betray team", "survive". Execute.
-- **Double Agent** (#501) — Two spies, each thinks they're the only one. Handler gives conflicting missions. Spies must identify each other while completing missions.
-- **Triple Agent** (#502) — Three players: Loyalist, Traitor, Double Agent. Double Agent wins with whoever wins. Loyalist/Traitor don't know Double Agent exists.
-- **Mole: Double Blind** (#1001) — Two moles. Neither knows the other. Handler gives missions. Moles might sabotage each other. Identify both.
-- **Traitor: Recruitment** (#1002) — Traitor can convert one player per night. Converted becomes Traitor. Original doesn't know who. Faithful hunt growing threat.
-- **Spy: Handler** (#1003) — Spy has Handler (external app/person). Handler gives intel. Spy relays. Handler can lie. Spy must filter.
-- **Assassin: Target** (#1004) — Assassin has secret target. Must engineer target's elimination without revealing. Others have own goals.
-- **Bodyguard: Charge** (#1005) — Bodyguard protects Charge. Charge doesn't know Bodyguard. Assassin targets Charge. Bodyguard must hide role.
-- **Cultist: Leader** (#1006) — Cult Leader recruits nightly. Recruited know Leader. Leader wins if majority. Leader dies = cult dissolves.
-- **Escape Room: Known Mole** (#1851) — Mole = most experienced. Sabotages. Others KNOW who. Must work AROUND them. "Dave, don't touch that." "I'M HELPING." "STOP HELPING."
-- **Secret Quirk** (#3011) — Each gets secret quirk card: "Must rhyme." "Speak in questions." "Refer to self in third person." "Touch nose before speaking." Play normal game while maintaining quirk.
-- **Personality Swap** (#3013) — Draw another player's name. Must act like them ALL GAME. "I'm Dave now. *naps* '5 minutes.' *wakes* 'I'm late.'" Real Dave: "THAT'S NOT ME." "IT IS NOW."
-- **Gaslighter** (#3015) — One player = Gaslighter. Their job: make others doubt reality. "That never happened." "You're imagining things." "Dave, you weren't even there." Points for each person who agrees.
+- **Переводчик предателя** (#1) — один игрок тайно переводит слова каждого участника группы с тонкими вредоносными изменениями. Остальные должны угадать, кто «переводчик».
+- **«Выдуманные правила»** (#2) — В каждом раунде один из игроков придумывает ложное правило, которому должны следовать все остальные. Тот, кто последним догадается, что правило выдумано, — пьет (или выполняет штрафное задание).
+- **«Тайный сигнал»** (#3) — Двое игроков договариваются о секретном сигнале. Им нужно подать его друг другу прямо на глазах у всех, но так, чтобы остальные не заметили. Остальные участники пытаются угадать, кто именно составляет эту пару.
+- **«Газлайт-галерея»** (#4) — Игроки обсуждают общее «воспоминание» о событии, которого на самом деле никогда не было. Один из участников в этом событии не участвовал — он должен притвориться, что тоже всё помнит. Группа голосует, пытаясь вычислить самозванца.
+- **«Испорченный телефон: Саботаж»** (#5) — Сообщение передается по цепочке от игрока к игроку. Один участник — «саботажник» — обязан при каждой передаче менять ровно одно слово. В конце финальный вариант сообщения зачитывается вслух.
+- **«Обвинитель»** (#6) — Один игрок обвиняет другого в каком-нибудь нелепом преступлении (например: «Дейв украл мой левый носок в 15:47»). Обвиняемый должен защищаться, приводя всё более абсурдные доводы. Группа голосует: виновен или нет.
+- **«Две правды, одна ложь: Коллективная версия»** (#7) — Группа придумывает три утверждения об одном из игроков. Этому игроку нужно угадать, какое из них — ложь. Если он ошибается — выполняет задание.
+- **«Синдром самозванца»** (#10) — Каждый получает карточку с ролью. На одной из них написано «Самозванец» — при этом сам «самозванец» не знает, что он — тот самый самозванец. Остальные должны подталкивать его к тому, чтобы он сам себя выдал, не называя его роль прямо.
+- **«Слепое обвинение»** (#11) — Гаснет свет. Один игрок тайно назначается «убийцей». Свет включается. «Убитый» дает одну туманную подсказку. Группа голосует. Если «убийца» продержится 3 раунда, он побеждает.
+- **«Чужая личность»** (#12) — Каждый игрок получает карточку с именем знаменитости или персонажа и отвечает на вопросы от его лица. У одного игрока карточки нет — он импровизирует. Группа пытается угадать, кто из участников притворяется.
+- **«Подстава»** (#13) — Перед началом игры каждый пишет на бумажке какое-нибудь «преступление». Бумажки перемешиваются. В каждом раунде зачитывается одно из них, после чего игроки начинают обвинять друг друга. Настоящий «преступник» при этом должен хранить молчание. - **Круг паранойи** (#14) — Игрок шепчет вопрос соседу (например: «Кто из присутствующих выжил бы в фильме ужасов?»). Сосед громко называет имя. Подбрасывается монета: если выпадает «орел» — вопрос озвучивается всем, если «решка» — остается в тайне.
+- **Резюме лжеца** (#15) — Каждый участник придумывает 3 вымышленных навыка для абсурдной вакансии (например, «профессиональный дегустатор облаков»). Все варианты зачитываются вслух, и группа «нанимает» одного игрока. Тот должен в течение 60 секунд обосновать свои «компетенции».
+- **Саботаж «Тайного Санты»** (#16) — Участники тянут жребий, кому делать «подарок» (это может быть что угодно: мусор, оскорбление, камень). Получатель должен изобразить благодарность и угадать, кто сделал подарок. Даритель может лгать.
+- **Свидетель** (#17) — Один игрок становится свидетелем «преступления» (разыгранного ведущим) и намеренно описывает его максимально плохо. Остальные пытаются восстановить картину событий. Свидетель получает очки за каждую неверную деталь, которую добавляют другие игроки.
+- **Алиби** (#18) — Игроки разбиваются на пары и за 5 минут придумывают общее алиби для нелепого преступления. Затем их разделяют и допрашивают по отдельности. Любые противоречия в показаниях означают «виновность».
+- **Словесное «падение на доверии»** (#19) — Игрок заявляет: «Я доверяю [имя] сделать [что-то/узнать секрет]». Тот, к кому обратились, может либо оправдать доверие, либо предать. Очки начисляются за верность, а за успешное (незамеченное) предательство — в двойном размере.
+- **Засланный казачок** (#20) — Одному игроку дают абсурдное мнение, которое он должен отстаивать (например: «Хот-дог — это сэндвич»). Остальные не знают, кто именно получил это задание. «Казачок» получает очки за каждого участника, которого ему удалось убедить.
+- **Скрытая цель** (#22) — Каждый игрок получает секретное условие для победы (например: «рассмешить кого-то», «добиться того, чтобы тебя исключили из игры», «произнести слово "на самом деле" 5 раз»). Игра заканчивается, как только кто-то выполняет свою задачу.
+- **Информатор** (#23) — Один игрок тайно получает все роли. Он объявляет: «Я — информатор», после чего сообщает ОДИН правдивый факт, а остальное — вымысел. Остальные должны разобраться, где правда, а где ложь.
+- **Газлайтинг: Игра** (#24) — Игроки по очереди делают утверждение: «Помнишь, как случилось [событие X]?». Группа должна либо подтвердить, либо опровергнуть это воспоминание. Один из игроков спал или отсутствовал во время реальных событий.
+- **Квест-комната: «Крот»** (#301) — Решайте головоломки. Среди вас есть «крот», который подсовывает неверные решения и незаметно вредит команде. Чтобы выбраться, нужно вычислить предателя.
+- **Ограбление: «Двойная игра»** (#302) — Планируйте ограбление. У каждого участника есть тайная цель: «украсть бриллиант», «предать команду» или «выжить». Приступайте к делу!
+- **Двойной агент** (#501) — Двое шпионов; каждый уверен, что он — единственный шпион. Куратор дает им противоречивые задания. Шпионам предстоит выяснить, кто еще работает на врага, попутно выполняя свои миссии.
+- **Тройной агент** (#502) — Три роли: лоялист, предатель и двойной агент. Двойной агент побеждает вместе с той стороной, которая одержит верх. Лоялист и предатель не знают о существовании двойного агента.
+- **«Крот»: Вслепую** (#1001) — Два «крота», которые не знают друг о друге. Куратор дает задания, а «кроты» могут даже мешать друг другу. Задача — вычислить обоих.
+- **Предатель: Вербовка** (#1002) — Предатель может каждую ночь переманивать одного игрока на свою сторону. Тот становится предателем, но никто, кроме самого вербовщика, не знает, кто именно перешел к врагу. Лояльным игрокам нужно остановить растущую угрозу.
+- **Шпион и куратор** (#1003) — У шпиона есть куратор (человек или приложение), который передает разведданные. Шпион транслирует их команде, но куратор может лгать — шпиону приходится фильтровать информацию.
+- **Убийца: Цель** (#1004) — У убийцы есть тайная цель. Нужно устранить жертву так, чтобы никто не догадался, кто за этим стоит. У остальных игроков — свои собственные задачи.
+- **Телохранитель: Подопечный** (#1005) — Телохранитель защищает подопечного, который даже не подозревает о его существовании. На подопечного охотится убийца, а телохранитель должен оберегать его, не раскрывая своей роли.
+- **Культист: Лидер** (#1006) — Лидер культа каждую ночь вербует новых последователей. Завербованные знают, кто их лидер. Лидер побеждает, если культисты составляют большинство. Если лидер погибает, культ распадается.
+- **Квест-комната: «Известный крот»** (#1851) — «Крот» — самый опытный игрок. Он вредит команде, и все ЗНАЮТ, кто это. Приходится действовать с оглядкой на него. «Дэйв, не трогай это!» — «Я же помогаю!» — «Перестань помогать!» - **Тайная особенность** (#3011) — Каждый получает карточку с секретной особенностью: «говорить рифмами», «задавать вопросы вместо утверждений», «называть себя в третьем лице», «касаться носа перед каждой фразой». Нужно продолжать обычную игру, не забывая придерживаться своей особенности.
+- **Смена личности** (#3013) — Игроки вытягивают имена друг друга. Теперь нужно вести себя как этот человек на протяжении всей игры. Пример: «Я теперь Дэйв. *дремлет* "Пять минут..." *просыпается* "Ой, я опоздал!"». Настоящий Дэйв: «Это совсем на меня не похоже!». Ответ: «Теперь похоже».
+- **Газлайтер** (#3015) — Один из игроков становится «газлайтером». Его задача — заставить остальных усомниться в реальности происходящего. Фразы вроде: «Этого никогда не было», «Тебе просто показалось», «Дэйв, тебя здесь даже не было». За каждого, кто поверит в это, газлайтер получает очки.
 
-## Голосования, интриги, «суды» (26)
+## Голосования, интриги, «судебные процессы» (26)
 
-- **Vote: Most Likely To** (#91) — Anonymous votes. Reveal counts. Target guesses who voted for them. Correct guess = voter penalty.
-- **Kingmaker** (#92) — One "King" per round. Others petition for favor. King grants one wish, denies others. Next King = most denied.
-- **Survivor: Tribal Council Roast** (#93) — Vote someone out. They give roast speech. Staying players must roast back. Best roast = immunity.
-- **Dictator** (#94) — One player makes rule for round. Others follow. Rule can be "speak in accents", "compliment neighbor". Next dictator = last to comply.
-- **Popularity Contest** (#95) — Secret vote for "winner". Reveal. Winner gets target on back. Next round: vote for "loser". Alternate.
-- **Jury Duty** (#96) — One "defendant" accused of ridiculous crime. Players = lawyers (prosecution/defense). Jury votes. Lawyers scored on persuasion.
-- **The Bachelor: Friend Edition** (#97) — One "bachelor". Others compete in challenges: "best impression of bachelor's mom", "worst pickup line". Roses = stay.
-- **Prom King/Queen** (#99) — Campaign speeches. Vote. Winners share crown. Crown = next round target.
-- **Class President** (#100) — Platforms: "Free naps", "Mandatory pizza Fridays". Debate. Vote. President assigns "cabinet positions" (snack getter, joke teller).
-- **Most Likely To Succeed (At Failing)** (#101) — Vote on superlatives. Winners perform acceptance speech as that failure.
-- **Mystery Box: Traitor** (#128) — Box passed. Each adds/removes item. Traitor knows final content. Others guess. Traitor wins if wrong.
-- **Escape Room: One Liar** (#136) — Solve puzzles. One player has wrong solutions. They sabotage subtly. Group must identify liar to escape.
-- **Kingmaker: Assassination** (#576) — King names successor. Others can "assassinate" successor (vote). If majority, successor dead, king picks again. King dies if 3 successors killed.
-- **Popularity: Seesaw** (#579) — Vote "most popular" and "least popular" simultaneously. Winner gets power, loser gets target. Next round: reverse.
-- **Jury Duty: Frivolous** (#580) — Sue player for ridiculous tort: "Emotional distress from your laugh." Lawyers argue. Jury awards "damages" (dares, drinks, compliments).
-- **Bachelor: Friend Zone** (#581) — Bachelor eliminates. Eliminated join "Friend Zone" jury. Jury votes on final dates. Sabotage dates. "Ask about their ex."
-- **Impeachment: Articles** (#582) — President. Congress writes articles: "High crimes: bad music taste." Senate trial. Chief Justice = most chaotic player.
-- **Prom Court: Scandal** (#583) — Campaign. Scandal cards played: "Photos leaked!", "Stole prom funds!" Respond. Vote. Winners = targets next year.
-- **Class President: Platform** (#584) — Platforms: "Mandatory naps", "Grade inflation", "Teacher roasts". Debate. Vote. President appoints cabinet: "Secretary of Snacks".
-- **Superlatives: Roast** (#585) — "Most likely to die in a stupid way." Winner gives acceptance speech AS that death. "I perished fighting a vending machine."
-- **Survivor: Fake Idols** (#1652) — Plant fake idols. "This ROCK is idol. Swear on my life." Someone believes. Plays rock. "That's a rock." "IT'S AN IDOL ROCK."
-- **Jury Duty: Frivolous Suits** (#1655) — "Dave sued for 'Emotional distress from laughter.' Sarah: lawyer. Mike: lawyer. Jury awards: 'Dave must roast Sarah.'"
-- **Bachelor: Friend Zone Jury** (#1656) — Eliminated = jury. Jury sabotages dates. "Ask about EXES." "Mention their DEBT." "Dave's date: 'So... your credit score?'"
-- **Prom Court: Scandal Cards** (#1658) — "Photos LEAKED!" "Stolen FUNDS!" "Secret TWIN!" Respond. "Photos leaked? Those are MY baby photos. CUTE."
-- **Class President: Cabinet** (#1659) — President appoints: "Secretary of Snacks", "Minister of Naps", "Ambassador to Dave's Mom." "Dave: Secretary of Excuses."
-- **Superlatives: Death Speeches** (#1660) — "Most Likely to Die Stupidly." Winner: "I perished fighting a vending machine. It owed me a soda. I WON (posthumously)."
+- **Голосование: «Кто скорее всего...»** (#91) — Анонимное голосование. Объявляются результаты. Тот, на кого указало большинство, должен угадать, кто за него проголосовал. Если угадал — голосовавший получает штраф.
+- **Вершитель судеб** (#92) — В каждом раунде выбирается «король». Остальные игроки пытаются добиться его расположения. Король исполняет одно желание и отвергает остальные. В следующем раунде «королем» становится тот, кому чаще всего отказывали.
+- **Совет племени (в стиле «Последнего героя»)** (#93) — Игроки голосуют за исключение одного участника. Тот произносит прощальную обличительную речь («прожарку»), а оставшиеся игроки должны ответить ему тем же. Автор лучшей «прожарки» получает иммунитет.
+- **Диктатор** (#94) — Один игрок устанавливает правило на текущий раунд, которому должны следовать все остальные. Правило может быть любым: «говорить с акцентом», «делать комплименты соседу» и т. д. В следующем раунде «диктатором» становится тот, кто выполнил правило последним.
+- **Конкурс популярности** (#95) — Тайное голосование за «победителя». Результаты оглашаются, и «победитель» становится главной мишенью для остальных. В следующем раунде голосуют за «проигравшего». Роли чередуются.
+- **Судебное заседание** (#96) — Один игрок («подсудимый») обвиняется в нелепом преступлении. Остальные делятся на адвокатов обвинения и защиты. Присяжные выносят вердикт, а адвокаты получают баллы за свою убедительность.
+- **Холостяк: версия для друзей** (#97) — Один игрок становится «холостяком». Другие соревнуются в конкурсах: «лучшее подражание маме холостяка», «худшая фраза для знакомства». Розы = остаться.
+- **Король/Королева выпускного бала** (#99) — Предвыборные речи. Голосование. Победители делят корону. Корона = цель следующего раунда.
+- **Старейшина класса** (#100) — Платформы: «Бесплатный сон», «Обязательная пицца по пятницам». Дебаты. Голосование. Президент назначает «кабинетные должности» (приносящий закуски, рассказывающий анекдоты).
+- **Наиболее вероятно преуспеет (в провале)** (#101) — Голосование по превосходным степеням. Победители произносят благодарственную речь, изображая этого неудачника.
+- **Загадочная коробка: Предатель** (#128) — Коробка передается. Каждый добавляет/удаляет предмет. Предатель знает окончательное содержимое. Остальные угадывают. Предатель побеждает, если ошибается.
+- **Квест-комната: Один лжец** (#136) — Решайте головоломки. Один игрок дает неверные решения. Он незаметно саботирует игру. Группа должна определить лжеца, чтобы выбраться.
+- **Создатель королей: Убийство** (#576) — Король назначает преемника. Другие могут «убить» преемника (голосование). Если большинство голосов, преемник мертв, король выбирает снова. Король умирает, если убиты 3 преемника.
+- **Популярность: Качели** (#579) — Голосуйте одновременно за «самого популярного» и «наименее популярного». Победитель получает власть, проигравший становится целью. Следующий раунд: обратное.
+- **Присяжные: Легкомысленные** (#580) — Подайте в суд на игрока за нелепое правонарушение: «Эмоциональное расстройство от вашего смеха». Юристы спорят. Присяжные присуждают «компенсацию» (вызовы, выпивка, комплименты).
+- **Холостяк: Френдзона** (#581) — Холостяк выбывает. Исключены из состава жюри «френдзоны». Жюри голосует за финальные свидания. Саботаж свиданий. «Спросите об их бывшем».
+- **Импичмент: Статьи** (#582) — Президент. Конгресс пишет статьи: «Тяжкие преступления: плохой музыкальный вкус». Суд в Сенате. Главный судья — самый хаотичный игрок.
+- **Суд на выпускном балу: Скандал** (#583) — Избирательная кампания. Разыграны карты скандалов: «Утечка фотографий!», «Украдены деньги на выпускной!». Реагируйте. Голосуйте. Победители — следующие цели в будущем году.
+- **Выборы президента класса: Предвыборная программа** (#584) — Пункты программы: «Обязательный тихий час», «Завышение оценок», «Прожарка учителей». Дебаты. Голосование. Президент назначает кабинет министров, например: «Министр по делам закусок».
+- **Номинации: «Прожарка»** (#585) — Номинация: «Скорее всего, погибнет максимально глупым образом». Победитель произносит речь от лица погибшего: «Я пал в неравном бою с торговым автоматом».
+- **«Последний герой»: Поддельные тотемы** (#1652) — Подбросьте фальшивые тотемы. «Этот КАМЕНЬ — настоящий тотем! Клянусь жизнью!» Кто-то верит и пытается его использовать. «Это же просто камень». «ЭТО ТОТЕМ-КАМЕНЬ!»
+- **Суд присяжных: Нелепые иски** (#1655) — Дэйв подает в суд: «Моральный ущерб из-за того, что пришлось слишком много смеяться». Сара и Майк — адвокаты. Вердикт присяжных: «Дэйв обязан устроить "прожарку" Саре».
+- **Шоу «Холостяк»: Жюри из «френдзоны»** (#1656) — Выбывшие участники становятся судьями и саботируют свидания. «Спроси про бывших!» «Упомяни долги!» На свидании: «Ну... какой у тебя кредитный рейтинг?»
+- **Король и королева бала: Скандальные разоблачения** (#1658) — «Утекли личные фото!», «Украденные деньги!», «Тайный близнец!» Нужно оправдаться: «Фото утекли? Да это же мои детские снимки! Мило, правда?»
+- **Выборы президента класса: Кабинет министров** (#1659) — Президент распределяет должности: «Министр по делам закусок», «Министр тихого часа», «Посол при маме Дэйва». Дэйв становится «Министром отговорок».
+- **Номинации: Речи перед гибелью** (#1660) — Номинация: «Скорее всего, погибнет максимально глупым образом». Победитель: «Я пал в бою с торговым автоматом. Он зажал мою газировку. Я победил (посмертно)».
 
-## Блеф и фейковые факты (48)
+## Блеф и выдуманные факты (48)
 
-- **Fake Facts** (#151) — State 3 facts. 1 fake. Others bet chips on which. Reveal. Correct bet = double chips. Wrong = lose chips.
-- **Google Feud: Wrong Answers** (#153) — "Why does my..." Top searches. Players give WRONG funny answers. Group votes funniest.
-- **Urban Dictionary: Real or Fake** (#154) — Read definition. Players guess if real UD entry or made up. Real ones are often worse.
-- **Acronym Guessing** (#155) — "NASA" = "Not A Space Agency". Players invent backronyms. Vote best.
-- **Movie Plot: Badly Explained** (#156) — "Boy finds stick. Becomes wizard. Nose guy dies." Guess movie. Explainer gets points for wrong guesses.
-- **Song Lyrics: Misheard** (#157) — Read misheard lyric. "Hold me closer, Tony Danza". Guess real lyric. Sing misheard version.
-- **Celebrity: Real or Fake** (#158) — "Celebrity baby name: 'Audio Science'". Guess real. Real ones are absurd.
-- **History: Drunk Version** (#159) — Tell historical event wrong on purpose. "Lincoln invented the penny to buy theater tickets". Others correct.
-- **Science: Fake Fact** (#160) — "Bananas are curved because they're boomerangs". Convince others. Points per believer.
-- **Geography: Made Up Country** (#161) — Describe "Republic of Bananastan". Capital: "Peel City". Export: "Slip hazards". Convince it's real.
-- **Animal Facts: Lies** (#162) — "Wombats poop cubes to build walls". 50% true. Guess which are real.
-- **Brand Slogans: Honest Version** (#163) — "McDonald's: I'm Lovin' It (diabetes)". Write honest slogans. Vote funniest.
-- **News Headline: Real or Onion** (#164) — "Florida Man..." Guess real news vs satire. Florida Man always real.
-- **Video Game: Fake Feature** (#165) — "New Mario: pay-to-win jump height". Convince it's real patch note.
-- **Tech Specs: Nonsense** (#166) — "New iPhone: 5G, 6G, 7G ready. Battery: hope". Present as keynote.
-- **Phobia: Real or Fake** (#168) — "Hippopotomonstrosesquippedaliophobia: fear of long words". Guess real. It's real.
-- **Law: Dumb Real Laws** (#169) — "Illegal to whistle underwater in Vermont". Guess real. Most are real.
-- **Word Origin: Fake Etymology** (#170) — "'Golf' = Gentlemen Only Ladies Forbidden". Convince group. Real origin: Scottish "gouf".
-- **Space: Fake Fact** (#172) — "Venus rains diamonds". Real: possibly. "Mars has WiFi". Fake.
-- **Invention: Useless** (#174) — "Pet rock 2.0: AI rock". Pitch. Group invests fake money.
-- **Sport: Fake Rule** (#174) — "Soccer: can use hands if you sing national anthem". Convince referee (player).
-- **Language: False Friend** (#176) — "Embarazada = embarrassed (Spanish)". Actually pregnant. Guess meaning.
-- **Mythology: Modern God** (#177) — "God of WiFi: Routerius". Domain, symbol, prayer. Best worshipper wins.
-- **Conspiracy: Plausible** (#178) — "Birds aren't real, they're drones". Defend for 60 seconds. Group votes belief.
-- **Superstition: Invented** (#179) — "Left sock first = bad luck". Act it out. Others adopt for game.
-- **Dream Interpretation: Wrong** (#180) — "Teeth falling out = you're rich". Invent meanings. Dreamer believes.
-- **Personality Test: Fake** (#181) — "Choose a shape. Triangle = psychopath". Fake results. Read dramatically.
-- **Fortune Teller: Obvious** (#185) — "You will breathe today. Lucky color: oxygen". Charge fake money.
-- **Magic 8 Ball: Biased** (#186) — Shake. "Ask again when you're richer". "Signs point to no (you're broke)".
-- **Cult: Join Ours** (#191) — "Cult of Tuesday. Meet Tuesdays. Sacrifice: productivity". Recruit players.
-- **Religion: Invented** (#192) — "Holy Book: Terms & Conditions". Commandments: "Thou shalt not skip leg day". Convert others.
-- **Philosophy: Drunk** (#193) — "If tree falls and no one hears, does it make sound? Yes. Physics." Debate badly.
-- **Ethics: Trolley Problem: Absurd** (#194) — "Trolley hits 5 philosophers or 1 pizza. Choose." Debate.
-- **Logic: Fallacy Battle** (#195) — Use only logical fallacies to argue "Cats are liquid". Ad hominem, strawman, etc.
-- **Debate: Terrible Topics** (#196) — "Hot dog is a sandwich". "Cereal is soup". "Water is wet". 1 min each.
-- **Public Speaking: Impromptu** (#197) — Topic: "Why [player] should be president". 2 min. No prep. Troll the subject.
-- **Stand-up: Roast** (#198) — 3 min roast of player to left. They must sit and take it. Then roast next.
-- **Improv: Bad Suggestions** (#199) — Scene: "Divorce court". Suggestion: "Lawyer is a raccoon". Play seriously.
-- **Acting: Terrible Direction** (#200) — Director gives awful notes: "More sad. No, happy. No, like a tree." Actor follows.
-- **Celebrity: Lookalike** (#608) — "Dave looks like [celebrity] if they [tragic flaw]." "Dave = Ryan Gosling if he aged 20 years and loved Warhammer."
-- **Animal: Spirit Animal** (#612) — "Dave's spirit animal: A raccoon with anxiety. Trash panda but makes it weird." Assign to each player.
-- **Fake Facts: Betting** (#1703) — "Dave has 3 nipples. Dave met Tom Cruise. Dave can't snap." Bet chips. "All in on 'met Tom Cruise'." "FAKE. Dave has 3 nipples (REAL)."
-- **Acronym: Roast** (#1705) — D.A.V.E. = "Doesn't Actually Visit Exercise." S.A.R.A.H. = "Sees All Ridiculous Acts, Hates them."
-- **Song Lyrics: Rewrite** (#1707) — "Dave, Dave, give me your answer do / I'm half crazy / all for the love of TACOS / And skipping leg day."
-- **History: Revisionist** (#1709) — "In 2019, Dave invented LEFT SOCK. Before: only rights. Nobel: 'Rejected. Too revolutionary.' Dave: 'I WAS ROBBED.'"
-- **Animal: Spirit** (#1712) — "Dave: Raccoon with anxiety. Trash panda but makes it WEIRD. Sarah: Owl. Judging. Mike: Bear. Grumpy. Hungry."
-- **Brand Slogan: Honest** (#1713) — "Dave: Just Do It (Tomorrow). Nike legal: 'Cease and desist.' Dave: 'I'll respond tomorrow.'"
-- **Ethics: Trolley** (#1744) — "5 philosophers or 1 pizza. Dave: 'Pizza. Obviously pizza.' Sarah: 'Philosophers contribute to society.' Dave: 'PIZZA.'"
+- **Выдуманные факты** (#151) — Игрок озвучивает три факта, один из которых — ложь. Остальные делают ставки фишками: какой именно факт выдуман? Затем следует разоблачение. Верная ставка удваивает фишки, неверная — приводит к их потере. - **Google Feud: Неправильные ответы** (#153) — «Почему мой...» Самые популярные запросы. Игроки дают НЕПРАВИЛЬНЫЕ смешные ответы. Группа голосует за самый смешной.
+- **Urban Dictionary: Настоящий или вымышленный** (#154) — Читайте определение. Игроки угадывают, является ли запись в Urban Dictionary настоящей или вымышленной. Настоящие часто хуже.
+- **Угадывание аббревиатур** (#155) — «NASA» = «Не космическое агентство». Игроки придумывают обратные аббревиатуры. Голосуйте за лучшую.
+- **Сюжет фильма: Плохо объясненный** (#156) — «Мальчик находит палку. Становится волшебником. Парень с носом умирает». Угадайте фильм. Тот, кто объясняет, получает очки за неправильные ответы.
+- **Текст песни: Неправильно услышанный** (#157) — Прочитайте неправильно услышанный текст. «Обними меня крепче, Тони Данза». Угадайте настоящий текст. Спойте неправильно услышанную версию. **Знаменитость: Реальная или вымышленная** (#158) — «Имя ребенка знаменитости: „Аудионаука“». Угадайте, настоящее ли оно. Реальные имена абсурдны.
+- **История: Пьяная версия** (#159) — Умышленно расскажите неверную историю. «Линкольн изобрел пенни для покупки билетов в театр». Остальные правы.
+- **Наука: Вымышленный факт** (#160) — «Бананы изогнуты, потому что это бумеранги». Убедите других. Баллы за каждого поверившего.
+- **География: Выдуманная страна** (#161) — Опишите «Республику Бананастан». Столица: «Пил-Сити». Экспорт: «Опасность скольжения». Убедите, что это правда.
+- **Факты о животных: Ложь** (#162) — «Вомбаты какают кубиками, чтобы строить стены». На 50% правда. Угадайте, что из этого — реальность.
+- **Слоганы брендов: Честная версия** (#163) — «McDonald's: I'm Lovin' It (диабет)». Придумайте честные слоганы. Выберите самый смешной.
+- **Заголовки новостей: Реальность или сатира** (#164) — «Житель Флориды...». Отличите настоящую новость от выдумки. (Спойлер: «Житель Флориды» — почти всегда правда).
+- **Видеоигры: Выдуманная функция** (#165) — «Новый Mario: высота прыжка зависит от оплаты (pay-to-win)». Попробуйте убедить остальных, что это реальное обновление игры.
+- **Технические характеристики: Абсурд** (#166) — «Новый iPhone: поддержка 5G, 6G и 7G. Аккумулятор: "надежда"». Презентуйте это как на официальной презентации Apple.
+- **Фобии: Настоящие или выдуманные** (#168) — «Гиппопотомонстросесквипедалиофобия — боязнь длинных слов». Угадайте, существует ли такая. (Спойлер: существует).
+- **Законы: Нелепые, но реальные** (#169) — «В Вермонте запрещено свистеть под водой». Угадайте, правда ли это. (Спойлер: большинство таких законов — настоящие).
+- **Происхождение слов: Ложная этимология** (#170) — «Слово "Golf" (гольф) расшифровывается как "Gentlemen Only Ladies Forbidden" (Только для джентльменов, дамам вход воспрещен)». Попробуйте убедить группу в этой версии. На самом деле: от шотландского «gouf».
+- **Космос: Выдуманные факты** (#172) — «На Венере идут дожди из алмазов» (возможно, правда). «На Марсе есть Wi-Fi» (ложь).
+- **Изобретения: Бесполезные вещи** (#174) — «Камень-питомец 2.0: камень с искусственным интеллектом». Презентуйте товар, а группа пусть «инвестирует» в него вымышленные деньги.
+- **Спорт: Выдуманные правила** (#174) — «В футболе разрешено играть руками, если при этом поешь национальный гимн». Попробуйте убедить в этом «судью» (другого участника).
+- **Язык: «Ложные друзья переводчика»** (#176) — «Испанское слово "embarazada" означает "смущенная" (embarrassed)». На самом деле — «беременная». Угадайте истинное значение.
+- **Мифология: Современные боги** (#177) — «Бог Wi-Fi — Роутериус». Сфера, символ, молитва. Побеждает тот, кто лучше всех поклоняется.
+- **Теория заговора: Правдоподобная** (#178) — «Птицы — это не животные, а дроны». Защищайте эту идею 60 секунд. Группа голосует, верит ли она в это.
+- **Суеверие: Выдуманное** (#179) — «Надеть сначала левый носок — к неудаче». Разыграйте это. Остальные должны следовать правилу до конца игры.
+- **Толкование снов: Неверное** (#180) — «Если выпадают зубы — к богатству». Придумайте свои значения. Сновидец должен в них поверить.
+- **Тест личности: Фальшивый** (#181) — «Выберите фигуру. Треугольник — значит, вы психопат». Придумайте результаты и зачитайте их максимально драматично.
+- **Гадалка: Очевидная** (#185) — «Сегодня вы будете дышать. Счастливый цвет — кислород». Берите плату «игрушечными» деньгами.
+- **Магический шар «8»: Предвзятый** (#186) — Встряхните шар. Ответы: «Спроси, когда разбогатеешь», «Знаки говорят "нет" (ты нищий)».
+- **Культ: Вступай к нам** (#191) — «Культ вторника. Встречаемся по вторникам. Жертва — продуктивность». Вербуйте других игроков.
+- **Религия: Выдуманная** (#192) — «Священная книга — "Условия использования"». Заповедь: «Не пропускай день тренировки ног». Обращайте других в свою веру.
+- **Философия: Пьяная** (#193) — «Если дерево упало в лесу, а рядом никого нет — издает ли оно звук? Да. Физика». Ведите спор максимально бестолково.
+- **Этика: Проблема вагонетки (абсурдная)** (#194) — «Вагонетка несется либо на 5 философов, либо на 1 пиццу. Что выберешь?». Обсудите.
+- **Логика: Битва логических ошибок** (#195) — Докажите, что «коты — это жидкость», используя только логические ошибки (переход на личности, подмена тезиса и т. д.).
+- **Дебаты: Нелепые темы** (#196) — «Хот-дог — это сэндвич», «Хлопья с молоком — это суп», «Вода — мокрая». По 1 минуте на каждую тему. - **Публичное выступление: Импровизация** (#197) — Тема: «Почему [игрок] должен стать президентом». 2 минуты. Без подготовки. Можно (и нужно) подшучивать над «кандидатом».
+- **Стендап: Прожарка** (#198) — 3-минутная «прожарка» игрока слева от вас. Тот обязан сидеть и слушать. Затем — очередь «прожаривать» следующего.
+- **Импровизация: Нелепые вводные** (#199) — Сцена: «Бракоразводный процесс». Вводная: «Адвокат — енот». Играть нужно максимально серьезно.
+- **Актерская игра: Ужасная режиссура** (#200) — Режиссер дает абсурдные указания: «Больше грусти! Нет, радости! Нет, будь как дерево!» Актер должен следовать этим указаниям.
+- **Знаменитости: Двойники** (#608) — «Дейв похож на [знаменитость], если бы у того был [странный изъян]». Например: «Дейв — это Райан Гослинг, если бы он постарел на 20 лет и помешался на Warhammer».
+- **Животные: Тотемный зверь** (#612) — «Тотемный зверь Дейва — енот с тревожным расстройством. Вроде обычный "мусорный панда", но какой-то странный». Определите для каждого игрока.
+- **Выдуманные факты: Ставки** (#1703) — «У Дейва 3 соска. Дейв встречался с Томом Крузом. Дейв не умеет щелкать пальцами». Делайте ставки фишками. «Ставлю всё на "встречался с Томом Крузом"». «ЛОЖЬ. У Дейва 3 соска (ПРАВДА)».
+- **Акронимы: Прожарка** (#1705) — D.A.V.E. = «Даже Аж Ворчит, Если (нужно) Ехать (в спортзал)». S.A.R.A.H. = «Смотрит, Анализирует, Разносит Абсурдные Хайпы».
+- **Тексты песен: Переделка** (#1707) — «Дейв, о Дейв, дай мне ответ скорей / Я почти сошел с ума / Всё из-за любви к ТАКО / И нежелания качать ноги».
+- **История: Альтернативная версия** (#1709) — «В 2019 году Дейв изобрел ЛЕВЫЙ НОСОК. До этого существовали только правые. Нобелевский комитет: "Отказано. Слишком революционно"». Дэйв: «Меня ограбили!»
+- **Животное: Сущность** (#1712) — «Дэйв: Енот, склонный к тревожности. «Мусорная панда», но в очень странном исполнении. Сара: Сова. Осуждает. Майк: Медведь. Ворчливый. Голодный».
+- **Слоган бренда: Честность** (#1713) — «Дэйв: Просто сделай это (завтра). Юристы Nike: «Прекратите использование». Дэйв: «Отвечу завтра».
+- **Этика: Проблема вагонетки** (#1744) — «5 философов или 1 пицца. Дэйв: «Пицца. Конечно, пицца». Сара: «Философы приносят пользу обществу». Дэйв: «ПИЦЦА».
 
 ## Текст, юмор и прожарки (95)
 
-- **Worst Superhero** (#51) — Pitch a superhero with deliberately terrible power ("Captain Wet Sponge - absorbs 1 tsp water/hour"). Group funds one. Funded player acts it out.
-- **Bad Advice Hotline** (#52) — Caller describes problem. Each player gives progressively worse advice. Caller must follow one. Results shared next round.
-- **Eulogy for Inanimate Object** (#53) — Draw object (toaster, left sock). Deliver dramatic 60-second eulogy. Most moving wins. Others heckle.
-- **Romance Novel Generator** (#55) — Draw 3 cards: character, setting, obstacle. Write 1-paragraph romance blurb. Read dramatically. Group votes "would read/would burn".
-- **Yelp Review: Hell** (#56) — Write 1-star review for hell, DMV, your mom's cooking. Read aloud. Best/worst wins.
-- **Wikipedia: Fake Article** (#57) — Write fake Wikipedia entry for "The Great Emu War of 2024" etc. Mix 1 real fact. Others guess the fact.
-- **Haiku for Horrible Things** (#58) — Write haiku about diarrhea, taxes, stubbed toe. Read with deep emotion.
-- **Apology Letter** (#60) — Write apology for ridiculous thing ("Sorry I ate your grandma"). Must sound sincere. Recipient reads and accepts/rejects.
-- **Instruction Manual: Simple Task** (#61) — Write manual for "how to breathe" or "how to exist" with 50 steps, warnings, troubleshooting.
-- **Breaking News: Mundane** (#62) — Anchor reads "BREAKING: Local man finds spoon". Field reporter interviews spoon. Weather is person's mood.
-- **Product Recall Notice** (#64) — Write recall for "Invisible Sandwich - choking hazard: air". Include batch numbers, symptoms.
-- **Wedding Vows: Strangers** (#65) — Pair random players. Write vows for shotgun wedding. Ceremony performed. Others object dramatically.
-- **Obituary: Alive Person** (#66) — Write loving obituary for living player. They read it. Must not laugh.
-- **Police Sketch: Crime** (#67) — Describe player's "crime" (stole last fry). Artist draws. Reveal. Artist gets points for accuracy.
-- **Ransom Note** (#68) — Cut letters from magazines. Write ransom for ridiculous thing ("Return the TV remote or the cat gets a bath").
-- **Travel Review: Worst Vacation** (#70) — Review "Trip to the bottom of a porta-potty". 1 star. "Would not recommend, staff rude".
-- **Letter to Past Self** (#71) — Write terrible advice to 5-years-ago-you. "Keep dating Brad, he'll change". Read aloud.
-- **Spell Description** (#72) — Invent D&D spell: "Summon Mild Inconvenience - target's shoelaces untie once/day". DM (player) adjudicates.
-- **Monster Manual Entry** (#73) — Create monster: "The Passive-Aggressive Roommate - leaves notes, HP: 12, AC: sigh". Group stats it.
-- **Cursed Item Description** (#74) — "Ring of Eternal Hiccups - wearer hiccups when lying". Describe discovery, history, removal quest.
-- **Bad Book Title** (#75) — "How to Lose Friends and Alienate People You Never Met". Write back cover blurb.
-- **Fake Proverb** (#76) — "A bird in hand makes typing difficult". Group creates 10. Vote most profound-sounding nonsense.
-- **Rejection Letter** (#78) — From Hogwarts, Avengers, local library. "Dear [Player], we regret to inform you..."
-- **Cult Recruitment Pitch** (#79) — 60 seconds to recruit others to "Cult of the Left Sock". Most recruits wins.
-- **Time Capsule Note** (#80) — Write note to future archaeologists explaining 2024: "We put liquid in cups then drank it. Revolutionary."
-- **Weather Forecast: Emotional** (#81) — "Today: Cloudy with chance of existential dread, clearing to petty jealousy by evening".
-- **Wanted Poster** (#82) — For player's minor crime ("Jaywalking with attitude"). Draw sketch. List "known associates" (other players).
-- **Missing Person Flyer** (#83) — For lost item: "Missing: Left AirPod. Last seen: in pocket. Reward: one (1) high five".
-- **Recipe: Disaster** (#84) — "How to cook friendship: 1 cup betrayal, pinch of salt (literal), bake at 400°F until burnt".
-- **Instruction: How to Adult** (#85) — Step 1: Cry. Step 2: Google "how to do taxes". Step 3: Cry more.
-- **Text Message Roast** (#86) — Write worst "good morning" text. "Good morning [wrong name]. That was for my mom."
-- **Voice Mail: Drunk** (#87) — Leave voicemail as drunk version of player. Others guess who.
-- **Trophy Inscription** (#88) — "World's Okayest [Player]". Award ceremony with speech.
-- **Fortune Cookie: Cynical** (#89) — "You will die alone. Lucky numbers: 4, 0, 4, error."
-- **Contact: Word Game** (#401) — Leader thinks word. Others guess letters. "Contact!" when 2+ know. Count down. Say together.
-- **Ghost: Word Chain** (#402) — Add letter. Don't complete word. Challenge. Lose = letter G-H-O-S-T.
-- **Categories: Rapid** (#403) — Category. Round robin. 3 seconds. Repeat/stall = out. Last stands.
-- **Charades: No Props** (#405) — Act movie/book/song. No sounds. Team guesses. Timer.
-- **20 Questions: Lie** (#407) — Think thing. Answer questions. Can lie once. Guessers detect lie.
-- **I Spy: Abstract** (#408) — "I spy something... existential." "Regret." "Correct."
-- **Would You Rather: Extreme** (#409) — "Fight 1 horse-sized duck or 100 duck-sized horses?" Debate. Vote.
-- **Most Likely To: Point** (#411) — "Most likely to..." Count 3-2-1 point. Most votes drinks/tells story.
-- **Paranoia: Whisper** (#412) — Whisper question. Answer names person. Coin flip reveal question.
-- **Worst Superhero Team** (#541) — Each creates terrible hero. Form team. GM presents crisis. Team must solve with terrible powers. "Captain Nap solves hostage crisis by napping."
-- **Bad Advice Column** (#542) — Write "Dear Abby" letters for absurd problems. "My toaster judges my bread choices." Others write terrible responses. Best worst advice wins.
-- **Eulogy: Living Person** (#543) — Write eulogy for player to their face. They must not laugh. Most moving/roasting wins. Subject responds.
-- **Startup Pitch: Pivot** (#544) — Pitch terrible idea. Halfway, forced pivot: "Now it's a blockchain thing." "Now it's for cats." Adapt pitch.
-- **Romance Novel: Mad Libs** (#545) — Template with blanks. Fill blindly. Read resulting masterpiece. "He thrust his [noun] into her [noun]."
-- **Wikipedia: Vandalism** (#547) — Start with real article. Each player changes ONE sentence. Pass around. Final version read. Trace evolution.
-- **Haiku: Roast** (#548) — Write haiku roasting player. 5-7-5. "Dave's hairline recedes / faster than his commitment / to the gym." Read deadpan.
-- **Apology Letter: Non-Apology** (#550) — "I'm sorry you felt that way when I [terrible thing]." Must use corporate non-apology language. Most infuriating wins.
-- **Instruction Manual: Sabotage** (#551) — Write manual for simple task with ONE subtle error that breaks everything. "Step 12: Insert tab A into slot B (force if needed)."
-- **Wedding Vows: Forced** (#555) — Random pair. Write vows in 2 min. Ceremony. Officiant = most chaotic player. Objections encouraged.
-- **Obituary: Funny** (#556) — "Here lies Dave's dignity. Survived by: his delusion, 3 unfinished projects, and a plant he forgot to water."
-- **Police Sketch: Abstract** (#557) — Describe player's "vibe" not face. "Sharp angles. Smells like old spice and regret." Artist draws. Reveal.
-- **Letter to Future Self: Roast** (#561) — "Dear Future Dave, still single? Still think skinny jeans work? Signed, Past Dave (smarter, better hair)."
-- **Spell Description: Useless** (#562) — "Cantrip: Summon Slightly Damp Towel. Range: Touch. Duration: 1 round. Components: A towel, water, sadness."
-- **Monster Manual: Mundane** (#563) — "The Passive-Aggressive Roommate. HP: 12. AC: 14 (thick skin). Attack: Sticky Note (+3 to hit, 1d4 psychic)."
-- **Time Capsule: Roast** (#570) — "To future archaeologists: This iPhone belonged to Dave. Note the 47 cracked screen protectors. A ritual offering to the Glass Gods."
-- **Weather Forecast: Mood** (#571) — "Today: Dave. Morning: Cloudy with chance of '5 more minutes'. Afternoon: Thunderstorms of 'I'll do it later'. Evening: Clear skies of 'ordering takeout'."
-- **Instruction: How to Dave** (#575) — "Step 1: Wake up late. Step 2: Panic. Step 3: Blame traffic. Step 4: Repeat. Troubleshooting: If on time, check for imposter."
-- **Anti-Game** (#985) — Goal: LOSE. Try to lose. But others try to make you WIN. "I fold!" "NO! You have ROYAL FLUSH! BET!" "I WANT TO LOSE!" "YOU CAN'T LOSE WITH THAT!"
-- **Worst Superhero Team: Crisis** (#1101) — Create terrible heroes. GM presents crisis. Team solves with terrible powers. "Captain Nap solves hostage crisis by napping."
-- **Worst Date Story: Improv** (#1136) — Act out worst date. Others add details. "And then he pulled out a spreadsheet..." "Of what?" "His exes' ratings."
-- **Complaint Letter: Petty** (#1138) — Write complaint to company about trivial thing. "Dear Amazon, package arrived 3 min early. Ruined my schedule."
-- **Breakup Text: Object** (#1140) — Send breakup text to inanimate object. "Toaster, it's not you, it's me. I need someone who pops evenly."
-- **Performance Review: Friend** (#1141) — Review friend as employee. "Dave: Punctuality: 2/10. Quality: 'It works on my machine.' Teamwork: Ghosts meetings."
-- **Reference Letter: Fake** (#1142) — Write reference for ridiculous job. "Dave for 'Professional Napper'. References: His pillow, blanket, alarm clock (ignored)."
-- **Roast Battle: Structured** (#1601) — Target: Dave. Rounds: "Appearance", "Career", "Love Life", "Choices". 30 sec each. Judge = Sarah. "Dave's hairline: receding faster than his 401k."
-- **Roast Battle: Tag Team** (#1602) — Teams of 2. Alternate lines. "Dave's shirt-" "Is wrinkled-" "Like his dreams-" "Of being on time." Seamless destruction.
-- **Roast Battle: Audience Participation** (#1603) — Audience throws topics. "Dave's cooking!" "Dave's driving!" "Dave's EXES!" Rapid fire. "Dave's exes: a support group."
-- **Roast Battle: PowerPoint** (#1605) — Present roast as slides. "Slide 1: Dave's Timeline of Bad Decisions." "Slide 47: Today." Professional destruction.
-- **Roast Battle: Musical** (#1606) — Roast in song. "Dave, Dave, give me your answer do / I'm half crazy / all for the love of NAPPING." Opera/rap/ballad.
-- **Roast Battle: Haiku** (#1607) — 5-7-5 only. "Dave's hairline flees / faster than his motivation / to hit the gym." Deadpan delivery.
-- **Roast Battle: Improv** (#1608) — Scene: "Dave's funeral." Eulogies. "Dave died as he lived: 45 minutes late to his own funeral."
-- **Roast Battle: Awards Show** (#1609) — Categories: "Biggest Disappointment", "Best Excuse", "Most Likely to Ghost". Nominees: Dave. Winner: Dave. Speech: "I'd like to thank my bed."
-- **Roast Battle: Intervention** (#1610) — "Dave, we need to talk." Each shares concern. "Dave, your '5 minutes' = 45." "Dave, the hoodie." "Dave, you're 30." Dave: "I'm FINE."
-- **Breakup Text: To Objects** (#1614) — "Toaster, it's not you. It's me. I need someone who toasts evenly. You burn one side. I can't do this anymore."
-- **Reference Letter: Fake Job** (#1618) — "Dave for 'Professional Napper'. References: His pillow (enthusiastic), blanket (supportive), alarm clock (ignored 47 times)."
-- **Resume: Lie Everything** (#1619) — "Dave: CEO of Google (2010-present). Skills: Time travel, telepathy, making Sarah laugh. References: God, Santa, Sarah (reluctant)."
-- **Seance: Contact Past Self** (#1628) — "Contacting Dave's 2019 Resolution... 'Exercise daily'... Spirit: 'He doesn't remember me.' Fades into void."
-- **Instruction Manual: How to Dave** (#1636) — "Step 1: Wake up late. Step 2: Panic. Step 3: Blame traffic. Step 4: Repeat. Troubleshooting: If on time, check for imposter."
-- **Collaborative Novel: One Sentence** (#3001) — Each player writes ONE sentence. Pass. Next writes next. "Dave woke up." "He was a toaster." "Sarah ate him." "Dave: 'WHAT.'" Read final aloud.
-- **Exquisite Corpse Story** (#3002) — Fold paper. Write 2 sentences. Fold so only last shows. Pass. Next continues. Unfold. "Dave found a lamp. Genie granted wish. Dave wished for naps. Genie: 'Done.' Dave napped forever. Sarah: 'My turn.'"
-- **Genre Shift** (#3003) — Start story in one genre. Every 3 sentences, NEXT player shifts genre. "Noir detective..." → "Space opera!" → "Romance!" → "Horror!" → "Cooking show!"
-- **Character Assassination** (#3004) — Create character together. Each adds ONE trait. "Dave: Brave." "Sarah: But terrified of spoons." "Mike: And secretly a spoon." "Jen: Who collects spoons." Result: tragic hero.
-- **Obituary Improv** (#3005) — One player = recently deceased. Others give eulogies. "Dave died doing what he loved: nothing." "He is survived by: 47 hoodies, his dignity (missing), and a gym membership (unused)."
-- **Fake History** (#3006) — Invent historical event. "The Great Hoodie War of 2019." Each adds detail. "Dave led the rebellion." "Sarah negotiated peace." "Mike sold weapons to both sides." "Jen documented it all."
-- **Urban Legend Builder** (#3007) — Start: "They say if you..." Each adds clause. "They say if you say 'Dave's on his way' 3 times in a mirror..." "He appears..." "But he's late..." "And asks for a ride."
-- **Conspiracy Board** (#3008) — Connect random things. "Dave's gym absence" → "Linked to" → "Alien abduction" → "Because" → "He was probing" → "Actually" → "He was napping." Red string everywhere.
-- **Wiki Article: Fake** (#3009) — Write fake Wikipedia entry together. "Dave Smith (born 1990) is a professional napper. Known for: '5 minutes' = 45 minutes. Awards: 'Most Likely to Ghost' (2019-2024)."
-- **Choose Your Own Adventure: Group** (#3010) — One writes scenario. Group votes on choice. "Dave finds a mysterious door." A) Open. B) Nap. C) Call Sarah. Vote. Next writes outcome.
-- **Ghost: Sabotage** (#3042) — Add letter. Don't complete word. One player = Saboteur. TRIES to complete word. Others must avoid helping them.
-- **Categories: Reverse** (#3043) — Category given. Players must give WRONG answers. "Fruit." "Car." "Democracy." "Tuesday." Most creative wrong answer wins.
-- **Charades: Telephone** (#3045) — Actor acts. Next player acts what they SAW. Next acts what THEY saw. Final guesses original. "Tree" → "Person waving" → "Bird" → "Dave?"
+- **Худший супергерой** (#51) — Предложите супергероя с намеренно ужасной способностью («Капитан Мокрая Губка — впитывает 1 чайную ложку воды в час»). Группа выделяет средства на одного из них. Игрок, получивший финансирование, разыгрывает сценку.
+- **Горячая линия плохих советов** (#52) — Звонящий описывает проблему. Каждый игрок дает все худшие советы. Звонящий должен следовать одному из них. Результаты объявляются в следующем раунде.
+- **Поминальная речь по неодушевленному предмету** (#53) — Вытяните предмет (тостер, левый носок). Произнесите драматическую 60-секундную поминальную речь. Побеждает тот, чья речь наиболее трогательна. Остальные высмеивают.
+- **Генератор романтических романов** (#55) — Вытяните 3 карты: персонаж, место действия, препятствие. Напишите аннотацию к роману в одном абзаце. Прочитайте ее драматично. Группа голосует «прочитал бы/сжег бы».
+- **Отзыв на Yelp: Ад** (#56) — Напишите отзыв с 1 звездой об аде, ГИБДД, маминой стряпне. Прочитайте вслух. Побеждает лучший/худший вариант.
+- **Википедия: Фейковая статья** (#57) — Напишите фейковую статью в Википедии о «Великой войне эму 2024 года» и т. д. Добавьте один реальный факт. Остальные должны угадать факт.
+- **Хайку об ужасных вещах** (#58) — Напишите хайку о диарее, налогах, ушибленном пальце ноги. Прочитайте с глубоким волнением.
+- **Письмо с извинениями** (#60) — Напишите извинения за нелепую вещь («Извини, что съел твою бабушку»). Должно звучать искренне. Получатель читает и принимает/отвергает.
+- **Инструкция: Простая задача** (#61) — Напишите инструкцию «как дышать» или «как существовать» с 50 шагами, предупреждениями и устранением неполадок.
+- **Срочные новости: Обыденное** (#62) — Ведущий зачитывает: «Срочно: Местный житель нашел ложку». Репортер берет интервью у ложки. Погода — это настроение человека.
+- **Уведомление об отзыве продукции** (#64) — Напишите об отзыве «Невидимого сэндвича — опасность удушья: воздух». Укажите номера партий и симптомы.
+- **Свадебные клятвы: Незнакомцы** (#65) — Составьте пары случайных игроков. Напишите клятвы для свадьбы по принуждению. Церемония проводится. Остальные резко возражают.
+- **Некролог: Живой человек** (#66) — Напишите трогательный некролог для живого игрока. Его читают. Смеяться нельзя.
+- **Полицейский эскиз: Преступление** (#67) — Опишите «преступление» игрока (украл последнюю картошку фри). Художник рисует. Раскройте. Художник получает очки за точность.
+- **Записка с требованием выкупа** (#68) — Вырежьте письма из журналов. Напишите требование выкупа за нелепую вещь («Верните пульт от телевизора, иначе кошку искупают»).
+- **Отзыв о путешествии: Худший отпуск** (#70) — Отзыв «Поездка на дно биотуалета». 1 звезда. «Не рекомендую, персонал грубый».
+- **Письмо себе в прошлое** (#71) — Напишите ужасный совет себе пятилетней давности. «Продолжай встречаться с Брэдом, он изменится». Читается вслух. **Описание заклинания** (#72) — Придумайте заклинание D&D: «Призвать лёгкое неудобство — шнурки на ботинках цели развязываются один раз в день». Решение принимает мастер подземелий (игрок).
+
+**Запись в справочнике монстров** (#73) — Создайте монстра: «Пассивно-агрессивный сосед по комнате — оставляет записки, HP: 12, AC: вздох». Группа определяет его характеристики.
+**Описание проклятого предмета** (#74) — «Кольцо вечной икоты — владелец икает, когда лжёт». Опишите поиск, историю и задание по снятию.
+**Плохое название книги** (#75) — «Как потерять друзей и оттолкнуть людей, которых никогда не встречал». Напишите аннотацию на задней обложке.
+**Фальшивая пословица** (#76) — «Синица в руке затрудняет набор текста». Группа создаёт 10 пословиц. Проголосуйте за самую глубокомысленную чепуху.
+- **Отказ в приеме** (#78) — Из Хогвартса, Мстителей, местной библиотеки. «Уважаемый [Игрок], с сожалением сообщаем вам…»
+- **Предложение по вербовке в культ** (#79) — 60 секунд на вербовку других в «Культ Левого Носка». Побеждает тот, кто завербует больше всего людей.
+- **Записка для «капсулы времени»** (#80) — Напишите послание будущим археологам с объяснением 2024 года: «Мы наливали жидкость в чашки, а потом пили её. Революционное открытие».
+- **Прогноз погоды: эмоциональный** (#81) — «Сегодня: облачно, возможны приступы экзистенциального ужаса; к вечеру прояснится, но вероятна мелкая зависть».
+- **Объявление о розыске** (#82) — За мелкое правонарушение (например, «переход улицы в неположенном месте с вызывающим видом»). Нарисуйте портрет и укажите «сообщников» (других игроков).
+- **Объявление о пропаже** (#83) — Для потерянной вещи: «Пропал левый наушник AirPods. Последний раз видели в кармане. Награда — один (1) «дай пять»».
+- **Рецепт катастрофы** (#84) — «Как приготовить дружбу: 1 стакан предательства, щепотка соли (буквально), запекать при 200°C до полного обугливания».
+- **Инструкция: как быть взрослым** (#85) — Шаг 1: Поплакать. Шаг 2: Загуглить «как подать налоговую декларацию». Шаг 3: Поплакать ещё сильнее.
+- **Неудачное сообщение** (#86) — Напишите худшее приветствие «доброе утро». Например: «Доброе утро, [не то имя]! Ой, это предназначалось маме».
+- **Голосовое сообщение: «подшофе»** (#87) — Оставьте голосовое сообщение от лица своего персонажа в нетрезвом виде. Остальные должны угадать, кто это.
+- **Надпись на трофее** (#88) — «Самый сносный [имя игрока] в мире». Вручение награды сопровождается торжественной речью.
+- **Предсказание из печенья: циничное** (#89) — «Ты умрёшь в одиночестве. Счастливые числа: 4, 0, 4, ошибка».
+- **Игра «Контакт»** (#401) — Ведущий загадывает слово, остальные угадывают буквы. Если двое или более игроков догадались, они кричат ​​«Контакт!», ведут обратный отсчёт и хором называют слово.
+- **«Призрак» (Ghost): Цепочка слов** (#402) — Добавляйте по букве, стараясь не завершить слово. Если завершили — получаете букву из слова G-H-O-S-T.
+- **Категории: На скорость** (#403) — Выбирается категория. Игроки называют варианты по очереди, на ответ — 3 секунды. Повтор или заминка — выбывание. Побеждает последний оставшийся.
+- **Шарады: Без реквизита** (#405) — Изобразите фильм, книгу или песню без звуков. Команда угадывает. Время ограничено.
+- **20 вопросов: С ложью** (#407) — Загадайте предмет. Отвечайте на вопросы, при этом один раз можно солгать. Задача угадывающих — вычислить ложь.
+- **«Я вижу...»: Абстракция** (#408) — «Я вижу что-то... экзистенциальное». «Сожаление». «Верно».
+- **«Что бы вы выбрали?»: Экстремальный вариант** (#409) — «Сразиться с одной уткой размером с лошадь или со ста утками размером с курицу?» Обсудите и проголосуйте.
+- **«Кто скорее всего...»: Голосование** (#411) — Задается вопрос «Кто скорее всего...». На счет «три-два-один» все указывают на кого-то. Тот, на кого указало большинство, пьет или рассказывает историю.
+- **Паранойя: Шепот** (#412) — Шепотом задайте вопрос. Ответ — имя одного из участников. Подбросьте монетку, чтобы узнать, какой был вопрос.
+- **Худшая команда супергероев** (#541) — Каждый придумывает нелепого супергероя. Объединитесь в команду. Ведущий описывает кризисную ситуацию, которую нужно решить с помощью этих абсурдных способностей. Например: «Капитан Дремота спасает заложников, просто заснув».
+- **Колонка вредных советов** (#542) — Напишите письмо в духе «Дорогой Эбби» с описанием абсурдной проблемы (например: «Мой тостер осуждает мой выбор хлеба»). Остальные предлагают максимально плохие советы. Побеждает автор самого «лучшего» из худших советов.
+- **Надгробная речь: Для живого человека** (#543) — Напишите прощальную речь для одного из игроков и зачитайте её ему в лицо. Задача — не рассмеяться. Побеждает тот, чья речь оказалась самой трогательной или едкой. «Покойный» может ответить.
+- **Презентация стартапа: Резкий разворот (Pivot)** (#544) — Презентуйте заведомо провальную бизнес-идею. В середине пути ведущий меняет условия: «Теперь это проект на блокчейне» или «Теперь это для кошек». Нужно на ходу адаптировать свою презентацию. - **Любовный роман: «Заполни пропуски»** (#545) — Шаблон с пустыми местами. Заполняйте их, не глядя на контекст. Зачитайте получившийся «шедевр». «Он вонзил свой [существительное] в её [существительное]».
+- **Википедия: Вандализм** (#547) — Возьмите реальную статью. Каждый игрок меняет ОДНО предложение. Передавайте текст по кругу. В конце зачитайте финальную версию и проследите за её «эволюцией».
+- **Хайку: «Прожарка»** (#548) — Напишите хайку (слоговая структура 5-7-5), высмеивающее другого игрока. Например: «Линия волос Дэйва / отступает быстрее, / чем его рвение к спортзалу». Читать с абсолютно невозмутимым видом.
+- **Письмо с извинениями: «Псевдоизвинение»** (#550) — «Мне жаль, что у тебя возникли такие чувства, когда я [совершил нечто ужасное]». Используйте типичный корпоративный стиль «извинений без извинений». Побеждает тот, чьё послание больше всего выводит из себя.
+- **Инструкция: Саботаж** (#551) — Напишите инструкцию к простому действию, добавив в неё ОДНУ едва заметную ошибку, из-за которой всё пойдёт прахом. «Шаг 12: Вставьте деталь А в паз Б (при необходимости — с силой)».
+- **Свадебные клятвы: Принудительные** (#555) — Случайным образом объедините игроков в пары. Дайте им 2 минуты на написание клятв, а затем проведите церемонию. Роль ведущего достаётся самому непредсказуемому игроку. Возражения со стороны присутствующих приветствуются.
+- **Некролог: Юмористический** (#556) — «Здесь покоится достоинство Дэйва. Его «наследие»: самообман, 3 незаконченных проекта и комнатное растение, которое он забыл полить».
+- **Полицейский фоторобот: Абстрактный** (#557) — Опишите не внешность игрока, а его «вайб» (атмосферу). Например: «Острые углы. Пахнет дешёвым одеколоном и сожалениями». Художник рисует портрет по описанию. В конце — демонстрация результата.
+- **Письмо самому себе в будущее: «Прожарка»** (#651) — «Дорогой Дэйв из будущего! Всё ещё холостяк? Всё ещё думаешь, что узкие джинсы — это круто? С уважением, Дэйв из прошлого (который умнее и у которого прическа лучше)».
+- **Описание заклинания: Бесполезное** (#562) — «Заговор: Призыв слегка влажного полотенца. Дальность: касание. Длительность: 1 раунд. Компоненты: полотенце, вода, чувство грусти». - **Бестиарий: Обыденное** (#563) — «Сосед по квартире, склонный к пассивной агрессии. ОЗ: 12. КД: 14 (толстокожесть). Атака: "Стикер с напоминанием" (+3 к попаданию, 1d4 урона психической энергией)».
+- **Капсула времени: Ирония** (#570) — «Будущим археологам: этот iPhone принадлежал Дэйву. Обратите внимание на 47 треснувших защитных стёкол — ритуальное подношение богам стекла».
+- **Прогноз погоды: Настроение** (#571) — «Сегодня: Дэйв. Утро: облачно, возможны осадки в виде фразы "ещё 5 минуточек". День: грозы с порывами "сделаю это попозже". Вечер: ясное небо, сопровождаемое заказом еды на дом».
+- **Инструкция: Как быть Дэйвом** (#575) — «Шаг 1: Проснуться поздно. Шаг 2: Запаниковать. Шаг 3: Свалить всё на пробки. Шаг 4: Повторить. Устранение неполадок: если вы пришли вовремя — проверьте, не самозванец ли вы».
+- **Анти-игра** (#985) — Цель: ПРОИГРАТЬ. Постарайтесь проиграть, в то время как остальные будут пытаться заставить вас ВЫИГРАТЬ. «Я пасую!» — «НЕТ! У тебя же роял-флеш! Делай ставку!» — «Я ХОЧУ ПРОИГРАТЬ!» — «С такими картами проиграть невозможно!»
+- **Худшая команда супергероев: Кризис** (#1101) — Придумайте никудышных супергероев. Ведущий описывает кризисную ситуацию, а команда пытается разрешить её с помощью своих нелепых способностей. «Капитан Дрёма решает проблему с заложниками, просто засыпая на месте».
+- **Худшее свидание: Импровизация** (#1136) — Разыграйте сценку худшего свидания, дополняя её деталями по ходу дела. «А потом он достал таблицу...» — «С чем?» — «С рейтингом своих бывших».
+- **Жалоба: По пустякам** (#1138) — Напишите в компанию жалобу по совершенно ничтожному поводу. «Уважаемый Amazon, посылка пришла на 3 минуты раньше. Весь мой график насмарку!»
+- **Разрыв отношений: С неодушевленным предметом** (#1140) — Напишите сообщение о расставании... неодушевленному предмету. «Тостер, дело не в тебе, а во мне. Мне нужен кто-то, кто прожаривает хлеб равномерно».
+- **Аттестация: Друг как сотрудник** (#1141) — Составьте характеристику на друга, будто он ваш подчиненный. «Дэйв: Пунктуальность — 2/10. Качество работы — "у меня всё работает". Командная работа — постоянно "прогуливает" встречи».
+- **Рекомендательное письмо: Шуточное** (#1142) — Напишите рекомендацию для абсурдной должности. «Дэйв — кандидат на позицию "профессионального сони". Рекомендации: подушка, одеяло, будильник (который он игнорирует)».
+- **Баттл с подколами: По пунктам** (#1601) — Объект насмешек: Дэйв. Темы: «Внешность», «Карьера», «Личная жизнь», «Жизненный выбор». По 30 секунд на каждый раунд. Судья — Сара. «Линия роста волос у Дэйва отступает быстрее, чем его пенсионные накопления».
+- **Баттл с подколами: Командный зачет** (#1602) — Участвуют команды по 2 человека, реплики чередуются. «Рубашка Дэйва...» — «...вся мятая...» — «...как и его мечты...» — «...приходить вовремя». Безупречное уничтожение оппонента. - **Roast Battle: Участие зрителей** (#1603) — Зрители подкидывают темы. «Дейв и готовка!», «Дейв за рулем!», «Бывшие Дейва!». В быстром темпе. «Бывшие Дейва — это целая группа психологической поддержки».
+- **Roast Battle: Презентация в PowerPoint** (#1605) — «Роаст» в формате слайдов. «Слайд 1: Хронология плохих решений Дейва». «Слайд 47: Сегодняшний день». Профессиональное уничтожение репутации.
+- **Roast Battle: Мюзикл** (#1606) — «Роаст» в песнях. «Дейв, о Дейв, ну дай же мне ответ / Я схожу с ума / От любви к... ДНЕВНОМУ СНУ». Опера, рэп, баллады — всё в ход.
+- **Roast Battle: Хайку** (#1607) — Строго по схеме 5-7-5. «Линия волос / бежит быстрее, чем ты — / в спортзал на тренировку». Подача с абсолютно невозмутимым лицом.
+- **Roast Battle: Импровизация** (#1608) — Сцена: «Похороны Дейва». Прощальные речи. «Дейв ушел так же, как и жил: опоздав на собственные похороны на 45 минут».
+- **Roast Battle: Церемония награждения** (#1609) — Номинации: «Главное разочарование», «Лучшая отговорка», «Мастер исчезать без предупреждения». Номинант — Дейв. Победитель — Дейв. Речь: «Хочу поблагодарить свою кровать».
+- **Roast Battle: «Интервенция»** (#1610) — «Дейв, нам нужно поговорить». Каждый высказывает претензии: «Дейв, твои "5 минут" — это 45», «Дейв, эта толстовка...», «Дейв, тебе уже 30!». Дейв: «Да всё со мной НОРМАЛЬНО».
+- **Сообщение о разрыве: Предметам** (#1614) — «Тостер, дело не в тебе, а во мне. Мне нужен кто-то, кто поджаривает хлеб равномерно. А ты одну сторону вечно сжигаешь. Больше так не могу». - **Рекомендательное письмо: Вымышленная работа** (#1618) — «Дейв — "профессиональный любитель поспать". Рекомендации: подушка (в восторге), одеяло (поддерживает), будильник (игнорировался 47 раз)».
+- **Резюме: Сплошная ложь** (#1619) — «Дейв: генеральный директор Google (с 2010 года по настоящее время). Навыки: путешествия во времени, телепатия, умение рассмешить Сару. Рекомендации: Бог, Санта-Клаус, Сара (неохотно)».
+- **Спиритический сеанс: Связь с собой из прошлого** (#1628) — «Пытаемся связаться с новогодним обещанием Дейва за 2019 год... "Заниматься спортом каждый день"... Дух: "Он меня уже не помнит". Растворяется в пустоте».
+- **Инструкция: Как быть Дейвом** (#1636) — «Шаг 1: Проснуться поздно. Шаг 2: Запаниковать. Шаг 3: Свалить всё на пробки. Шаг 4: Повторить. Устранение неполадок: если вы пришли вовремя — проверьте, не самозванец ли вы».
+- **Коллективный роман: По одному предложению** (#3001) — Каждый участник пишет ОДНО предложение и передает ход дальше. «Дейв проснулся». «Он оказался тостером». «Сара его съела». «Дейв: "ЧЕГО?!"». Читаем результат вслух.
+- **Игра «Изысканный труп»** (#3002) — Сложите лист бумаги. Напишите 2 предложения. Сверните так, чтобы было видно только последнее, и передайте соседу. Тот продолжает историю. Разворачиваем: «Дейв нашел лампу. Джинн исполнил желание. Дейв пожелал спать. Джинн: "Готово". Дейв уснул навсегда. Сара: "Теперь моя очередь"».
+- **Смена жанра** (#3003) — Начинаем историю в одном жанре. Каждые 3 предложения следующий участник меняет жанр. «Нуарный детектив...» → «Космическая опера!» → «Романтическая история!» → «Ужастик!» → «Кулинарное шоу!»
+- **«Убийство» персонажа** (#3004) — Вместе создаем персонажа. Каждый добавляет ОДНУ черту. «Дейв: храбрый». «Сара: но до смерти боится ложек». «Майк: и сам тайно является ложкой». «Джен: которая коллекционирует ложки». Итог: трагический герой. - **Импровизированный некролог** (#3005) — Один игрок выступает в роли недавно скончавшегося. Остальные произносят надгробные речи. «Дейв умер, занимаясь тем, что любил больше всего: ничегонеделанием». «После него остались: 47 худи, чувство собственного достоинства (утеряно) и абонемент в спортзал (неиспользованный)».
+- **Вымышленная история** (#3006) — Придумайте историческое событие. Например, «Великая война худи 2019 года». Каждый участник добавляет свою деталь: «Дейв возглавил восстание», «Сара договорилась о мире», «Майк продавал оружие обеим сторонам», «Джен всё это задокументировала».
+- **Создание городской легенды** (#3007) — Начало: «Говорят, если...» Каждый участник добавляет новую часть фразы. «Говорят, если трижды произнести перед зеркалом "Дейв уже в пути"...» «Он появляется...» «Но он опаздывает...» «И просит подвезти его».
+- **Доска теорий заговора** (#3008) — Связываем случайные вещи. «Дейв пропустил тренировку» → «Связано с» → «Похищение инопланетянами» → «Потому что» → «Он проводил исследования» → «На самом деле» → «Он просто спал». Везде — красные нити.
+- **Вики-статья: Вымысел** (#3009) — Вместе пишем фальшивую статью для «Википедии». «Дейв Смит (род. 1990) — профессиональный любитель поспать. Известен тем, что его "5 минут" превращаются в 45. Награды: "Мастер исчезновений" (2019–2024 гг.)».
+- **Интерактивная история (выбери свой путь)** (#3010) — Один участник пишет завязку, остальные голосуют за дальнейший ход событий. «Дейв находит таинственную дверь». А) Открыть. Б) Поспать. В) Позвонить Саре. Голосуем. Следующий участник описывает последствия выбора.
+- **Игра «Призрак» (с саботажем)** (#3042) — Добавляем по одной букве, стараясь не завершить слово. Один из игроков — «саботажник»: он ПЫТАЕТСЯ закончить слово, а остальные должны ему помешать.
+- **Категории: Наоборот** (#3043) — Задается категория, а игроки должны давать НЕВЕРНЫЕ ответы. «Фрукт». «Автомобиль». «Демократия». «Вторник». Побеждает тот, кто предложит самый оригинальный «неправильный» ответ.
+- **Испорченный телефон (пантомима)** (#3045) — Первый участник показывает что-то жестами. Второй — изображает то, что УВИДЕЛ. Третий — показывает то, что увидел ОН. Последний участник пытается угадать, что было загадано в самом начале. «Дерево» → «Человек машет рукой» → «Птица» → «Дейв?»
 
 ## Импровизация, голос и музыка (33)
 
-- **Yes And: Sabotage** (#861) — Scene. "Yes and..." but secretly ONE player tries to derail. "Yes and the spaceship is made of cheese." Others adapt.
-- **Freeze Tag: Roast** (#862) — Two start scene. Anyone yells "FREEZE!", taps one out, takes pose, starts NEW scene. Roast previous scene.
-- **Karaoke: Roast** (#881) — Sing song AS player. "Dave sings 'My Way' but lyrics: 'I did it my way (wrong, late, with complaints).'" Best impression wins.
-- **Beatbox: Roast** (#884) — Beatbox player's daily routine. *boots and cats* "Wake up" *boots* "Scroll" *cats* "Nap" *boots and cats* "Regret."
-- **One Room: Argument** (#941) — 3 players. 1 room. 1 topic: "Thermostat." "Dishes." "Dave's noise." Timer: 5 min. Goal: Win argument. Judge: 4th player.
-- **Support Group: Anonymous** (#945) — "Hi, I'm Dave, and I procrastinate." "HI DAVE." Share. "I put 'gym' on calendar 47 times. Went 0." "Me too." Solidarity.
-- **Book Club: Fake** (#946) — Discuss book that doesn't exist. "The themes in 'Dave's Potential' are... tragic." "Character arc: Flat." "Ending: Unwritten."
-- **Roast: Structured** (#949) — Target: "Dave." Roasters: 3 min each. Categories: "Appearance", "Choices", "Vibe." Target: "Thank you. I hate you all." Hug.
-- **Eulogy: Living Roast** (#950) — "Here lies Dave's potential. Born: Optimism. Died: 2019 (gym membership). Survived by: Regret, 3 hoodies, half-eaten protein bar."
-- **Genre Rollercoaster** (#5661) — Scene starts normal. Every 30 sec, director calls genre: "Horror!" "Musical!" "Noir!" "Sci-fi!" Actors adapt instantly.
-- **Emotional Rollercoaster** (#5662) — Scene. Director calls emotions: "Rage!" "Ecstasy!" "Terror!" "Boredom!" Actors must switch instantly.
-- **Status See-Saw** (#5663) — Two players. One high status, one low. Every line must flip status. "I'm the boss!" "Yes, sir!" "No, YOU'RE the boss!"
-- **Gibberish Scene** (#5664) — Players speak nonsense. One "translator" interprets. Translator can lie. "Blah blah" = "I love you" or "I'll kill you."
-- **Silent Scene** (#5665) — No words. Only physicality, facial expressions, sounds. Entire scene in mime. Audience guesses plot.
-- **One Word at a Time** (#5666) — Players build sentence. One word each. "Dave... went... to... the... gym... and... napped." Coherent story?
-- **Two-Headed Expert** (#5667) — Two players = one expert. Answer questions. Must alternate words. "The... capital... of... France... is... Paris." Coherent?
-- **Alphabet Scene** (#5669) — Scene. Each line starts with next letter. A: "Anyone here?" B: "Bring coffee." C: "Can't, busy." ... Z: "Zebras escaped."
-- **Genre Switch** (#5670) — Normal scene. Bell rings → genre changes. "Romance" → "Horror" → "Western" → "Sci-fi". Instant adapt.
-- **Character Swap** (#5671) — Players swap characters mid-scene. "I'm now Dave." "I'm Sarah." Continue scene as new character.
-- **Props as Characters** (#5672) — Random object = character. "This pen is Dave. He's depressed." "This cup is Sarah. She's judgmental."
-- **Narrator** (#5674) — One narrates, others act. Narrator can sabotage. "Dave enters confidently... and trips on air."
-- **Director's Cut** (#5675) — Scene played. Director: "Again, but..." "Faster." "Sadder." "As musical." "In reverse." "With accents."
-- **Rewind** (#5676) — Scene reaches climax. "REWIND!" Play backwards. "FAST FORWARD!" Skip ahead. "PAUSE!" Freeze.
-- **Split Screen** (#5677) — Two scenes simultaneously. Stage left + right. Audience chooses focus. Actors must sustain both.
-- **Time Jump** (#5678) — Scene. Bell: "10 years later!" "10 years earlier!" "Present!" Actors age/de-age instantly.
-- **Inner Monologue** (#5679) — Players act. On "THOUGHTS!", speak inner monologue. "I hate this gift." "She'll never know."
-- **Aside** (#5680) — Player turns to audience. Shares secret. Others freeze. "He doesn't know I'm the killer."
-- **Flashback** (#5681) — Scene. "FLASHBACK!" Different actors play younger versions. Reveal origin of current conflict.
-- **Flashforward** (#5682) — Scene. "FLASHFORWARD!" Show consequences. "10 years later: Dave still hasn't gone to gym."
-- **Musical** (#5684) — Random song breaks. "Dave: *sings* 'I'm going to the gym!' Sarah: *harmonizes* 'You said that yesterday!'"
-- **Freestyle Rap Cypher** (#5766) — Circle. Beat plays. Each 16 bars. "Dave: 'Gym tomorrow.' Sarah: 'Liar.' Mike: 'Burn.' Jen: 'Next.'"
-- **Lyric Change** (#5768) — Known song. Change lyrics to roast player. "Dave to 'Sweet Caroline': 'Sweet Dave-o-line / Ba-da-da / You never go to gym.'"
-- **Genre Swap** (#5770) — Song in wrong genre. "Happy Birthday as death metal." "National anthem as jazz." "Dave's life as opera."
-
-## Рисование (8)
-
-- **Portrait: Roast** (#873) — 30 sec draw player. Reveal. "This is Dave's soul." "Why 3 eyes?" "Third eye sees deadlines."
-- **Collaborative Drawing** (#5711) — One canvas. Each adds 1 line. "Draw a house." Result: abstract chaos. "That's... a house. By Picasso."
-- **Pass the Picture** (#5717) — Draw for 30 sec. Pass. Next continues. "Dave starts house. Sarah adds... spaceship. Mike adds... dragon."
-- **Draw & Fold** (#5718) — Draw top half. Fold. Pass. Draw bottom. Unfold. "Dave's head on spider body. Sarah's legs on toaster."
-- **Collaborative Monster** (#5733) — Each adds body part. "Head: Dave. Arms: Sarah. Legs: Mike. Tail: Jen." Chimera.
-- **Exquisite Corpse: Themes** (#5738) — Theme: "Dave's life." Head: "Alarm clock." Torso: "Couch." Legs: "Gym bag (unused)." Feet: "Chips."
-- **Portrait Swap** (#5739) — Draw each other. Simultaneously. Reveal. "You drew me BEAUTIFUL." "You drew me as a potato."
-- **Caricature** (#5741) — Exaggerate ONE feature. "Dave's hairline." "Sarah's glasses." "Mike's chaos aura." Roast via art.
+- **«Да, и...» (с саботажем)** (#861) — Разыгрываем сценку, используя принцип «Да, и...», но один из участников тайно пытается разрушить сюжет. «Да, и космический корабль сделан из сыра». Остальные должны подстроиться под это условие. - **«Замри!» (Freeze Tag): Прожарка** (#862) — Сцена начинается с двух участников. Любой может крикнуть «ЗАМРИ!», коснуться одного из актеров, занять его позу и начать НОВУЮ сцену. Предыдущая сцена подвергается «прожарке» (ироничному высмеиванию).
+- **Караоке: Прожарка** (#881) — Исполнение песни от лица другого участника. Например: «Дэйв поет "My Way", но текст такой: "Я всё сделал по-своему (неправильно, с опозданием и кучей жалоб)"». Побеждает тот, кто сделает самую удачную пародию.
+- **Битбокс: Прожарка** (#884) — Битбокс-описание повседневной рутины одного из участников. *Бум-ца-ца* — «Проснулся», *бум* — «Листаю ленту», *ца-ца* — «Вздремнул», *бум-ца-ца* — «Жалею о прожитом дне».
+- **Одна комната: Спор** (#941) — 3 участника, 1 комната, 1 тема (например: «Термостат», «Грязная посуда» или «Шум, который создает Дэйв»). Таймер: 5 минут. Цель — победить в споре. Судья — 4-й участник.
+- **Группа поддержки: Анонимные...** (#945) — «Привет, я Дэйв, и я постоянно всё откладываю на потом». «ПРИВЕТ, ДЭЙВ». Участники делятся своими историями: «Я 47 раз вносил "спортзал" в календарь. Был там 0 раз». «И я тоже». Проявление солидарности.
+- **Книжный клуб: Выдуманная книга** (#946) — Обсуждение книги, которой не существует. «Темы в книге "Потенциал Дэйва" — просто... трагические». «Развитие персонажа: плоское». «Финал: не написан».
+- **Прожарка: Структурированная** (#949) — Объект — «Дэйв». Участники по очереди «прожаривают» его (по 3 минуты на каждого). Категории: «Внешний вид», «Принятые решения», «Общее впечатление». В конце объект говорит: «Спасибо. Ненавижу вас всех». Объятия.
+- **Надгробная речь: Прожарка при жизни** (#950) — «Здесь покоится потенциал Дэйва. Родился: в атмосфере оптимизма. Умер: в 2019 году (вместе с абонементом в спортзал). Оставил после себя: сожаления, 3 худи и надкусанный протеиновый батончик».
+- **Жанровые американские горки** (#5661) — Сцена начинается в обычном, реалистичном ключе. Каждые 30 секунд режиссёр называет жанр: «Ужасы!», «Мюзикл!», «Нуар!», «Научная фантастика!». Актёры должны мгновенно подстроиться.
+- **Эмоциональные качели** (#5662) — Сцена. Режиссёр называет эмоции: «Ярость!», «Экстаз!», «Ужас!», «Скука!». Актёры должны мгновенно переключаться.
+- **Смена статуса** (#5663) — Два игрока. У одного высокий статус, у другого — низкий. Каждая реплика должна менять статус на противоположный. «Я здесь начальник!» «Слушаюсь, сэр!» «Нет, это ТЫ начальник!»
+- **Бессвязная сцена** (#5664) — Игроки говорят на выдуманном языке (абракадаброй). Один участник выступает в роли «переводчика» и интерпретирует сказанное — причём может делать это как угодно, даже лгать. Например, фраза «бла-бла» может означать «я тебя люблю» или «я тебя убью».
+- **Немая сцена** (#5665) — Без слов. Только пластика, мимика и звуки. Вся сцена разыгрывается в жанре пантомимы, а зрители должны угадать сюжет.
+- **По одному слову** (#5666) — Игроки выстраивают предложение, произнося по одному слову по очереди. Например: «Дейв... пошел... в... спортзал... и... уснул». Получится ли связная история?
+- **Двухголовый эксперт** (#5667) — Два игрока изображают одного эксперта, отвечающего на вопросы. Они должны произносить слова по очереди. Например: «Столица... Франции... — ...Париж». Удастся ли сохранить логику?
+- **Алфавитная сцена** (#5669) — Сцена, в которой каждая следующая реплика начинается со следующей буквы алфавита. А: «Здесь кто-нибудь есть?» Б: «Принеси кофе». В: «Не могу, занят»... Я: «Зебры сбежали».
+- **Смена жанра** (#5670) — Разыгрывается обычная сцена. По сигналу (например, звонку) жанр меняется: «романтика» → «ужасы» → «вестерн» → «научная фантастика». Нужно мгновенно перестроиться.
+- **Смена персонажей** (#5671) — В середине сцены игроки меняются ролями. «Теперь я — Дейв». «А я — Сара». Сцена продолжается, но игроки уже в новых образах.
+- **Предметы как персонажи** (#5672) — Случайный предмет становится персонажем. «Эта ручка — Дейв, он в депрессии». «Эта чашка — Сара, она всех осуждает».
+- **Рассказчик** (#5674) — Один участник выступает в роли рассказчика, а остальные — актёры. Рассказчик может намеренно усложнять жизнь героям: «Дейв уверенно входит в комнату... и спотыкается на ровном месте».
+- **Режиссёрская версия** (#5675) — Сцена разыгрывается, а затем режиссёр даёт указания: «Ещё раз, но... быстрее», «грустнее», «как в мюзикле», «в обратном порядке» или «с акцентом». - **Перемотка** (#5676) — Сцена достигает кульминации. Команда «Перемотка!» — действие идет в обратном порядке. «Ускоренная перемотка!» — перенос вперед по времени. «Пауза!» — всё замирает.
+- **Разделенный экран** (#5677) — Две сцены одновременно: слева и справа на сцене. Зрители сами выбирают, за чем следить, а актеры должны поддерживать обе линии.
+- **Скачок во времени** (#5678) — Сцена. По сигналу (например, звонку) звучит команда: «10 лет спустя!», «10 лет назад!» или «Настоящее время!». Актеры мгновенно меняют свой возраст.
+- **Внутренний монолог** (#5679) — Актеры играют сцену. По команде «Мысли!» они озвучивают то, что у персонажей на уме: «Ненавижу этот подарок», «Она никогда не узнает».
+- **Реплика в сторону** (#5680) — Актер обращается к зрителям, делясь секретом, пока остальные замирают: «Он даже не догадывается, что убийца — это я».
+- **Флешбэк** (#5681) — Сцена. По команде «Флешбэк!» другие актеры играют более молодых персонажей, раскрывая истоки текущего конфликта.
+- **Флешфорвард** (#5682) — Сцена. По команде «Флешфорвард!» показываются последствия: «10 лет спустя: Дэйв так и не дошел до спортзала».
+- **Мюзикл** (#5684) — В действие внезапно врывается песня. Дэйв поет: «Я иду в спортзал!», а Сара подхватывает: «Ты то же самое вчера говорил!»
+- **Фристайл-рэп-сайфер** (#5766) — Участники встают в круг под бит. Каждый читает рэп по 16 тактов: «Дэйв: "Завтра в зал". Сара: "Врешь". Майк: "Жестко". Джен: "Следующий!"»
+- **Изменение текста песни** (#5768) — Берется известная песня, но текст меняется, чтобы подшутить над одним из участников. Например, на мотив «Sweet Caroline»: «О, Дэйв-о-лайн... ты в спортзал так и не дошел».
+- **Смена жанра** (#5770) — Песня исполняется в неожиданном жанре: «С днем ​​рождения» в стиле дэт-метал, гимн — в джазовой обработке, или жизнь Дэйва — в формате оперы. ## Рисование (8)
+- **Портрет: «Прожарка»** (#873) — Рисуем друг друга за 30 секунд. Показываем результат. «Это душа Дэйва». «Почему три глаза?» «Третий глаз видит дедлайны».
+- **Совместное рисование** (#5711) — Один холст на всех. Каждый добавляет по одной линии. «Рисуем дом». Итог: абстрактный хаос. «Ну... это дом. В стиле Пикассо».
+- **Эстафета рисунков** (#5717) — Рисуем 30 секунд, затем передаем лист дальше. Следующий участник продолжает. «Дэйв начинает рисовать дом. Сара добавляет... космический корабль. Майк пририсовывает... дракона».
+- **Рисуем и сворачиваем** (#5718) — Рисуем верхнюю часть, сворачиваем лист, передаем дальше. Следующий рисует нижнюю часть. Разворачиваем. «Голова Дэйва на теле паука. Ноги Сары — на тостере».
+- **Коллективный монстр** (#5733) — Каждый добавляет часть тела. «Голова — Дэйв, руки — Сара, ноги — Майк, хвост — Джен». Получается химера.
+- **«Изысканный труп»: Тематический** (#5738) — Тема: «Жизнь Дэйва». Голова — «будильник», туловище — «диван», ноги — «спортивная сумка (неиспользованная)», ступни — «чипсы».
+- **Обмен портретами** (#5739) — Рисуем друг друга одновременно. Показываем результат. «Ты нарисовал меня КРАСИВЫМ!» «А ты изобразил меня в виде картофелины».
+- **Карикатура** (#5741) — Гиперболизируем ОДНУ черту. «Линия роста волос у Дэйва», «очки Сары», «аура хаоса вокруг Майка». Ироничный шарж средствами искусства.
 
 ## Физика и саботаж (основа для ragdoll-игры) (25)
 
-- **Bad Waiter** (#27) — Carry tray of terrible drinks (water+soy sauce, etc.) through obstacle course. Others shout wrong directions. Drinker must finish.
-- **Human Knot: Sabotage** (#31) — Form knot. One player secretly told "don't let it untangle". They subtly resist. Group must identify saboteur.
-- **Balloon Pop Butt** (#35) — Balloons tied to ankles. Pop others' while protecting yours. Last balloon wins. Can form alliances then betray.
-- **Human Chair** (#40) — Players form circle, sit on each other's laps simultaneously. One chair removed each round. Betrayal = push neighbor.
-- **Toilet Paper Bride** (#46) — Teams make wedding dress from TP. Model walks runway. Judge = player who didn't participate. Sabotage allowed.
-- **Red Light Green Light: Liar** (#526) — Caller says "Green" but means "Red" sometimes. Players must guess intent. Wrong = out.
-- **Mother May I: Sabotage** (#527) — "Mother" grants/denies steps. Can grant weird steps: "3 hops backward while clapping". Players can appeal to "Father" (other player).
-- **20 Questions: Answerer Lies** (#532) — Answerer thinks of thing. Can lie up to 3 times. Questioners track lies. Guess thing.
-- **Flashlight Tag: Roles** (#1054) — Dark. Roles: "It" (flashlight), "Hiders", "Decoys" (wear reflective), "Traitor" (helps It).
-- **Human Knot: Saboteur** (#1071) — Form knot. One secret saboteur. They subtly resist untangling. Group identifies saboteur.
-- **Human Chair: Elimination** (#1077) — Circle sit on laps. One chair removed. Betrayal = push neighbor. Last sitting wins.
-- **Toilet Paper Bride: Sabotage** (#1083) — Teams make TP dress. Model walks. Judge = non-participant. Sabotage allowed. "Oops, scissors."
-- **Limbo: Sabotage** (#1090) — Bar lowers. Players pass. Saboteur shakes bar. "Earthquake!" *bar wobbles* "You touched!"
-- **Sack Race: Obstacles** (#1094) — Hop in sacks. Obstacles: cones, tunnels, "lava" (tape). Can push others. "Accidental collision."
-- **Tug of War: Traitor** (#1095) — Teams pull. One player per team = Traitor. Pulls WRONG way. Team feels resistance. "Why so heavy?"
-- **Floor is Lava: Furniture** (#1553) — Furniture = safe zones. Move room to room. "Lava rises" = remove furniture. Push others. "That couch was MINE."
-- **Red Light Green Light: Simon** (#1557) — Simon says "Green/Red" but lies. "Green!" *runs* "RED!" *stops* "I said Green!" "You said Red!" "SIMON SAYS RED!"
-- **20 Questions: Answerer Gaslights** (#1563) — Answerer lies strategically. "Is it alive?" "No." "Is it object?" "Yes." "Animal?" "No." "Plant?" "No." "Rock?" "Yes." "Dave?" "YES."
-- **Human Knot: Silent** (#1571) — Form knot. NO TALKING. Untangle. One saboteur. "Dave keeps pulling WRONG way." "Dave, stop!" *Dave pulls harder*
-- **Balloon Pop: Secret Missions** (#1572) — Balloons on ankles. Missions inside: "Pop Sarah's", "Protect Mike", "Sacrifice self". Pop = read mission. "My mission: POP DAVE. Sorry Dave."
-- **Mummy Wrap: Saboteur** (#1573) — Teams wrap. One saboteur per team. "Wrap tighter!" *loosens* "Why falling apart?" "Saboteur!" "Who?" "IDK but wrap LOOSER."
-- **Human Chair: Musical** (#1577) — Music plays. Sit on laps. Music stops = chair removed. "Dave pushed Sarah!" "Gravity pushed her!" "Dave, you're OUT."
-- **Toilet Paper Bride: Catwalk** (#1583) — TP dress. Catwalk. Judge = audience. Sabotage: "Trip her." "Cut dress." "Dave's dress: 3 ply. Sarah's: 1 ply (sabotaged)."
-- **Sack Race: Sabotage** (#1594) — Sacks. Obstacles. Can push. "Accidental push." *Dave falls* "Oops, my sack slipped." "Dave's sack: slippery (sabotaged)."
-- **Tug of War: Traitor Rope** (#1595) — Rope has weak point. Traitor knows. "PULL! *SNAP* Team flies back." "Traitor cut rope!" "I didn't! Rope was DEFECTIVE."
+- **Плохой официант** (#27) — Пронести поднос с ужасными напитками (вода + соевый соус и т. д.) через полосу препятствий. Другие кричат неверные указания. Тот, кто выпил, должен допить.
+- **Человеческий узел: Саботаж** (#31) — Сформировать узел. Одному игроку тайно говорят: «Не дай ему распутаться». Он незаметно сопротивляется. Группа должна определить саботажника.
+- **Лопание воздушных шариков** (#35) — Воздушные шарики привязаны к лодыжкам. Лопайте шарики других, защищая свои. Последний шарик побеждает. Можно заключать союзы, а затем предавать.
+- **Человеческий стул** (#40) — Игроки образуют круг, одновременно садятся друг другу на колени. В каждом раунде убирается один стул. Предательство = толкнуть соседа.
+- **Невеста из туалетной бумаги** (#46) — Команды делают свадебное платье из туалетной бумаги. Модель дефилирует по подиуму. Судья = игрок, который не участвовал. Саботаж разрешен.
+- **Красный свет, Зеленый свет: Лжец** (#526) — Ведущий говорит «Зеленый», но иногда имеет в виду «Красный». Игроки должны угадать намерение. Неверно = выбывает.
+- **Мать, можно?: Саботаж** (#527) — «Мать» дает/отказывает в шагах. Может дать странные шаги: «3 прыжка назад с хлопками». Игроки могут обратиться к «Отцу» (другому игроку).
+- **20 вопросов: Отвечающий лжет** (#532) — Отвечающий думает о чем-то. Может солгать до 3 раз. Задающие вопросы отслеживают ложь. Угадайте что-нибудь.
+- **Фонарик-догонялки: Роли** (#1054) — Темная. Роли: «Оно» (фонарик), «Прячущиеся», «Подставные» (носят светоотражающую одежду), «Предатель» (помогает Оно).
+- **Человеческий узел: Саботажник** (#1071) — Сформируйте узел. Один тайный саботажник. Они незаметно сопротивляются раскрытию загадки. Группа идентифицирует саботажника.
+- **Человеческий стул: Исключение** (#1077) — Круг садится на колени. Один стул убирается. Предательство = толкнуть соседа. Побеждает тот, кто сядет последним.
+- **Невеста из туалетной бумаги: Саботаж** (#1083) — Команды создают платье из туалетной бумаги. Модель выходит на «подиум». Судья — сторонний человек. Саботаж разрешён. «Ой, ножницы!»
+- **Лимбо: Саботаж** (#1090) — Планка опускается, игроки проходят под ней. Саботажник трясёт планку. «Землетрясение!» *планка шатается* «Ты задел!»
+- **Бег в мешках: Препятствия** (#1094) — Прыжки в мешках. На пути — конусы, тоннели, «лава» (обозначенная лентой). Можно толкать соперников. «Случайное столкновение».
+- **Перетягивание каната: Предатель** (#1095) — Команды тянут канат. В каждой команде есть предатель, который тянет в НЕВЕРНУЮ сторону. Команда чувствует сопротивление: «Почему так тяжело?»
+- **Пол — это лава: Мебель** (#1553) — Мебель служит «безопасной зоной». Игроки перемещаются из комнаты в комнату. «Лава поднимается» — мебель убирают. Можно толкать других: «Этот диван был МОИМ!»
+- **Тише едешь — дальше будешь: «Саймон»** (#1557) — Ведущий («Саймон») командует «Зелёный» или «Красный», но намеренно лжёт. «Зелёный!» *все бегут* «КРАСНЫЙ!» *все замирают* «Я же сказал — зелёный!» «Ты сказал — красный!» «САЙМОН СКАЗАЛ — КРАСНЫЙ!»
+- **«20 вопросов»: Лживый отвечающий** (#1563) — Отвечающий намеренно вводит всех в заблуждение. «Это живое?» — «Нет». «Это предмет?» — «Да». «Животное?» — «Нет». «Растение?» — «Нет». «Камень?» — «Да». «Дэйв?» — «ДА!»
+- **«Живой узел»: Без слов** (#1571) — Игроки запутываются в «узел». Разговаривать ЗАПРЕЩЕНО. Нужно распутаться. Один из участников — саботажник. «Дэйв всё время тянет НЕ ТУДА!» «Дэйв, прекрати!» *Дэйв тянет ещё сильнее*
+- **Лопни шарик: Секретные миссии** (#1572) — К лодыжкам привязаны воздушные шары. Внутри — задания: «Лопни шар Сары», «Защити Майка», «Пожертвуй собой». Если шар лопнул — читай задание. «Моя миссия: ЛОПНУТЬ ШАР ДЭЙВА. Прости, Дэйв!» - **Мумия: Саботаж** (#1573) — Команды соревнуются в «пеленании». В каждой — по одному саботажнику. «Мотайте туже!» *ослабляет* «Почему всё разваливается?» «Саботажник!» «Кто?» «Не знаю, но мотайте СЛАБЕЕ».
+- **Живые стулья: Музыкальная игра** (#1577) — Звучит музыка, участники садятся друг другу на колени. Музыка смолкает — «стул» убирают. «Дейв толкнул Сару!» «Это гравитация!» «Дейв, ты ВЫБЫЛ».
+- **Невеста из туалетной бумаги: Дефиле** (#1583) — Платья из туалетной бумаги. Подиум. Судьи — зрители. Саботаж: «Подставь подножку», «Разрежь платье». «У Дейва — трёхслойная бумага, у Сары — однослойная (подстроено)».
+- **Бег в мешках: Саботаж** (#1594) — Мешки, препятствия, разрешено толкаться. «Случайный толчок». *Дейв падает* «Ой, мешок соскользнул». «Мешок Дейва — скользкий (подстроено)».
+- **Перетягивание каната: Предательский канат** (#1595) — На канате есть слабое место, о котором знает предатель. «ТЯНИТЕ! *ХРУСТЬ* — команда летит назад». «Предатель перерезал канат!» «Я не при чём! Канат был БРАКОВАННЫМ».
 
 ## Доверие и дилеммы (теория игр) (10)
 
-- **The Trust Game** (#851) — Pair up. Share secret. Other can: Keep, Share with group, Use against you. Reveal choices. Discuss.
-- **Prisoner's Dilemma: Party** (#852) — Pair. Secret: Cooperate/Betray. Both C = both win small. Both B = both lose. One C one B = B wins big, C loses big.
-- **Public Goods: Group** (#855) — Each puts 0-10 in pot. Pot doubled. Split equally. Free rider problem. Repeat. Discuss cooperation.
-- **Beauty Contest: Keynesian** (#856) — Pick number 0-100. Winner = closest to 2/3 average. Iterate reasoning. "I think they think I think..."
-- **Volunteer's Dilemma** (#858) — One must volunteer (cost 5). All benefit (10). If none volunteer, all get 0. Who sacrifices? Repeat.
-- **War of Attrition** (#859) — Bid time (0-100). Higher wins prize (100). Both pay bid. Longest wins. Escalation. "I'll wait longer."
-- **Stag Hunt** (#5611) — Two hunters. Stag = high reward (need both). Hare = low reward (solo). Trust vs safety. Play repeatedly.
-- **Chicken Game** (#5612) — Two drivers. Swerve = lose face. Straight = crash. Who blinks? Play with social stakes.
-- **Centipede Game** (#5613) — Pass = small reward now. Continue = potential bigger later. But other can take at any point. Backwards induction.
-- **Guess 2/3 Average** (#5614) — Pick 0-100. Closest to 2/3 mean wins. Level-k thinking. "Everyone picks 50 → 33 → 22 → 15 → 10 → 7 → 5 → 3 → 2 → 1 → 0."
+- **Игра в доверие** (#851) — Участники разбиваются на пары. Один делится секретом. Второй может: сохранить его в тайне, рассказать группе или использовать против первого. Затем раскрываются сделанные выборы. Обсуждение.
+- **Дилемма заключенного: Вечеринка** (#852) — Участники в парах выбирают: «сотрудничать» или «предать». Если оба сотрудничают — оба получают небольшой выигрыш. Если оба предают — оба проигрывают. Если один сотрудничает, а другой предает — предатель получает крупный выигрыш, а сотрудничавший — крупный проигрыш.
+- **Общественные блага** (#855) — Каждый вносит в общий фонд от 0 до 10 единиц. Сумма удваивается и делится поровну между всеми. Возникает проблема «безбилетника». Игра повторяется. Обсуждение стратегий сотрудничества.
+- **Кейнсианский «конкурс красоты»** (#856) — Нужно выбрать число от 0 до 100. Побеждает тот, чье число ближе всего к 2/3 от среднего значения всех выбранных чисел. Требует многоуровневых размышлений: «Я думаю, что они думают, что я думаю...»
+- **Дилемма добровольца** (#858) — Кто-то один должен стать добровольцем (затраты — 5), чтобы все получили выгоду (10). Если никто не вызовется — все получают 0. Кто пойдет на жертву? Игра повторяется.
+- **Война на истощение** (#859) — Участники делают ставки в единицах времени (от 0 до 100). Побеждает тот, кто поставил больше; он получает приз (100), но оба участника теряют столько времени, сколько поставили. Эскалация: «Я подожду дольше».
+- **Охота на оленя** (#5611) — Двое охотников. Олень — крупная добыча (нужны оба), заяц — мелкая (можно поймать в одиночку). Выбор между доверием и безопасностью. Игра повторяется.
+- **Игра «Трус» (Chicken Game)** (#5612) — Двое водителей. Свернуть в сторону — значит «потерять лицо». Ехать прямо — риск столкновения. Кто первым «моргнет» (свернет)? Игра с учетом социальных ставок.
+- **Игра «Сороконожка»** (#5613) — На каждом шагу можно забрать небольшой выигрыш или продолжить игру ради потенциально большего приза. Однако другой участник может завершить игру в любой момент и забрать всё. Применяется метод обратной индукции.
+- **Угадай 2/3 среднего** (#5614) — Выбор числа от 0 до 100. Побеждает тот, кто ближе всего к 2/3 от среднего значения всех чисел. Пример мышления уровня k (level-k thinking). «Каждый выбирает 50 → 33 → 22 → 15 → 10 → 7 → 5 → 3 → 2 → 1 → 0».
 
-## Мета-механики (фичи, а не отдельные игры) (5)
+## Мета-механики (фичи, а не игры) (5)
 
-- **Rule Maker** (#802) — Start with no rules. Each round, add ONE rule. Rules cannot be removed. Game emerges. "Rule 1: Speak in rhyme." "Rule 2: Dave drinks on 'the'." Chaos.
-- **Game Within Game** (#804) — Play a game. But secretly, each player has a "meta-objective": "Lose gracefully", "Make Dave win", "Say 'banana' 7 times."
-- **Game Show: Rigged** (#808) — Host runs trivia/physical/creative challenges. But host is BIASED. "Dave gets easy questions. Sarah gets 'Name every element.'"
-- **Reputation System** (#965) — Track: "Reliability", "Chaos", "Generosity", "Roast Ability." Affects games. "Low Reliability = goes last in draft." "High Chaos = wildcard."
-- **Inventory: Persistent** (#966) — Items carry over. "Dave's Hoodie (+1 Comfort, -1 Dignity)." "Sarah's Planner (+2 Organization)." "Mike's Guitar (+3 Charm)." Trade.
+- **Создатель правил** (#802) — Начните без правил. Каждый раунд добавляйте ОДНО правило. Правила не могут быть удалены. Игра появляется. «Правило 1: Говорите в рифму». «Правило 2: Дэйв пьет в ресторане». Хаос.
+- **Игра в игре** (#804) — Сыграйте в игру. Но по секрету у каждого игрока есть «мета-цель»: «Проиграть изящно», «Пусть Дэйв выиграет», «Сказать «банан» 7 раз».
+- **Игровое шоу: Rigged** (#808) — Ведущий проводит викторины, физические и творческие задания. Но хост ПРЕДСТАВЛЕН. «Дейву задаются простые вопросы. Саре — «Назови каждый элемент».
+- **Система репутации** (#965) — Трек: «Надежность», «Хаос», «Щедрость», «Способность жарить». Влияет на игры. «Низкая надежность = идет последним в проекте». «Высокий хаос = подстановочный знак».
+- **Инвентарь: постоянный** (#966) — Предметы переносятся. «Толстовка Дэйва (+1 Комфорт, -1 Достоинство)». «Планировщик Сары (+2 Организация)». «Гитара Майка (+3 очарования)». Торговля.
 
 ## Пул ролей для режима со скрытыми ролями (36)
 
-Это классические роли из Мафии и Оборотня. Сами по себе они не оригинальны, но пригодятся как набор для режима с ролями.
+Это классические ролики из Мафии и Оборотня. Сами по себе они не оригинальны, но пригодятся как набор для режима с ролями.
 
-- **Hydra** (#1501) — Two players share ONE role. They must agree on every action. Disagreement = both die. "We're the Seer." "No, WE'RE the Seer." "Okay, who do we check?" "Dave." "Sarah." "FIGHT."
-- **Schrödinger's Role** (#1502) — Role card in box. Player doesn't know role until they OPEN it (once per game). Until opened, they're ALL roles simultaneously. "I might be Werewolf. I might be Villager. I'll act like both."
-- **Doppelganger** (#1504) — Views another's card, BECOMES that role. Original KEEPS role. Two of same role now exist. "There are TWO Seers." "One is fake." "Both claim real."
-- **Cursed** (#1505) — Starts Villager. If attacked by Werewolf, BECOMES Werewolf. Doesn't know until next night. "I survived! Wait... why do I want to howl?"
-- **Hunter** (#1506) — When dies, shoots someone. Dies with them. "I'm shot! *shoots Dave* Take that with you." Dave: "I was Villager!" "NOW WE BOTH DEAD."
-- **Mayor** (#1508) — Vote counts as 2. Reveals at any time. "I'm Mayor! My vote counts double!" *reveals* Werewolves: "Kill Mayor." Villagers: "Protect Mayor."
-- **Prince** (#1509) — Forces one player to discard hand, draw new. "Dave, discard." Dave: "I had Princess!" "Too bad. Draw." Dave draws Princess. "WHY."
-- **King** (#1510) — Gets first pick of roles. "I choose... Werewolf." *takes Werewolf card* "Wait, I'm Werewolf now." Other Werewolves: "New guy."
-- **Assassin** (#1511) — Night: kills one. Day: if voted out, kills voter. "Vote me? *kills voter*" High risk, high reward.
-- **Bodyguard** (#1512) — Chooses one to protect. If attacked, dies instead. "I protect Sarah." *attack on Sarah* "I die. Sarah lives. Worth it."
-- **Doctor** (#1513) — Saves one per night. Can save self ONCE. "I save Dave." *Dave attacked* "Dave lives." Next night: "I save myself." *attacked* "I live. No more saves."
-- **Seer** (#1514) — Views one card per night. "Dave is... Villager." "Sarah is... WEREWOLF." Must convince without revealing.
-- **Medium** (#1515) — Talks to dead. Dead give ONE clue per night. "Dave says: 'Sarah killed me.'" Sarah: "Dave's lying! He's dead!"
-- **Jester** (#1516) — WANTS to be voted out. Wins if executed. Plays suspiciously. "I'm Werewolf! Vote me!" Villagers: "Trap." Werewolves: "Free kill?"
-- **Minion** (#1518) — Knows Werewolves. Werewolves DON'T know Minion. Helps wolves without coordination. "I'll vote for Seer." Wolves: "Who IS that?"
-- **Mason** (#1519) — Two Masons know each other. Villagers. "We're Masons. Trust us." Others: "Prove it." "We... know each other?" "CONVINCING."
-- **Insomniac** (#1520) — Wakes up END of night. Sees what happened. "So THAT'S who moved my card." Info advantage, no action.
-- **Revealer** (#1521) — Once per game, reveals ONE player's role to ALL. "Sarah is WEREWOLF." Sarah: "NO!" Group: "Oh."
-- **Switch** (#1522) — Swaps TWO players' roles. "Dave, you're now Seer. Sarah, you're Villager." Chaos. "Wait, I was Werewolf!"
-- **Troublemaker** (#1523) — Swaps two OTHER players' cards. Doesn't look. "I swapped... someone. Good luck."
-- **Robber** (#1524) — Steals one player's role, gives them Robber. "I'm Seer now. You're Robber." Victim: "I WAS SEER."
-- **Drunk** (#1525) — Swaps own card with center card. Doesn't look. "I'm... something else now. Hope it's good."
-- **Dream Wolf** (#1526) — Not wolf. Wakes with wolves. Thinks is wolf. Wolves don't know Dream Wolf. "I'm wolf! *howls*" Real wolves: "Who?"
-- **Mystic Wolf** (#1527) — Wolf + Seer. Views one card. "Sarah is Villager. Dave is Seer. I tell pack: 'Dave is Seer.'"
-- **Alpha Wolf** (#1528) — Chooses pack. Pack = wolves. Alpha's word = law. Beta can challenge. "Pack, kill Dave." Beta: "I CHALLENGE."
-- **Cultist** (#1530) — Recruited by Leader. Knows Leader. Wins with Cult. "Leader said recruit Dave." "Okay. Dave, welcome."
-- **Godfather** (#1540) — Appears innocent to Seer. Chooses kill. Can order self-hit. "Seer checks me: 'Villager'." *orders hit on self* "Frame complete."
-- **Consigliere** (#1541) — Advises Godfather. Sees exact roles. "Godfather, Seer is Dave." Godfather: "Kill Dave."
-- **Framer** (#1542) — Frames one as Mafia. "Seer checks Dave: 'Mafia'." Dave: "I'm Villager!" Seer: "My Seer says Mafia."
-- **Janitor** (#1543) — Cleans kill. Role hidden. "Dave dead. Role: ???" "Janitor cleaned it." Info denial.
-- **Disguiser** (#1544) — Takes dead player's role. "Dave dead. I'm now Dave (Seer)." "Wait, Dave is Seer? But Dave died." "I'm Dave now."
-- **Hypnotist** (#1545) — Plants false memory. "You REMEMBER: Dave is Mafia." Victim: "I... remember that. Dave is Mafia."
-- **Blackmailer** (#1546) — Forces vote. "Vote Dave or I reveal your secret." "My secret: I'm Seer." "VOTE DAVE."
-- **Spy** (#1547) — Bugs one player. Hears their night action. "Dave visited Sarah." "Dave is Doctor? Or Werewolf?"
-- **Agent** (#1548) — Chooses target. If target dies, Agent wins. "My target: Dave." *protects Dave aggressively* "Dave MUST live."
-- **Survivor** (#1549) — Wins if alive at end. No team. "I just want to live." Both sides: "Survivor, help us." Survivor: "Who pays more?"
+- **Гидра** (#1501) — Два игрока делят ОДНУ роль. Они должны согласовывать каждое действие. Несогласие = оба умрут. «Мы — Провидцы». «Нет, МЫ Провидцы». — Хорошо, кого мы проверим? «Дэйв». "Сара." "ДРАТЬСЯ."
+- **Роль Шрёдингера** (#1502) — Карта роли лежит в коробке. Игрок не знает, какая ему досталась роль, пока не ОТКРОЕТ её (сделать это можно один раз за игру). До момента открытия игрок одновременно является ВСЕМИ ролями сразу. «Может, я оборотень? А может, мирный житель? Буду вести себя как и те, и другие».
+- **Двойник** (#1504) — Подсматривает карту другого игрока и ПРИНИМАЕТ его роль. При этом исходный владелец карты СОХРАНЯЕТ свою роль. В итоге в игре появляются два персонажа с одной и той же ролью. «У нас теперь ДВА провидца». «Один из них — самозванец». «Оба утверждают, что они настоящие».
+- **Проклятый** (#1505) — Начинает игру как мирный житель. Если на него нападает оборотень, он сам СТАНОВИТСЯ оборотнем. Узнаёт об этом только следующей ночью. «Я выжил! Постойте... почему мне хочется выть?»
+- **Охотник** (#1506) — В момент своей гибели делает выстрел по любому другому игроку, который тоже погибает. «Меня подстрелили! *стреляет в Дэйва* Забирай это с собой!» Дэйв: «Да я же мирный житель!» «НУ ВОТ, ТЕПЕРЬ МЫ ОБА МЕРТВЫ».
+- **Мэр** (#1508) — Его голос считается за два. Может раскрыть свою роль в любой момент. «Я — Мэр! Мой голос засчитывается как два!» *раскрывает карту*. Оборотни: «Убить Мэра». Жители: «Защитить Мэра».
+- **Принц** (#1509) — Заставляет одного игрока сбросить все карты с руки и взять новые. «Дэйв, сбрасывай». Дэйв: «У меня была Принцесса!» «Ничего не поделаешь. Тяни новые». Дэйв тянет карту — снова Принцесса. «ДА ПОЧЕМУ?!»
+- **Король** (#1510) — Выбирает роль первым. «Я выбираю... Оборотня». *берет карту Оборотня*. «Стоп, теперь я — Оборотень». Другие Оборотни: «Новенький».
+- **Убийца** (#1511) — Ночью: убивает одного игрока. Днем: если его изгоняют голосованием, он убивает того, кто проголосовал против него. «Голосуете против меня? *убивает проголосовавшего*». Высокий риск — высокая награда.
+- **Телохранитель** (#1512) — Выбирает игрока для защиты. Если того атакуют, телохранитель погибает вместо него. «Я защищаю Сару». *нападение на Сару*. «Я погибаю, Сара выживает. Оно того стоило».
+- **Доктор** (#1513) — Спасает одного игрока за ночь. Себя может спасти только ОДИН раз. «Спасаю Дэйва». *нападение на Дэйва*. «Дэйв жив». Следующая ночь: «Спасаю себя». *нападение*. «Я жив. Больше спасать себя нельзя».
+- **Провидец** (#1514) — Каждую ночь смотрит одну карту. «Дэйв — ...Житель». «Сара — ...ОБОРОТЕНЬ». Нужно убедить остальных, не раскрывая свою роль.
+- **Медиум** (#1515) — Общается с мертвыми. Мертвые могут дать ОДНУ подсказку за ночь. «Дэйв говорит: "Меня убила Сара"». Сара: «Дэйв врет! Он же мертв!»
+- **Шут** (#1516) — ХОЧЕТ, чтобы за его изгнание проголосовали. Побеждает, если его казнят. Ведет себя подозрительно. «Я — Оборотень! Голосуйте против меня!» Жители: «Ловушка». Оборотни: «Бесплатное убийство?» - **Прислужник** (#1518) — Знает, кто такие оборотни. Оборотни НЕ знают, кто такой Прислужник. Помогает волкам, не имея с ними связи. «Я проголосую против Провидца». Волки: «Это еще кто?»
+- **Масон** (#1519) — Два Масона знают друг друга. Оба — мирные жители. «Мы — Масоны. Доверьтесь нам». Остальные: «Докажите». «Мы... ну, знаем друг друга?» «ОЧЕНЬ УБЕДИТЕЛЬНО».
+- **Бессонный** (#1520) — Просыпается в КОНЦЕ ночи. Видит, что произошло. «А-а, так вот кто переложил мою карту». Получает информацию, но не совершает никаких действий.
+- **Разоблачитель** (#1521) — Один раз за игру раскрывает роль ОДНОГО игрока всем остальным. «Сара — ОБОРОТЕНЬ». Сара: «НЕТ!» Группа: «Ого».
+- **Подменщик** (#1522) — Меняет местами роли ДВУХ игроков. «Дэйв, теперь ты — Провидец. Сара, ты — мирный житель». Хаос. «Погодите, я же был оборотнем!»
+- **Смутьян** (#1523) — Меняет местами карты двух ДРУГИХ игроков. Не подглядывает. «Я поменял... кого-то. Удачи».
+- **Вор** (#1524) — Крадет роль у другого игрока, отдавая ему свою карту Вора. «Теперь я — Провидец. А ты — Вор». Жертва: «Я БЫЛ Провидцем!»
+- **Пьяница** (#1525) — Меняет свою карту на одну из карт в центре стола. Не подглядывает. «Теперь я... кто-то другой. Надеюсь, роль хорошая».
+- **Волк-сновидец** (#1526) — Не является оборотнем, но просыпается вместе с ними и считает себя одним из них. Сами оборотни не знают, кто такой Волк-сновидец. «Я — волк! *воет*». Настоящие волки: «Это еще кто?»
+- **Мистический волк** (#1527) — Оборотень, обладающий способностями Провидца. Может посмотреть одну карту. «Сара — мирный житель. Дэйв — провидец. Говорю стае: "Дэйв — провидец"».
+- **Альфа-волк** (#1528) — Возглавляет стаю (волков). Слово Альфы — закон. Бета может бросить вызов. «Стая, убейте Дэйва». Бета: «БРОСАЮ ВЫЗОВ».
+- **Культист** (#1530) — Вербуется лидером культа; знает, кто лидер. Побеждает вместе с культом. «Лидер приказал завербовать Дэйва». «Хорошо. Дэйв, добро пожаловать».
+- **Крестный отец** (#1540) — Для провидца выглядит как мирный житель. Выбирает цель для убийства; может приказать убить самого себя. «Провидец проверяет меня: "Мирный житель"». *отдает приказ убить себя* «Подстава готова».
+- **Консильери** (#1541) — Советник Крестного отца; видит точные роли игроков. «Крестный отец, провидец — это Дэйв». Крестный отец: «Убить Дэйва».
+- **Подставщик** (#1542) — Подставляет игрока, делая так, что он кажется мафиози. «Провидец проверяет Дэйва: "Мафия"». Дэйв: «Я мирный житель!» Провидец: «Моя проверка говорит — мафия».
+- **Уборщик** (#1543) — «Убирает» следы убийства, скрывая роль жертвы. «Дэйв мертв. Роль: ???» «Уборщик постарался». Лишение информации.
+- **Маскировщик** (#1544) — Принимает роль убитого игрока. «Дэйв мертв. Теперь я — Дэйв (провидец)». «Постойте, Дэйв — провидец? Но он же умер». «Теперь я — Дэйв».
+- **Гипнотизер** (#1545) — Внушает ложное воспоминание. «Ты ПОМНИШЬ: Дэйв — мафиози». Жертва: «Я... помню это. Дэйв — мафиози».
+- **Шантажист** (#1546) — Принуждает к голосованию. «Голосуй против Дэйва, иначе я раскрою твой секрет». «Мой секрет: я — провидец». «ГОЛОСУЙ ПРОТИВ ДЭЙВА».
+- **Шпион** (#1547) — Устанавливает «жучок» на игрока; узнает, какое действие тот совершил ночью. «Дейв навестил Сару». «Дейв — доктор? Или оборотень?»
+- **Агент** (#1548) — Выбирает цель. Если цель погибает, Агент побеждает. «Моя цель — Дейв». *Агрессивно защищает Дейва.* «Дейв ДОЛЖЕН выжить».
+- **Выживший** (#1549) — Побеждает, если остаётся в живых к концу игры. Не принадлежит ни к одной из команд. «Я просто хочу выжить». Обе стороны: «Выживший, помоги нам!» Выживший: «А кто больше заплатит?»
