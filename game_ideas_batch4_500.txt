@@ -1,0 +1,521 @@
+BATCH 4: 500 GAME IDEAS FOR 3-10 PLAYERS (FOCUS: TROLLING ALLIES, SIMPLE RULES, MEMORABLE MOMENTS)
+
+=== SOCIAL DEDUCTION: ROLE MADNESS ===
+1501. "Hydra" - Two players share ONE role. They must agree on every action. Disagreement = both die. "We're the Seer." "No, WE'RE the Seer." "Okay, who do we check?" "Dave." "Sarah." "FIGHT."
+1502. "Schrödinger's Role" - Role card in box. Player doesn't know role until they OPEN it (once per game). Until opened, they're ALL roles simultaneously. "I might be Werewolf. I might be Villager. I'll act like both."
+1503. "Amnesiac" - Wakes up, views ONE role card, becomes that role. But card might be FAKE. "I saw Werewolf! I'm Werewolf!" *actually Villager* "Why did I just eat Sarah?"
+1504. "Doppelganger" - Views another's card, BECOMES that role. Original KEEPS role. Two of same role now exist. "There are TWO Seers." "One is fake." "Both claim real."
+1505. "Cursed" - Starts Villager. If attacked by Werewolf, BECOMES Werewolf. Doesn't know until next night. "I survived! Wait... why do I want to howl?"
+1506. "Hunter" - When dies, shoots someone. Dies with them. "I'm shot! *shoots Dave* Take that with you." Dave: "I was Villager!" "NOW WE BOTH DEAD."
+1507. "Cupid" - Night 1: chooses TWO lovers. Lovers win together OR die together. One Werewolf, one Villager = tragedy. "I love you but also I must eat you."
+1508. "Mayor" - Vote counts as 2. Reveals at any time. "I'm Mayor! My vote counts double!" *reveals* Werewolves: "Kill Mayor." Villagers: "Protect Mayor."
+1509. "Prince" - Forces one player to discard hand, draw new. "Dave, discard." Dave: "I had Princess!" "Too bad. Draw." Dave draws Princess. "WHY."
+1510. "King" - Gets first pick of roles. "I choose... Werewolf." *takes Werewolf card* "Wait, I'm Werewolf now." Other Werewolves: "New guy."
+1511. "Assassin" - Night: kills one. Day: if voted out, kills voter. "Vote me? *kills voter*" High risk, high reward.
+1512. "Bodyguard" - Chooses one to protect. If attacked, dies instead. "I protect Sarah." *attack on Sarah* "I die. Sarah lives. Worth it."
+1513. "Doctor" - Saves one per night. Can save self ONCE. "I save Dave." *Dave attacked* "Dave lives." Next night: "I save myself." *attacked* "I live. No more saves."
+1514. "Seer" - Views one card per night. "Dave is... Villager." "Sarah is... WEREWOLF." Must convince without revealing.
+1515. "Medium" - Talks to dead. Dead give ONE clue per night. "Dave says: 'Sarah killed me.'" Sarah: "Dave's lying! He's dead!"
+1516. "Jester" - WANTS to be voted out. Wins if executed. Plays suspiciously. "I'm Werewolf! Vote me!" Villagers: "Trap." Werewolves: "Free kill?"
+1517. "Tanner" - WANTS to die. Wins if killed. Not by vote - by night kill. "Werewolves, EAT ME." Werewolves: "Why is he BEGGING?"
+1518. "Minion" - Knows Werewolves. Werewolves DON'T know Minion. Helps wolves without coordination. "I'll vote for Seer." Wolves: "Who IS that?"
+1519. "Mason" - Two Masons know each other. Villagers. "We're Masons. Trust us." Others: "Prove it." "We... know each other?" "CONVINCING."
+1520. "Insomniac" - Wakes up END of night. Sees what happened. "So THAT'S who moved my card." Info advantage, no action.
+1521. "Revealer" - Once per game, reveals ONE player's role to ALL. "Sarah is WEREWOLF." Sarah: "NO!" Group: "Oh."
+1522. "Switch" - Swaps TWO players' roles. "Dave, you're now Seer. Sarah, you're Villager." Chaos. "Wait, I was Werewolf!"
+1523. "Troublemaker" - Swaps two OTHER players' cards. Doesn't look. "I swapped... someone. Good luck."
+1524. "Robber" - Steals one player's role, gives them Robber. "I'm Seer now. You're Robber." Victim: "I WAS SEER."
+1525. "Drunk" - Swaps own card with center card. Doesn't look. "I'm... something else now. Hope it's good."
+1526. "Dream Wolf" - Not wolf. Wakes with wolves. Thinks is wolf. Wolves don't know Dream Wolf. "I'm wolf! *howls*" Real wolves: "Who?"
+1527. "Mystic Wolf" - Wolf + Seer. Views one card. "Sarah is Villager. Dave is Seer. I tell pack: 'Dave is Seer.'"
+1528. "Alpha Wolf" - Chooses pack. Pack = wolves. Alpha's word = law. Beta can challenge. "Pack, kill Dave." Beta: "I CHALLENGE."
+1529. "Cult Leader" - Recruits nightly. Recruited = Cult. Leader wins if majority. Leader dies = cult dissolves. "Join us. We have cookies."
+1530. "Cultist" - Recruited by Leader. Knows Leader. Wins with Cult. "Leader said recruit Dave." "Okay. Dave, welcome."
+1531. "Vampire" - Infects nightly. Infected = Vampire. Original Vampire = Sire. Sire/Childe bond. "I infect Sarah." Sarah: "I'm Vampire now."
+1532. "Sire" - Original Vampire. Creates Childe. Childe knows Sire. Sire doesn't know Childe actions. "Childe, kill Dave." Childe: "Okay."
+1533. "Childe" - Created by Sire. Knows Sire. Shared win. "Sire said kill Dave." *kills Dave* Sire: "I didn't say that!" Childe: "You did in my dream."
+1534. "Renfield" - Helps Vampires. Knows Vampires. Vampires don't know Renfield. "I'll frame Dave." Vampires: "Who's helping?"
+1535. "Hunter (Vampire)" - Kills Vampires. Doesn't know who. "I hunt... Dave." Dave: "I'm Villager!" "Dead Villager. Oops."
+1536. "Assassin (Vampire)" - Kills one per night. Vampire or Villager. "I kill... Sarah." Sarah: "I was Vampire." "Lucky."
+1537. "Prince (Vampire)" - Forces discard/draw. "Dave, new card." Dave: "I was Vampire!" "Now you're Villager." Dave: "WHAT."
+1538. "King (Vampire)" - First pick. "I choose Vampire." *takes Vampire* "I'm Sire now." Other Vampires: "New Sire."
+1539. "Mayor (Vampire)" - Vote counts double. "I'm Mayor. Vote Dave." Village: "Wait, Mayor is Vampire?" "TOO LATE."
+1540. "Godfather" - Appears innocent to Seer. Chooses kill. Can order self-hit. "Seer checks me: 'Villager'." *orders hit on self* "Frame complete."
+1541. "Consigliere" - Advises Godfather. Sees exact roles. "Godfather, Seer is Dave." Godfather: "Kill Dave."
+1542. "Framer" - Frames one as Mafia. "Seer checks Dave: 'Mafia'." Dave: "I'm Villager!" Seer: "My Seer says Mafia."
+1543. "Janitor" - Cleans kill. Role hidden. "Dave dead. Role: ???" "Janitor cleaned it." Info denial.
+1544. "Disguiser" - Takes dead player's role. "Dave dead. I'm now Dave (Seer)." "Wait, Dave is Seer? But Dave died." "I'm Dave now."
+1545. "Hypnotist" - Plants false memory. "You REMEMBER: Dave is Mafia." Victim: "I... remember that. Dave is Mafia."
+1546. "Blackmailer" - Forces vote. "Vote Dave or I reveal your secret." "My secret: I'm Seer." "VOTE DAVE."
+1547. "Spy" - Bugs one player. Hears their night action. "Dave visited Sarah." "Dave is Doctor? Or Werewolf?"
+1548. "Agent" - Chooses target. If target dies, Agent wins. "My target: Dave." *protects Dave aggressively* "Dave MUST live."
+1549. "Survivor" - Wins if alive at end. No team. "I just want to live." Both sides: "Survivor, help us." Survivor: "Who pays more?"
+1550. "Amnesiac (Vampire)" - Wakes, views role, becomes it. "I saw Vampire! I'm Vampire!" *actually Villager* "Why do I crave blood?"
+
+=== PHYSICAL: CHAOS EDITION ===
+1551. "Human Tetris" - Players = tetrominoes. Fit into "lines" (doorways, hallway). Complete line = line clears (those players sit out). Rotate shapes.
+1552. "Blindfolded Maze" - Maze of chairs/tables. One blindfolded. Team guides. Saboteur gives wrong directions. "Left! NO RIGHT! LEFT! WALL!"
+1553. "Floor is Lava: Furniture" - Furniture = safe zones. Move room to room. "Lava rises" = remove furniture. Push others. "That couch was MINE."
+1554. "Sardines: Reverse" - ONE seeker, MANY hiders. Seeker finds hider -> joins hiding spot. Last finder loses. Hiders can BETRAY location.
+1555. "Flashlight Tag: Vampires" - Dark. Flashlight = sunlight. "Vampires" burn in light. Humans have flashlight. Vampires hunt in dark. "Light! *hiss*"
+1556. "Statues: Night Museum" - Guard has flashlight. Statues move in dark. Freeze in light. Guard catches movement = out. "I SAW YOU BLINK."
+1557. "Red Light Green Light: Simon" - Simon says "Green/Red" but lies. "Green!" *runs* "RED!" *stops* "I said Green!" "You said Red!" "SIMON SAYS RED!"
+1558. "Mother May I: Democracy" - Group votes on each step request. "Dave asks: 3 steps forward." Vote. Majority = allowed. "DENIED. Dave stays."
+1559. "Simon Says: Gaslight Pro" - Simon: "Simon says touch nose." *touches* "Simon says jump." *jumps* "Touch ear." *touches* "I NEVER SAID SIMON SAYS." "YOU DID." "PROVE IT."
+1560. "Telephone: Draw & Whisper" - Whisper phrase -> draw -> whisper -> draw. "Dave is cool" -> 🎨 -> "Dumpster fire" -> 🎨 -> "Dave's soul."
+1561. "Charades: Reverse Chaos" - Guesser acts. Team gives CLUES. "You're a... toaster?" "No, divorce." "Divorce toaster?" "ACT THE DIVORCE."
+1562. "Pictionary: Blindfolded Team" - Drawer sees word. Team blindfolded. Drawer guides THEIR hands. "Move MY hand? No, YOUR hand. Draw circle. NO."
+1563. "20 Questions: Answerer Gaslights" - Answerer lies strategically. "Is it alive?" "No." "Is it object?" "Yes." "Animal?" "No." "Plant?" "No." "Rock?" "Yes." "Dave?" "YES."
+1564. "I Spy: Meta" - "I spy something... that starts with 'gaslighting'." "Dave's personality?" "Correct." "I spy something... that represents trust." "Nothing." "Correct."
+1565. "Would You Rather: Forced Debate" - Vote split. Minority MUST defend. "Fight 1 horse-sized duck." Minority: "Duck has HOLLOW BONES. Easy." Group: "DUCK BILL CRUSHES SKULL."
+1566. "Never Have I Ever: Evidence" - "Never have I ever stolen." Finger down. "Prove it." "I stole Dave's fries." "EVIDENCE ACCEPTED." "I stole... a glance at Sarah." "WEAK."
+1567. "Most Likely To: Betting" - Bet chips on vote outcome. "5 chips on Dave." Reveal votes. Correct bet = double. "I KNEW Dave would win 'Most Likely to Cry at Movies'."
+1568. "Paranoia: Whisper Chain Pro" - Whisper question. Answer names person. THAT person asks NEW question to NEXT. Chain. Final question PUBLIC. "Who farted?" -> "Dave" -> "Who lied?" -> "Sarah" -> PUBLIC: "Who farted?" "DAVE."
+1569. "Mafia: No Cards App" - Phones = roles. Vibrate = night action. Day: timed discussion. Vote on phone. Instant results. "Dave's phone buzzed. He's Mafia."
+1570. "Werewolf: Legacy Scars" - Campaign. Scars from attacks. "Dave has 'Bitten' scar. +1 suspicion." Village upgrades. "Built watchtower. Seer gets +1 check."
+1571. "Human Knot: Silent" - Form knot. NO TALKING. Untangle. One saboteur. "Dave keeps pulling WRONG way." "Dave, stop!" *Dave pulls harder*
+1572. "Balloon Pop: Secret Missions" - Balloons on ankles. Missions inside: "Pop Sarah's", "Protect Mike", "Sacrifice self". Pop = read mission. "My mission: POP DAVE. Sorry Dave."
+1573. "Mummy Wrap: Saboteur" - Teams wrap. One saboteur per team. "Wrap tighter!" *loosens* "Why falling apart?" "Saboteur!" "Who?" "IDK but wrap LOOSER."
+1574. "Cookie Face: Wind Tunnel" - Cookie on forehead. Fans blow. "Natural wind." *fan on high* "MY FACE IS MELTING." First to eat wins.
+1575. "Spoon Race: Obstacle Course" - Raw egg. Obstacles: chairs, tunnels, "lava". Can bump. "ACCIDENTAL elbow." *egg flies* "Oops."
+1576. "Blindfolded Drawing: Exquisite Corpse" - Blindfolded draws HEAD. Pass. Next draws BODY. Pass. LEGS. Final reveal. "Dave's head, Sarah's body, Mike's legs."
+1577. "Human Chair: Musical" - Music plays. Sit on laps. Music stops = chair removed. "Dave pushed Sarah!" "Gravity pushed her!" "Dave, you're OUT."
+1578. "Nose Pencil: Relay" - Pencil on string. Team relay. "Dave puts in bottle. Pass to Sarah. Sarah puts in bottle." Hip movements only.
+1579. "Cheese Puff Face: Sniper" - Thrower = sniper. Face = target. "Headshot = 10 pts. Mouth = 50 pts." Shaving cream face. "OPEN YOUR MOUTH."
+1580. "Saran Wrap Ball: Timer" - Ball unwrapped. Timer = 30 sec per turn. Dice passes. "UNWRAP FASTER." *tears ball* "PRIZE FELL OUT."
+1581. "Pickle Juice Pong: Death Cup" - One cup = "Death Cup" (pure pickle juice + hot sauce). Hit = drink. "I AIM FOR DEATH CUP." *misses* "Dave hits it. Dave dies."
+1582. "Blindfolded Haircut: Audience" - Audience gives instructions. "Left ear... NO RIGHT EAR... Oops too late." Reveal. "Dave has ONE EAR NOW."
+1583. "Toilet Paper Bride: Catwalk" - TP dress. Catwalk. Judge = audience. Sabotage: "Trip her." "Cut dress." "Dave's dress: 3 ply. Sarah's: 1 ply (sabotaged)."
+1584. "Donut on String: Height Control" - String controlled by opponents. "Higher!" *munch* "Lower!" *miss* "Spin!" *dizzy* "Eat it!"
+1585. "Wet Sponge: Target Practice" - Squeeze on TARGETS (players). "Dave: 10 pts. Sarah: 20 pts. Mike: 50 pts (hard mode)." Wet chaos.
+1586. "Face Cookie: No Hands Ever" - Cookie on forehead. NO HANDS ALWAYS. Fall = eat off floor. "Dave's cookie fell. 5-second rule." *eats* "Floor cookie."
+1587. "Human Bowling: Blind Bowler" - Bowler blindfolded. Team shouts directions. "LEFT! RIGHT! STRAIGHT! *crash* PINS DOWN." "STRIKE! (hit Dave)"
+1588. "Twister: Command Cards" - Cards: "Right hand on Dave's knee." "Left foot on Sarah's back." "Head on Mike's lap." Chaos pile.
+1589. "Musical Chairs: Traitor Chairs" - Chairs have traits: "Explodes", "Sticks", "Screams". Sit = trigger. "Dave sits. *BOOM* Chair explodes (confetti)."
+1590. "Limbo: Earthquake" - Bar lowers. Saboteur shakes. "Earthquake!" *bar wobbles* "You touched!" "EARTHQUAKE!" "Excuses."
+1591. "Egg Toss: Hot Potato" - Toss egg. Music stops = holder gets egg smashed on head. "HOT POTATO! *toss* *catch* *music stops* *SMASH*"
+1592. "Three-Legged: Musical Partners" - Tied pairs. Music stops = SWITCH PARTNERS. Untie, retie. "Dave tied to Sarah. SWITCH. Dave tied to Mike. SWITCH."
+1593. "Wheelbarrow: Cargo Fragile" - Cargo = water balloon, egg, phone. Deliver intact. "Dave drops phone." "PHONE CARGO! 500 PTS LOST."
+1594. "Sack Race: Sabotage" - Sacks. Obstacles. Can push. "Accidental push." *Dave falls* "Oops, my sack slipped." "Dave's sack: slippery (sabotaged)."
+1595. "Tug of War: Traitor Rope" - Rope has weak point. Traitor knows. "PULL! *SNAP* Team flies back." "Traitor cut rope!" "I didn't! Rope was DEFECTIVE."
+1596. "Relay: Baton = Weird" - Baton = raw egg, phone, shoe, banana. "Pass the BANANA." *banana squishes* "New baton: shoe."
+1597. "Obstacle Course: Blind + Saboteur" - Blindfolded runner. Team guides. Saboteur misleads. "Left... RIGHT... LAVA... JUMP!" *runner jumps into bush*
+1598. "Capture Flag: Personal Items" - Flags = "Dave's phone", "Sarah's keys", "Mike's wallet". Steal = own it. "I HAVE DAVE'S PHONE. Ransom: 1 hug."
+1599. "Manhunt: Fake GPS" - Hiders share location... fake. "I'm at oak tree." *at pine* Seekers: "GPS says oak." "GPS LIES."
+1600. "Sardines: Personal Hiding" - Hider = Dave. Hides in WEIRD spot (dryer, cabinet, under bed). Seekers find. Join. "Dave in dryer. Best game. Napped 20 min."
+
+=== WORD/CREATIVE: ROAST BATTLE ===
+1601. "Roast Battle: Structured" - Target: Dave. Rounds: "Appearance", "Career", "Love Life", "Choices". 30 sec each. Judge = Sarah. "Dave's hairline: receding faster than his 401k."
+1602. "Roast Battle: Tag Team" - Teams of 2. Alternate lines. "Dave's shirt-" "Is wrinkled-" "Like his dreams-" "Of being on time." Seamless destruction.
+1603. "Roast Battle: Audience Participation" - Audience throws topics. "Dave's cooking!" "Dave's driving!" "Dave's EXES!" Rapid fire. "Dave's exes: a support group."
+1604. "Roast Battle: Props" - Use props. "Dave's gym membership" *holds up dusty card* "Expiration: 2019. Never used. Like Dave's potential."
+1605. "Roast Battle: PowerPoint" - Present roast as slides. "Slide 1: Dave's Timeline of Bad Decisions." "Slide 47: Today." Professional destruction.
+1606. "Roast Battle: Musical" - Roast in song. "Dave, Dave, give me your answer do / I'm half crazy / all for the love of NAPPING." Opera/rap/ballad.
+1607. "Roast Battle: Haiku" - 5-7-5 only. "Dave's hairline flees / faster than his motivation / to hit the gym." Deadpan delivery.
+1608. "Roast Battle: Improv" - Scene: "Dave's funeral." Eulogies. "Dave died as he lived: 45 minutes late to his own funeral."
+1609. "Roast Battle: Awards Show" - Categories: "Biggest Disappointment", "Best Excuse", "Most Likely to Ghost". Nominees: Dave. Winner: Dave. Speech: "I'd like to thank my bed."
+1610. "Roast Battle: Intervention" - "Dave, we need to talk." Each shares concern. "Dave, your '5 minutes' = 45." "Dave, the hoodie." "Dave, you're 30." Dave: "I'm FINE."
+1611. "Eulogy: Living Roast" - "Here lies Dave's potential. Born: 1990. Died: 2019 (gym membership). Survived by: Regret, 3 hoodies, half-eaten protein bar."
+1612. "Obituary: Funny" - "Dave 'The Procrastinator' Smith. Cause of death: 'I'll do it tomorrow.' Services: Never scheduled. In lieu of flowers: finish ONE thing."
+1613. "Wedding Vows: Forced" - Random pair. 2 min write. "Dave, I promise to love you until my gym membership expires (never)." "Sarah, I vow to stop stealing your fries (lie)."
+1614. "Breakup Text: To Objects" - "Toaster, it's not you. It's me. I need someone who toasts evenly. You burn one side. I can't do this anymore."
+1615. "Love Letter: To Hated Things" - "Dear Traffic, you complete me. Without you, I'd arrive on time. Disgusting. Yours, Dave."
+1616. "Complaint Letter: Petty" - "Dear Amazon, package arrived 3 minutes EARLY. Ruined my entire schedule. I was NOT ready. Refund my TIME."
+1617. "Performance Review: Friend" - "Dave: Punctuality 2/10. Quality: 'It works on my machine.' Teamwork: Ghosts meetings. Communication: Memes only. Overall: 'Dave.'"
+1618. "Reference Letter: Fake Job" - "Dave for 'Professional Napper'. References: His pillow (enthusiastic), blanket (supportive), alarm clock (ignored 47 times)."
+1619. "Resume: Lie Everything" - "Dave: CEO of Google (2010-present). Skills: Time travel, telepathy, making Sarah laugh. References: God, Santa, Sarah (reluctant)."
+1620. "Tinder Bio: Honest" - "Dave, 30. Hobbies: Napping, ignoring texts, buying gym clothes. Looking for: Someone to carry me to the gym. Literally."
+1621. "Horoscope: Personal Attack" - "Virgo (Dave): Mercury in retrograde (always). Jupiter in your 12th house of 'unread messages'. Lucky number: 0. Avoid: Responsibility."
+1622. "Tarot: Personal" - "The Dave (Reversed): Missed deadlines, lost keys, 'I swear I put it here.' Upright: RARE. 4 AM productivity miracle."
+1623. "Palmistry: Personal" - "Dave's lifeline: Short. Distraction line: DEEP. Procrastination mount: Prominent. Marriage line: 'Ask your mom.'"
+1624. "Fortune Cookie: Cynical" - "Dave: You will find $5. Spend on coffee. Spill on shirt. Buy new shirt. Forget receipt. Return denied. Universe: 1, Dave: 0."
+1625. "Magic 8 Ball: Biased" - "Dave, will I finish this? 'Outlook hazy (like your memory). Ask again when sober (focused). Signs point to lol.'"
+1626. "Ouija: Personal" - "Contacting Dave's motivation... D-A-V-E... I-T... L-E-F-T... 2-0-1-5... N-E-V-E-R... R-E-T-U-R-N-I-N-G."
+1627. "Spirit Box: Radio" - "Static: 'Daaaave... the laundrrrry... it's been thrrrreee daaays... daaaaave...'"
+1628. "Seance: Contact Past Self" - "Contacting Dave's 2019 Resolution... 'Exercise daily'... Spirit: 'He doesn't remember me.' Fades into void."
+1629. "Exorcism: Personal" - "DEMON OF PROCRASTINATION, LEAVE DAVE! *sprinkles LaCroix* THE POWER OF DEADLINES COMPELS YOU! *Dave naps*"
+1630. "Cult Recruitment: Personal" - "Join Cult of Dave's Left Sock. Meet Tuesdays. Sacrifice: matching pairs. Scripture: 'Where is the other one?'"
+1631. "Time Capsule: Roast" - "To archaeologists: This iPhone belonged to Dave. Note 47 cracked screen protectors. Ritual offering to Glass Gods."
+1632. "Weather Forecast: Mood" - "Today: Dave. Morning: Cloudy with '5 more minutes'. Afternoon: Thunderstorms of 'I'll do it later'. Evening: Clear skies of takeout."
+1633. "Wanted Poster: Personal" - "WANTED: Dave. Crimes: Against fashion. Against punctuality. Against leftovers. Reward: His AirPods (left one works)."
+1634. "Missing Person: Personal" - "MISSING: Dave's motivation. Last seen: Jan 1. Description: Small, fragile, distracted by phone. Reward: One completed task."
+1635. "Recipe: Disaster" - "Dave's Famous Chili: 1 can beans, 1 packet taco seasoning, 3 secret ingredients (ketchup, hope, regret). Simmer 5 min. Serve with shame."
+1636. "Instruction Manual: How to Dave" - "Step 1: Wake up late. Step 2: Panic. Step 3: Blame traffic. Step 4: Repeat. Troubleshooting: If on time, check for imposter."
+1637. "Worst Date Story: Improv" - Act out. "And he pulled out a spreadsheet." "Of what?" "His exes' ratings. Sarah: 7/10 'Good listener.' Mike: 3/10 'Too chaotic.'"
+1638. "Excuse Generator" - Draw situation. "Late to wedding." Dave: "My cat needed emotional support." Sarah: "Aliens abducted my shoes." Best/worst wins.
+1639. "Fake Facts: Personal" - "Dave has 3 nipples. Dave met Tom Cruise. Dave can't snap." Dave bets on fake. "I MET TOM CRUISE. He smelled like sandalwood."
+1640. "Wikipedia Vandalism" - Start real article. Each changes ONE sentence. "Dave Smith (born 1990) is a professional napper. Known for: ignoring texts, hoodie collection."
+1641. "Acronym: Personal" - D.A.V.E. = "Disappoints All Vaguely Expected." S.A.R.A.H. = "Systematically Annihilates Ridiculous Arguments, Honey."
+1642. "Movie Plot: Personal" - "Dave's life: 'The 40-Year-Old Intern.' Starring Danny DeVito. Plot: Man discovers '5 minutes' = 45. Climax: arrives on time. Twist: imposter."
+1643. "Song Rewrite: Personal" - "Dave, Dave, give me your answer do / I'm half crazy / all for the love of TACOS." Perform dramatically.
+1644. "Celebrity Lookalike" - "Dave = Ryan Gosling if he aged 20 years, loved Warhammer, and hadn't slept since 2015."
+1645. "History: Personal" - "In 2019, Dave invented the left sock. Before that, people wore only rights. Nobel committee: 'Rejected. Too revolutionary.'"
+1646. "Science: Personal" - "Dave's blood type: RAG+ (Rage). Mitochondria produce anxiety not ATP. Published in 'Journal of Dave' (impact factor: 0)."
+1647. "Geography: Personal" - "Dave's apartment: Capital of Messistan. Exports: Dishes, regret. Imports: Takeout, Amazon. Climate: Seasonal depression."
+1648. "Brand Slogan: Personal" - "Dave: Just Do It (Tomorrow). Sarah: Think Different (About Leaving). Mike: I'm Lovin' It (My Couch)."
+1649. "News Headline: Personal" - "Local Man Dave Discovers Fridge Light Stays On. 'I Feel Betrayed.' Police Investigating. Fridge: 'I've been watching.'"
+1650. "Video Game: Personal" - "Dave Simulator 2024: Press F to Pay Respects to Productivity. DLC: 'Gym Membership' (unusable). Microtransactions: 'Motivation' ($49.99)."
+
+=== STRATEGY: VOTING CHAOS ===
+1651. "Kingmaker: Assassination" - King names successor. Vote to assassinate. 3 dead successors = King dies. "Successor 1: DEAD. Successor 2: DEAD. Successor 3: Dave. King: 'I choose... myself.'"
+1652. "Survivor: Fake Idols" - Plant fake idols. "This ROCK is idol. Swear on my life." Someone believes. Plays rock. "That's a rock." "IT'S AN IDOL ROCK."
+1653. "Dictator: Coup Mechanics" - Dictator rules. Secret coup vote. Success = new Dictator. Fail = punish. "Coup vote: 4-3. COUP SUCCESS. Sarah is Dictator. Dave: 'I VOTED LOYAL.'"
+1654. "Popularity: Seesaw" - Vote Most/Least popular. Winner = power. Loser = target. Next round REVERSE. "Dave: Most popular (power). Sarah: Least (target). ROUND 2: REVERSE."
+1655. "Jury Duty: Frivolous Suits" - "Dave sued for 'Emotional distress from laughter.' Sarah: lawyer. Mike: lawyer. Jury awards: 'Dave must roast Sarah.'"
+1656. "Bachelor: Friend Zone Jury" - Eliminated = jury. Jury sabotages dates. "Ask about EXES." "Mention their DEBT." "Dave's date: 'So... your credit score?'"
+1657. "Impeachment: Articles" - "High crimes: Bad music taste. Misdemeanors: Stealing fries." Senate trial. Chief Justice = chaotic player. "Objection! *throws paper*"
+1658. "Prom Court: Scandal Cards" - "Photos LEAKED!" "Stolen FUNDS!" "Secret TWIN!" Respond. "Photos leaked? Those are MY baby photos. CUTE."
+1659. "Class President: Cabinet" - President appoints: "Secretary of Snacks", "Minister of Naps", "Ambassador to Dave's Mom." "Dave: Secretary of Excuses."
+1660. "Superlatives: Death Speeches" - "Most Likely to Die Stupidly." Winner: "I perished fighting a vending machine. It owed me a soda. I WON (posthumously)."
+1661. "Exile Island: Spy Text" - Exiled watches video. Sends ONE text: "Vote Sarah. Trust me." Signature hidden. "Who sent this?" "Unknown. But... Sarah DID eat my leftovers."
+1662. "Glass Bridge: Memory Game" - Pattern shown 10 sec. Cross. Can push. "You stepped 3! Safe!" "Was it? *tile breaks* "GUESS NOT."
+1663. "Cutthroat Kitchen: Auction" - "All salt → sugar: $500." "Cook with feet: $1000." "Blindfolded: $2000." Bid from shared budget. "I BID $5000 FOR DAVE TO COOK BLIND."
+1664. "Secret Hitler: Chaos Role" - 5L, 3F, 1H, 1 CHAOS. Chaos wins if 10 rounds no win. Chaos lies about EVERYTHING. "I'm Liberal! *enacts Fascist* 'Oops.'"
+1665. "Resistance: Assassin" - Spies have Assassin. Resistance wins -> Assassin guesses Merlin. "Merlin is... Dave." Dave: "I'm Villager!" "ASSASSIN WINS."
+1666. "Avalon: Morgana" - Morgana appears as Merlin to Percival. Two "Merlins". Percival: "Which is real?" Morgana: *perfect Merlin impression* "I'm Merlin." Real Merlin: "I'm Merlin."
+1667. "Coup: Inquisitor" - Challenges AND steals. "You're lying. Give me card." "I'm Contessa!" "PROVE IT." *shows Contessa* "Okay... *steals anyway* Inquisitor ignores Contessa."
+1668. "Love Letter: Spy" - Spy views hand. Guard names card -> if Spy, Spy out. Princess + Spy = win. "I guard Dave... Spy? SPY OUT." "Wait, I WAS SPY."
+1669. "Citadels: Witch" - Bewitches character. Skips turn. Witch takes turn. "I bewitch King. Dave (King) skips. I take King turn. Build TWO districts."
+1670. "Bang!: Deputy" - Deputies know Sheriff. Outlaws DON'T know Deputies. "I'm Deputy." "Prove it." *Sheriff nods* Outlaws: "WHICH ONE?"
+1671. "Werewolf: Cultist" - Cultist wins with Wolves. Wolves DON'T know Cultist. Cultist sees Wolves. "I'm helping! *subtle wink* Wolves: "Who IS that?"
+1672. "Mafia: Jester" - Jester wins if voted Day 1. Plays suspicious. "I'm Mafia! Vote me!" Town: "Trap." Jester: "VOTE ME." Town: "Fine. *votes* JESTER WINS."
+1673. "Resistance: Merlin" - Merlin knows Spies. Spies don't know Merlin. Assassin kills Merlin = Spy win. Merlin: "Team: Sarah, Mike, Jen." Spies: "Merlin picked them..."
+1674. "Avalon: Lancelot" - Two Lancelots. One Loyal, one Traitor. Switch when recruited. Don't know each other. "I'm Lancelot." "Me too." "Are we same?" "IDK."
+1675. "One Night: Tanner" - Tanner WANTS death. Wins if voted. Plays Wolf. Wolves avoid killing Tanner. "Tanner: 'I'm Wolf!' Wolves: 'Don't kill him.' Village: 'Vote Tanner.'"
+1676. "Deception: Witness" - Witness saw murder. Doesn't know who. Murderer knows Witness. "Witness: 'Killer wore red.' Murderer: *wears red* 'Oops.'"
+1677. "Mysterium: Psychic Visions" - Ghost gives surreal cards. "Dave as sad potato." "Sarah as burning toaster." Psychics interpret. "Sad potato = Dave's life."
+1678. "Obscurio: Traitor Book" - Grimoire (traitor) chooses clue options. "Option A: Key. Option B: Lock." Traitor picks wrong. "Sorcerers choose Key. WRONG. Traitor wins."
+1679. "Witch Hunt: Confession" - Witches can confess to save other witch. "I CONFESS! I'm witch! Spare Sarah!" Sarah (witch): "Thanks." Village: "Wait, TWO witches?"
+1680. "Salem: Puritan/Wicked" - Cards determine alignment. "I'm Puritan." "I'm Wicked." Accuse. Trial. Hang. "I confess! Save him!" "Wicked confesses? SUSPICIOUS."
+1681. "One Night: Alien" - Alien infects. Parasite helps. Robot knows nothing. Synthetic knows all. "Alien infects Sarah. Sarah now Alien. Parasite: 'Welcome.'"
+1682. "Blood Bound: Clan Deduction" - Hidden clans. Attack opposite. Heal same. Rank beats rank. "I'm Rank 3 Rose. You?" "Rank 2 Rose. ALLY." *heals*
+1683. "Vampire: Politics" - Prince, Primogen, Anarch, Sabbat. Influence, Blood, Votes, Boons. "I call Blood Hunt on Dave." "Dave: 'I'm Anarch! Immunity!'"
+1684. "The Thing: Infection Spread" - Infection spreads. Blood test = reveal. Limited tests. "Test Dave." "1 test left." "Test Sarah." "0 tests. GUESS."
+1685. "Paranoia: Troubleshooter" - Computer assigns mission. Secret societies. Mutants. Treason. Clones. "Friend Computer: 'Investigate Dave. Dave is Commie Mutant Traitor.'"
+1686. "Shadowrun: Runner Team" - Johnson. Run. Cyberdeck. Magic. Street Sam. Face. Betrayal. "Run complete. Payment? 'Credstick empty.' JOHNSON BETRAYED."
+1687. "Arkham: Sanity Loss" - "Dave reads tome. Sanity -5. Dave: 'I see... colors that don't exist.' Sarah: 'Dave, you're speaking R'lyehian.'"
+1688. "Eldritch: Mystery Solve" - Travel world. Solve mysteries. Gates open. Ancient One wakes. "3 mysteries solved. Azathoth: 'Not today.' *delays*"
+1689. "Mansions: App Scenario" - "Scenario: Dave's Apartment. Haunt: Mold Monster. Traitor: Dave (secretly Mold King)."
+1690. "Betrayal: Haunt 23" - "Haunt: The Traitor is... DAVE. Dave: 'I've been waiting for this.' Heroes: 'We trusted you!' Dave: 'Fools.'"
+1691. "Dead of Winter: Crossroad" - "Crossroad: Dave ate all food. Morale -2. Dave: 'I was HUNGRY.' Sarah: 'IT WAS 3 DAYS OF RATIONS.'"
+1692. "Battlestar: Cylon Reveal" - "Cylon revealed! Super Crisis: NUKE. Dave (Cylon): 'Bye.' *nukes fleet* Sarah: 'DAVE!'"
+1693. "Homeland: Sleeper" - "Asset Dave compromised. Extract? Drone strike? Interrogate? Dave: 'I'm LOYAL.' *secretly texts terrorist*"
+1694. "The Mole: Journal" - "Journal entry: Sabotaged challenge 3. Unnoticed. Exemption earned. Execution avoided. Finale approaching."
+1695. "Traitors: Shield" - "Shield used! Dave safe from murder. Traitors: 'WHO HAS SHIELD?' Faithful: 'Not telling.'"
+1696. "Clue: Liar" - "I showed you... nothing. You saw nothing. Accuse me? WRONG. You're out. Liar wins."
+1697. "Guess Who: Multiplayer" - "Does your person have Dave's energy?" "Yes." "Eliminate all non-Dave-energy." "Winner: Dave."
+1698. "Battleship: Lie Once" - "Miss." *hit* "Miss." *hit* "HIT!" "YOU LIED!" "ONCE PER SHIP! Rules!"
+1699. "Connect 4: 3D Gravity" - Rotate board. Gravity shifts. Connect 4 ANY dimension. "Vertical! Horizontal! DIAGONAL BETWEEN BOARDS!"
+1700. "Chess: Fog of War" - "I THINK your queen is at e4. Move knight... *reveals* PAWN. 'Okay, not queen.'"
+
+=== TRIVIA: PERSONAL ATTACK ===
+1701. "Google Feud: Personal" - "Why does Dave..." Autocomplete. "Why does Dave smell?" "Why does Dave lie?" "Why does Dave own 47 hoodies?"
+1702. "Urban Dictionary: Personal" - "Dave (v.): To confidently state wrong facts. 'He daved the entire meeting.'" Submit to UD.
+1703. "Fake Facts: Betting" - "Dave has 3 nipples. Dave met Tom Cruise. Dave can't snap." Bet chips. "All in on 'met Tom Cruise'." "FAKE. Dave has 3 nipples (REAL)."
+1704. "Wikipedia Race: Sabotage" - "Click 'History of Cheese'!" *clicks* "Now 'Cheese Rolling'. Target: 'Dave's Gym Log'. IMPOSSIBLE."
+1705. "Acronym: Roast" - D.A.V.E. = "Doesn't Actually Visit Exercise." S.A.R.A.H. = "Sees All Ridiculous Acts, Hates them."
+1706. "Movie Plot: Biopic" - "Dave's Life: 'The 40-Year-Old Intern.' Starring Danny DeVito. Director: Sarah. Producer: Mike. Budget: $0."
+1707. "Song Lyrics: Rewrite" - "Dave, Dave, give me your answer do / I'm half crazy / all for the love of TACOS / And skipping leg day."
+1708. "Celebrity Lookalike" - "Dave = Ryan Gosling if he aged 20 years, loved Warhammer, hadn't slept since 2015, and smelled like old spice."
+1709. "History: Revisionist" - "In 2019, Dave invented LEFT SOCK. Before: only rights. Nobel: 'Rejected. Too revolutionary.' Dave: 'I WAS ROBBED.'"
+1710. "Science: Personal" - "Dave's blood: RAG+ (Rage). Mitochondria: anxiety not ATP. Peer reviewed in 'Journal of Dave' (impact factor: 0.001)."
+1711. "Geography: Personal" - "Dave's apartment: Capital of Messistan. Exports: Dishes, regret. Imports: Takeout, Amazon. Climate: Seasonal depression."
+1712. "Animal: Spirit" - "Dave: Raccoon with anxiety. Trash panda but makes it WEIRD. Sarah: Owl. Judging. Mike: Bear. Grumpy. Hungry."
+1713. "Brand Slogan: Honest" - "Dave: Just Do It (Tomorrow). Nike legal: 'Cease and desist.' Dave: 'I'll respond tomorrow.'"
+1714. "News Headline: Personal" - "Local Man Dave Discovers Fridge Light Stays On. 'I Feel Betrayed.' Fridge: 'I've been watching. Judging.'"
+1715. "Video Game: Simulator" - "Dave Simulator 2024. Press F to Pay Respects. DLC: Gym Membership (unusable). Microtransactions: Motivation ($49.99)."
+1716. "Tech Specs: Personal" - "Dave OS 2.0. Buggy. Memory leaks. Features: Procrastination.exe, Anxiety.dll. Patch notes: 'Fixed nothing. Made worse.'"
+1717. "Food: Personal" - "Dave's signature dish: Cereal at 2 AM. Dry. No milk. Eaten over sink. Michelin inspector: 'I wept. Not from joy.'"
+1718. "Phobia: Personal" - "Dave: Responsibility-phobia. Symptoms: Sweating, excuses, sudden naps. Treatment: Deadlines (ineffective)."
+1719. "Law: Personal" - "Dave's Law: 'If works, don't fix. If broken, kick.' Enforced by: Universe (inconsistent). Dave: 'It WORKS (barely).'"
+1720. "Word Origin: Personal" - "'Dave' from Old English 'dafian': to be confused, slightly damp, own 47 chargers (none work)."
+1721. "Medical: Personal" - "Condition: Chronic Main Character Syndrome. Dave believes background music plays on entry. No cure. Treatment: Reality checks."
+1722. "Space: Personal" - "Planet Dave: Orbit irregular. Atmosphere: 78% excuses, 21% 'later', 1% oxygen. Moons: 3 unfinished projects."
+1723. "Ocean: Personal" - "Sea of Dave's Tears: Shallow. Salty. Contains: 1 AirPod, dignity, will to exercise. Depth: 2 inches."
+1724. "Invention: Personal" - "Dave's invention: Self-cleaning room (mother). Patented: 'Mom, I'll do it later' tech. Revenue: $0."
+1725. "Sport: Personal" - "Dave's sport: Competitive Napping. Events: Speed-nap, Marathon-nap, Sync-nap (with cat). Gold: 14 hours."
+1726. "Language: Personal" - "Dave-speak: 'On my way' = haven't left. '5 min' = 45. 'Did it' = opened tab. 'Soon' = never."
+1727. "Mythology: Personal" - "God Dave: Domain: Procrastination. Symbol: Half-empty coffee. Prayer: 'Let this work first try.' Sacrifice: Sleep."
+1728. "Conspiracy: Personal" - "Dave = 3 raccoons in trench coat. Evidence: Never eats salad. Trash panda energy. Knows dumpster locations."
+1729. "Superstition: Personal" - "Dave: Left sock first = day ruined. Right sock first = acceptable. No socks = transcendence."
+1730. "Dream: Personal" - "Dave dreams in: Spreadsheets. Error messages. 'Circular reference.' Wakes screaming '=VLOOKUP!'"
+1731. "Personality: Personal" - "Dave: Chaotic Neutral with ADHD. Alignment: Good intentions → Distraction → 'Oops' → Nap."
+1732. "Horoscope: Personal" - "Dave: Mercury retrograde (always). Jupiter in 12th house of 'unread messages'. Lucky number: 0."
+1733. "Tarot: Personal" - "The Dave (Reversed): Missed deadlines, lost keys. Upright: RARE. Miraculous. 4 AM productivity."
+1734. "Palmistry: Personal" - "Dave's lifeline: Short. Distraction line: DEEP. Procrastination mount: Prominent. Marriage line: 'Ask your mom.'"
+1735. "Fortune: Personal" - "You will: Find $5. Spend on coffee. Spill. Buy shirt. Forget receipt. Return denied. Universe: 1, Dave: 0."
+1736. "Magic 8 Ball: Biased" - "Dave, will I finish? 'Outlook hazy (like memory). Ask again when sober (focused). Signs point to lol.'"
+1737. "Ouija: Personal" - "Contacting Dave's motivation... D-A-V-E... I-T... L-E-F-T... 2-0-1-5... N-E-V-E-R... R-E-T-U-R-N-I-N-G."
+1738. "Spirit Box: Personal" - "Static: 'Daaaave... the laundrrrry... it's been thrrrreee daaays... daaaaave...'"
+1739. "Seance: Personal" - "Contacting Dave's 2019 Resolution... 'Exercise daily'... Spirit: 'He doesn't remember me.' Fades."
+1740. "Exorcism: Personal" - "DEMON OF PROCRASTINATION, LEAVE DAVE! *sprinkles LaCroix* POWER OF DEADLINES COMPELS YOU! *Dave naps*"
+1741. "Cult: Personal" - "Cult of Tuesday. Meet Tuesdays. Sacrifice: Productivity. Recruit Dave. Dave: 'I'm busy (napping).'"
+1742. "Religion: Invented" - "Holy Book: Terms & Conditions. Commandment 1: Thou shalt not skip leg day. Convert Dave. Dave: 'I'll sign tomorrow.'"
+1743. "Philosophy: Drunk" - "If tree falls, no one hears, sound? Yes. Physics. Dave: 'But what if tree is ME?' Group: 'Tree is not you.'"
+1744. "Ethics: Trolley" - "5 philosophers or 1 pizza. Dave: 'Pizza. Obviously pizza.' Sarah: 'Philosophers contribute to society.' Dave: 'PIZZA.'"
+1745. "Logic: Fallacy Battle" - "Cats are liquid." Ad hominem: "Dave, you're wrong because you're Dave." Strawman: "So you hate cats?" Dave: "I NEVER SAID THAT."
+1746. "Debate: Terrible" - "Hot dog = sandwich." "Cereal = soup." "Water = wet." 1 min each. Dave: "Soup = liquid food. Cereal + milk = soup. CHECKMATE."
+1747. "Public Speaking: Impromptu" - "Why Dave should be President." 2 min. "Dave's platform: Mandatory naps. Free hoodies. '5 minutes' = legally 5 minutes."
+1748. "Stand-up: Roast" - 3 min roast left neighbor. "Dave's hairline..." "Dave's '5 minutes'..." "Dave's gym membership..." Target sits. Takes it.
+1749. "Improv: Bad Suggestions" - Scene: "Divorce court." Suggestion: "Lawyer is raccoon." Play serious. "Objection! *hisses* *scratches*" Judge: "Sustained."
+1750. "Acting: Terrible Direction" - Director: "More sad." "No, happy." "No, like a tree." Actor: *stands still, arms out* "Tree Dave: *photosynthesizes*"
+
+=== CARD/BOARD: LEGACY CHAOS ===
+1751. "Catan: Legacy" - Persistent board. Cities upgrade. Roads permanent. Resources carry. "Dave's city: 3 ore forever. Sarah: 'UNFAIR.' Dave: 'LEGACY.'"
+1752. "Risk: Legacy" - Factions evolve. Scars on board. Cards ripped. Envelopes. "Nuclear winter envelope: OPEN WHEN 3 NUKES USED." *opens* "BOARD DESTROYED."
+1753. "Pandemic: Legacy" - Diseases mutate. Characters gain scars. Cities fall. "Dave's Medic: Lost leg. Moves 1 space. Dave: 'I'M STILL HELPFUL.'"
+1754. "Gloomhaven: Personal" - Characters = players. "Dave: Brute (tank). Sarah: Spellweaver. Mike: Scoundrel. Jen: Tinkerer." Retirement goals.
+1755. "Charterstone: Reputation" - "Dave reputation: -5 (burned inn). Sarah: +10 (built school). Mike: 0 (neutral). Jen: +5 (cat cafe)."
+1756. "My City: Episodes" - "Episode 3: Dave's district floods. AGAIN. Insurance: 'Denied. Act of Dave.'"
+1757. "Oath: Chronicles" - "Chronicle 47: Great Betrayal of Dave. Exile to Couch Lands. Dave: 'I HAVE A COUCH EMPIRE.'"
+1758. "Root: Factions = Players" - "Dave: Marquise (industrial). Sarah: Eyrie (bureaucratic). Mike: Woodland (insurgent). Jen: Vagabond (chaos)."
+1759. "Spirit Island: Spirits = Players" - "Dave: Lightning (fast, destructive). Sarah: River (control). Mike: Earth (tank). Jen: Shadows (stealth)."
+1760. "Ark Nova: Zoo" - "Dave's zoo: 47 pandas, 0 visitors. Conservation: 'Pandas are cute.' Appeal: 2. Sarah: 'Dave, pandas don't PAY TICKETS.'"
+1761. "Wingspan: Birds" - "Dave's bird: 'Procrastination Penguin.' Ability: Delays migration. Sarah: 'Efficiency Eagle.' Mike: 'Chaos Crow.'"
+1762. "Terraforming Mars: Corps" - "Dave Corp: 'Procrastination Inc.' Ability: Delay actions. Sarah Corp: 'Efficiency Unlimited.' Mike Corp: 'Chaos Dynamics.'"
+1763. "Scythe: Factions" - "Dave: Polania (farmers). Sarah: Saxony (industrial). Mike: Crimea (tactical). Jen: Nordic (weird)."
+1764. "Brass: Birmingham" - "Dave: Coal mines (never works them). Sarah: Canals (efficient). Mike: Iron (aggressive). Jen: Beer (popular)."
+1765. "Everdell: Critters" - "Dave: 'Lazy Squirrel.' Ability: Steal resources, nap. Sarah: 'Organizer Owl.' Mike: 'Chaos Raccoon.'"
+1766. "Viticulture: Vineyard" - "Dave's wine: 'Procrastination Pinot.' Aged: 'Later.' Sarah: 'Efficiency Estate.' Mike: 'Chaos Cabernet.'"
+1767. "Agricola: Farm" - "Dave's farm: 1 field, 47 fences (unused). Family: 'We're STARVING.' Dave: 'But look at my FENCES.'"
+1768. "Caverna: Cave" - "Dave's cave: 1 room, 50 tunnels (unfinished). Dwarves: 'We sleep in tunnels.' Dave: 'Tunnels are AESTHETIC.'"
+1769. "Gaia Project: Factions" - "Dave: 'Procrastinators.' Ability: Delay terraforming. Sarah: 'Efficient Ones.' Mike: 'Chaos Bringers.'"
+1770. "Twilight Imperium: Races" - "Dave: 'Lazy Race.' Ability: Skip turns, gain VP. Sarah: 'Diplomats.' Mike: 'Warmongers.' Jen: 'Traders.'"
+1771. "Eclipse: Species" - "Dave: 'Naparians.' Ability: Hibernate (skip round, gain resources). Sarah: 'Optimizers.' Mike: 'Aggressors.'"
+1772. "Star Wars: Rebellion" - "Dave: Empire (Death Star: 'Later'). Sarah: Rebels (efficient). Mike: Scum (chaos). Jen: Jedi (balanced)."
+1773. "Game of Thrones: Houses" - "Dave: House Procrastinate (words: 'Winter is Coming... Eventually'). Sarah: House Organize. Mike: House Chaos."
+1774. "Dune: Factions" - "Dave: House Atreides (but spice = 'later'). Sarah: Bene Gesserit (plans). Mike: Harkonnen (aggressive). Jen: Fremen (survivors)."
+1775. "War of the Ring: Sides" - "Dave: Free Peoples (Frodo: 'I'll take ring... tomorrow'). Sarah: Shadow (efficient). Mike: Chaos (Sauron: 'I SEE YOU... later')."
+1776. "Memoir '44: Scenarios" - "Scenario: Dave's Gym Journey. Objective: Reach gym. Obstacles: Couch, Netflix, '5 minutes'. Dave: 'I FAIL.'"
+1777. "Combat Commander: Cards" - "Dave's hand: 'Ambush (forgot to play)', 'Fire (forgot rules)', 'Move (nap time)'. Sarah: 'Perfect hand.'"
+1778. "Paths of Glory: WW1" - "Dave: Central Powers (Schlieffen Plan: 'Modified... delayed... failed'). Sarah: Entente (trenches). Mike: Chaos (Russia: 'REVOLUTION')."
+1779. "Here I Stand: Reformation" - "Dave: Luther (95 Theses: 'Post... tomorrow'). Sarah: Papacy (organized). Mike: Ottomans (expansion). Jen: England (chaos)."
+1780. "Virgin Queen: Elizabethan" - "Dave: England (Armada: 'Sails... tomorrow'). Sarah: Spain (organized). Mike: France (chaos). Jen: Netherlands (trade)."
+1781. "Pax Pamir: Afghanistan" - "Dave: British (invade... later). Sarah: Russians (organized). Mike: Afghans (resistance). Jen: Durrani (survival)."
+1782. "Root: Digital" - "Digital Root. Dave: Marquise (bots). Sarah: Eyrie (code). Mike: Woodland (bugs). Jen: Vagabond (glitches)."
+1783. "Spirit Island: App" - "App runs invaders. Dave: Lightning (speedrun). Sarah: River (control). Mike: Earth (tank). Jen: Shadows (stealth)."
+1784. "Ark Nova: Digital" - "Dave's zoo: 47 pandas (digital). Conservation: 'Cute.' Appeal: 2. Sarah: 'Dave, digital pandas don't pay.'"
+1785. "Wingspan: Digital" - "Dave's bird: Procrastination Penguin. Ability: Delays. Sarah: Efficiency Eagle. Mike: Chaos Crow. Jen: Social Sparrow."
+1786. "Terraforming: Digital" - "Dave Corp: Delay actions. Sarah Corp: Optimize. Mike Corp: Chaos. Jen Corp: Trade."
+1787. "Scythe: Digital" - "Dave: Polania (farm bots). Sarah: Saxony (mechs). Mike: Crimea (tactics). Jen: Nordic (weird tech)."
+1788. "Brass: Digital" - "Dave: Coal (unmined). Sarah: Canals (efficient). Mike: Iron (aggressive). Jen: Beer (popular)."
+1789. "Everdell: Digital" - "Dave: Lazy Squirrel (steal, nap). Sarah: Organizer Owl. Mike: Chaos Raccoon. Jen: Social Sparrow."
+1790. "Viticulture: Digital" - "Dave: Procrastination Pinot (aged: later). Sarah: Efficiency Estate. Mike: Chaos Cabernet. Jen: Social Syrah."
+1791. "Agricola: Digital" - "Dave: 1 field, 47 fences. Family starving. Dave: 'FENCES ARE AESTHETIC.' Sarah: 'FEED YOUR FAMILY.'"
+1792. "Caverna: Digital" - "Dave: 1 room, 50 tunnels. Dwarves in tunnels. Dave: 'TUNNELS ARE AESTHETIC.' Sarah: 'BUILD ROOMS.'"
+1793. "Gaia: Digital" - "Dave: Procrastinators (delay terraform). Sarah: Efficient. Mike: Chaos. Jen: Trade."
+1794. "Twilight: Digital" - "Dave: Lazy Race (skip turns, gain VP). Sarah: Diplomats. Mike: Warmongers. Jen: Traders."
+1795. "Eclipse: Digital" - "Dave: Naparians (hibernate). Sarah: Optimizers. Mike: Aggressors. Jen: Explorers."
+1796. "Star Wars: Digital" - "Dave: Empire (Death Star later). Sarah: Rebels. Mike: Scum. Jen: Jedi."
+1797. "Game of Thrones: Digital" - "Dave: House Procrastinate. Sarah: House Organize. Mike: House Chaos. Jen: House Trade."
+1798. "Dune: Digital" - "Dave: Atreides (spice later). Sarah: Bene Gesserit. Mike: Harkonnen. Jen: Fremen."
+1799. "War of Ring: Digital" - "Dave: Free Peoples (Frodo tomorrow). Sarah: Shadow. Mike: Chaos. Jen: Elves."
+1800. "Memoir 44: Digital" - "Dave: Gym Journey (Objective: Reach gym. Obstacles: Couch, Netflix, '5 min'). Dave: 'I FAIL.'"
+
+=== DRINKING: PERSONAL HELL ===
+1801. "Never Have I Ever: Personal Extreme" - "Never have I ever [specific embarrassing Dave thing]." Dave MUST drink. Details required. "Dave: 'FINE. I cried at Titanic. TWICE.'"
+1802. "Most Likely To: Personal Sexual" - "Most likely to [thing] with [player]." Vote. Targets drink. Stories. "Dave & Sarah: 'WE DATED.' Mike: 'I KNEW IT.'"
+1803. "Truth or Drink: Personal Deep" - Ask ANYTHING about specific player. "Dave, how many times have you...?" Answer or drink. "Dave: *drinks* 'NEXT QUESTION.'"
+1804. "Drunk Jenga: Personal Dares" - Blocks: "Text Dave's mom 'I love you'." "Roast Sarah 30 sec." "Kiss Mike's hand." Personal. "Dave: *texts mom* Mom: 'Are you okay?'"
+1805. "Beer Pong: Personal Naked Mile" - Lose = streak past specific player's house. Or underwear run. "Dave loses. Streaks past Sarah's. Sarah: *records*"
+1806. "Flip Cup: Personal Body Shots" - Lose = body shot off WINNER. "Dave, Sarah's doing shot off you. Lucky you." Dave: "WHY ME." Sarah: "RULES."
+1807. "Quarters: Personal Rules" - 3 in row = rule targeting player. "Dave drinks with toes." "Sarah speaks in haiku." Stack. "Dave: *drinks with toes* 'This is HUMILIATING.'"
+1808. "King's Cup: Personal Deck" - Cards = specific players. "Ace = Dave waterfall." "2 = Sarah chooses." "3 = Mike drinks." "Dave: 'WHY AM I ACE.'"
+1809. "Ride the Bus: Personal Pyramid" - Guess for specific player. "Higher for Dave." Wrong = Dave drinks row. Bus driver = most wrong FOR others.
+1810. "Fuck the Dealer: Personal" - Dealer = target. Guess card. Wrong = target drinks difference. Dealer changes after 3 correct ON THEM.
+1811. "Asshole: Personal President" - President = highest status. Asshole = lowest. President makes rules targeting Asshole. "Asshole fetches Dave's drinks."
+1812. "Circle of Death: Personal Ring" - Cards around specific player's drink. Break circle = that player finishes. Target rotates.
+1813. "Thumper: Personal Signs" - Signs based on traits. Dave = "confused gesture." Sarah = "hair flip." Mess up = drink.
+1814. "Cheers Gov: Personal Count" - Count to 21. 7/14 swap names. "7 = Dave." "14 = Sarah." 21 = rule targeting someone.
+1815. "Beer Die: Personal Throw" - Throw at specific player's cup. Hit = they drink. Sink = they finish. Catch = thrower drinks.
+1816. "Civil War: Personal Teams" - Teams: "Dave + Sarah vs Mike + Jen." Rapid fire. Target cups. "AIM FOR DAVE!"
+1817. "Baseball: Personal Drinking" - Bases = players. "Single = Dave drinks." "HR = Everyone drinks." Steal = flip cup vs baseman.
+1818. "Golf: Personal Cards" - 9 holes = 9 players. Low score wins. Cards = traits. "Dave = Bogey (reliable disappointment)."
+1819. "Poker: Personal Strip" - Lose = remove article OR roast target. "Dave, take off your dignity." "Sarah, roast Mike."
+1820. "Blackjack: Personal Drink" - Bust = target drinks. Blackjack = give drinks to target. Dealer rotates. Target rotates.
+1821. "Roulette: Personal Shot" - Numbers = players. Spin. Land on Dave = Dave shots. 0 = everyone. Color = gender drink.
+1822. "Slots: Personal App" - Spin. Match = give drinks to player. Jackpot = rule for player. Lose = sip.
+1823. "Lottery: Personal Scratch" - Fake scratch cards. Prizes: "Dave drinks", "Roast Sarah", "Mike safe". Buy with sips.
+1824. "Bingo: Personal Drunk" - Cards: "Has kissed Dave", "Seen Sarah cry", "Heard Mike's playlist". Mark. Bingo = finish drink.
+1825. "Trivia: Personal Wrong" - Questions about players. "Dave's middle name?" Wrong = drink. Right = give drink. Host = most knowledgeable.
+1826. "Categories: Personal Drunk" - Category: "Dave's exes." Name one. Repeat/stall = drink. Creative: "His dignity."
+1827. "Rhyme: Personal Drunk" - Word: "Dave." Rhyme: "Cave, wave, brave, shave, slave, misbehave." Stall = drink.
+1828. "Questions: Personal Only" - Only questions TO specific player. "Dave, why?" Statement = drink. Eye contact. "Dave, are you okay?"
+1829. "Thumbmaster: Personal Subtle" - Thumb on table. Last = target drinks. Thumbmaster = target. Sneaky. Target suffers.
+1830. "Snake Eyes: Personal Double" - Roll. Snake eyes = target drinks double. Other doubles = give drinks to target. Target rotates.
+1831. "Power Hour: Personal Playlist" - Shot beer/min. Music changes = cue. Playlist curated BY TARGET. "Dave's playlist: 60 min 'Never Gonna Give You Up'."
+1832. "Century Club: Personal" - 100 shots in 100 min. Survival. Buddy system. Medic. Target = birthday person.
+1833. "Edward 40 Hands: Personal" - 40s taped to hands. Cannot remove until empty. Bathroom = challenge. Target = birthday.
+1834. "Wizard Staff: Personal" - Stack cans. Staff length = level. Fight bosses (shots). White wizard = 100 cans. Target = Dave.
+1835. "Tour de Franzia: Personal" - Box wine. Teams. Relay. Drink + run. Baton = bag. "Team Dave vs Team Sarah."
+1836. "Beer Mile: Personal" - 4 beers, 4 laps. Drink + lap. Vomit = penalty lap. Track/field. Target = birthday.
+1837. "Keg Stand: Personal" - Handstand on keg. Drink. Time held. Spotters. Cheering. Target = birthday.
+1838. "Funneling: Personal" - Funnel + beer. Chug. Time. Race. Spit = DQ. Target = birthday.
+1839. "Shotgun: Personal" - Puncture can. Drink from hole. Speed. Race. Mess = penalty. Target = birthday.
+1840. "Das Boot: Personal" - Glass boot. Drink without spilling (toe trick). Point toe. Air bubble = splash. Target = birthday.
+1841. "Yard Glass: Personal" - 3ft glass. Drink without air bubble. Technique: twist. Race. Target = birthday.
+1842. "Boot Race: Personal Teams" - Relay das boot. Pass boot. Spill = penalty. Team finishes. Target = birthday team.
+1843. "Wine Bag: Personal Slap" - Bag wine. Slap bag. Drink. Pass. Slap = drink. Rhythm. Target = birthday.
+1844. "Goose: Personal Bottle" - Bottle passed. "Goose" = chug until "stop". Random. Can fake stop. Target = birthday.
+1845. "Thunder: Personal Shotgun" - Shotgun beer at "thunder" in "Thunderstruck". AC/DC. 30+ shots. Target = birthday.
+1846. "Roxanne: Personal Sting" - Drink at "Roxanne". "Red light" = stand/sit. Police song. 26 drinks. Target = birthday.
+1847. "Thunderstruck: Personal Circle" - Circle. Drink at "thunder". Pass. Next drinks at next. Chain. Target = birthday.
+1848. "Beer Hunter: Personal Shake" - One shaken. Pick. Open at face. Wet = out. Dry = stay. Russian roulette. Target = birthday.
+1849. "Pass Out: Personal Game" - Board game. Drink spaces. Challenges. Blackout = lose. Winner = most conscious. Target = birthday.
+1850. "Drunkopoly: Personal Monopoly" - Properties = drinks. Rent = drinks. Jail = chug. Banker = bartender. Target = birthday.
+
+=== TEAM/COOP: TRAITOR MECHANICS ===
+1851. "Escape Room: Known Mole" - Mole = most experienced. Sabotages. Others KNOW who. Must work AROUND them. "Dave, don't touch that." "I'M HELPING." "STOP HELPING."
+1852. "Heist: Personal Objectives" - "Steal Dave's dignity." "Betray Sarah." "Survive Mike's cooking." Execute heist. "Dave's dignity: LOCATED. *steals*"
+1853. "Spaceteam: Personal Commands" - "Set Dave's ego to zero!" "Calibrate Sarah's patience!" "Vent Mike's frustration!" Voice chaos.
+1854. "Keep Talking: Expert Lies" - Defuser = target. Experts = friends. One lies. "Cut red wire." "NO BLUE!" Defuser knows one lies.
+1855. "Magic Maze: Silent Traitor" - Traitor = designated. Moves wrong hero. Stares at WRONG player. "Move THIS one!" *stares at Sarah*
+1856. "The Mind: False Sync" - Play cards. Target plays WRONG intentionally. "Dave, 12 doesn't go after 45!" "I'M SYNCING!"
+1857. "Codenames: Double Agent" - Words = player traits. "Lazy", "Chaotic", "Dave". Double agent clues for BOTH. Assassin = "Divorce."
+1858. "Decrypto: Mole" - Codes = player secrets. Mole on each team. Moles win if secrets exposed. "Intercept: Dave's browser history."
+1859. "Just One: Saboteur" - Word = player's secret. "Dave's fear: Commitment." Clues: "Marriage", "Labels", "Future". Saboteur: "Tacos."
+1860. "So Clover: Misdirect" - Keywords = player traits. Clues misdirect. "Grid: Dave = [Lazy, Chaotic, Hungry, Broke]." Reconstruct.
+1861. "Crossfire: Personal Sniper" - VIP = "Group chat". Agents = "Moderators". Assassins = "Trolls". Sniper = "Admin ban hammer."
+1862. "Two Rooms: Personal Digital" - Room 1 = "VC 1". Room 2 = "VC 2". Hostages = "Mic muted". Leaders = "Admins."
+1863. "Avalon: Personal Web" - Merlin = "Most observant". Percival = "Second most". Morgana = "Best actor". Assassin = "Most ruthless."
+1864. "Resistance: Personal Online" - Plot cards = "Expose Dave", "Trust Sarah", "Investigate Mike". Missions = "Group decisions."
+1865. "Deception: Personal App" - Clues = "Weapon: Dave's cooking", "Location: Sarah's car". Murderer = "Mike". Accomplice = "Dave."
+1866. "Mysterium: Personal Digital" - Visions = memes of players. Ghost = "Deceased group chat". Psychics = "Living members."
+1867. "Obscurio: Personal Online" - Grimoire = "Group chat admin". Traitor = "Mole in mod team". Sorcerers = "Members". Exit = "Server boost."
+1868. "Witch Hunt: Personal Web" - Accusations. Trials. Judge. Witches. Villagers. Logs. "Accused: Dave. Crime: Existing."
+1869. "Salem: Personal Digital" - Puritan. Witch. Constable. Accusations. Trials. Hangings. "Dave: 'I confess! I'm a witch!'" (saves Mike)
+1870. "One Night: Personal App" - Roles. Night actions. Day discussion. Vote. Reveal. Logs. "Dave: Werewolf. Sarah: Seer. Mike: Villager."
+1871. "Blood Bound: Personal Digital" - Clans. Ranks. Abilities. Deduction. Combat. Logs. "Dave: Rank 3 Rose. Sarah: Rank 2 Rose."
+1872. "Vampire: Personal Online" - Politics. Blood. Influence. Votes. Boons. Clans. Disciplines. "Dave: Prince. Sarah: Primogen."
+1873. "The Thing: Personal Digital" - Infection. Test. Sabotage. Escape. Voice. Paranoia. "Test Dave." "We have 1 test."
+1874. "Paranoia: Personal App" - Computer. Missions. Secret societies. Mutants. Treason. Clones. "Friend Computer assigns: Investigate Dave."
+1875. "Shadowrun: Personal Digital" - Play Shadowrun digitally. The Matrix (hacking), Astral plane (magic), Meat space (physical), Runs (missions), Karma (XP), Gear (equipment), Contacts (NPCs). "Run: Steal Dave's gym log."
+1876. "Arkham: Personal App" - Digital Arkham Horror. Investigators explore locations, fight Mythos monsters, manage Sanity/Health, close Gates before the Ancient One awakes. "Dave: Sanity 0. Devoured."
+1877. "Eldritch: Personal Digital" - Digital Eldritch Horror. Solve Mysteries worldwide, close Gates, survive Reckonings, Travel the globe, face Encounters before the Ancient One wakes. "Solve Dave's mystery."
+1878. "Mansions: Personal App" - App-driven Mansions of Madness. Explore mansion scenarios, solve Puzzles, fight Combat encounters, manage Insanity. Traitor variant available. "Scenario: Dave's Apartment."
+1879. "Betrayal: Personal Digital" - Digital Betrayal at House on the Hill. Explore house, draw Omen cards, trigger Haunt roll. Traitor revealed, play scenario 1-50. Traitor vs heroes. Legacy version available. "Haunt: Dave's Mold Monster."
+1880. "Dead of Winter: Personal App" - Digital Dead of Winter. Colony survival with Crisis events, secret Objectives, Betrayer possible. Crossroad cards trigger choices. Manage Morale, Waste, Survivors. "Crossroad: Dave ate rations."
+1881. "Battlestar: Personal Online" - Digital Battlestar Galactica. Jump track advances, Crisis cards test skills, Cylon reveal timing, Super crisis cards, New Caprica phase, Occupation/Resistance mechanics. "Cylon: Dave. Reveal: NUKE."
+1882. "Homeland: Personal Digital" - Digital Homeland. CIA vs Terrorist. Gather Intel, manage Assets, run Drone strikes, Interrogate suspects, uncover Sleeper agents, find the Mole. "Asset Dave compromised."
+1883. "The Mole: Personal App" - Digital The Mole. Mole gets Journal of sabotages. Complete Challenges without detection. Earn Exemptions, avoid Execution. Finale reveals Mole. "Journal: Sabotaged challenge 3."
+1884. "Traitors: Personal Digital" - Digital The Traitors. Shield protects from Murder. Challenges earn Shields. Round table vote Banish. Traitors kill night. Faithful win if all Traitors gone. "Shield: Dave safe from murder."
+1885. "Clue: Personal Online" - Digital Clue/Cluedo. Make Suggestions, Accusations. Cards shown. Liar variant: one player lies about cards shown. Chat and Logs for deduction. "Liar: Dave. Cards: Hidden."
+1886. "Guess Who: Personal Multiplayer" - Digital Guess Who. Ask Questions to Eliminate characters. Tournament mode. Custom boards for personal characters. "Does your person have Dave's energy?"
+1887. "Battleship: Personal Salvo" - Digital Battleship with Salvo mode. Multiple shots per turn. Lie about hits allowed. Radar scans, Mines, Submarines add depth. "Miss." *hit* "Miss." *hit* "HIT!"
+1888. "Connect 4: Personal Gravity" - 3D Connect 4. Rotate board, Gravity shifts pieces. 3D board with Power ups. Connect 4 in ANY dimension: vertical, horizontal, diagonal, BETWEEN BOARDS.
+1889. "Chess: Personal Fog of War" - Chess with limited vision. See only squares your pieces attack. Move into unknown. Scout pieces reveal area. Bluff attacks. "I THINK your queen is there."
+1890. "Poker: Personal Video" - Video chat poker. Hole cards private. Chat for table talk. Tells visible. Timer enforces pace. "Dave's mic muted. Suspicious."
+1891. "Mafia: Personal Video" - Video chat Mafia. Night actions via PM. Day discussion live. Vote on screen. Narrator moderates. "Dave's camera off. He's mafia."
+1892. "Werewolf: Personal Video" - Video Werewolf. Roles assigned. Night phase: camera off. Day phase: discuss, Vote. Special roles (Seer, Doctor, etc). Mod runs game. "Sarah's lighting changed. She's werewolf."
+1893. "Resistance: Personal Video" - Video chat Resistance. Mission teams proposed, Vote. Spies on mission can Fail. Plot cards (Open Up, No Confidence, Strong Leader). Lady of the Lake mechanic.
+1894. "Spyfall: Personal Video" - Video Spyfall. Location shown to non-spies. Spy asks Questions. Accusation phase, Vote. "Jen's background: bookshelf. Location: Library?"
+1895. "Codenames: Personal Video" - Video Codenames. Board shared on screen. Spymaster PMs clue. Timer counts down. "Clue: Lazy 3. Guess: Dave, Mike, Chris."
+1896. "Decrypto: Personal Video" - Video Decrypto. Teams transmit Codes. Opponents Intercept. Clues must be clear to team, opaque to opponents. Sandbox mode for custom words. "Clue: 'Tuesday' (Dave's disaster)."
+1897. "Just One: Personal Video" - Video Just One. Guesser sees word. Others write ONE word Clue. Duplicates CANCELLED. Guesser guesses with remaining. "Word: Dave's type. Clues: Unavailable, Red flags, Tall."
+1898. "So Clover: Personal Video" - Digital So Clover. 4x4 keyword Grid. Write Clues for pairs. Reconstruct grid cooperatively. Timer adds pressure. "Keywords: Drama, Dave, Sarah, Mike."
+1899. "Crossfire: Personal Video" - Digital Crossfire. Sniper, Agents, Assassins, VIP. Timer counts down. Chat for discussion. "VIP = Group chat. Sniper = Admin."
+1900. "Two Rooms: Personal Video" - Digital Two Rooms and a Boom. App manages Rooms, Hostages, Leaders. Timer counts down. Chat for coordination. Swap hostages between rooms.
+
+=== VIDEO GAMES: PROXIMITY CHAOS ===
+1901. "Among Us: Proximity Chat" - Voice chat near players. Impostor hears. Vent sounds = laugh. Meetings = roast sessions.
+1902. "Goose Goose Duck: Voice" - Proximity. Roles: Sheriff, Birdwatcher, Canadian (honks), Duck. Canadian honks LOUDLY.
+1903. "First Class Trouble: Chat" - Proximity. Androids vs Residents. Passengers. Syringes. Voting. "Android: *silent kill* Resident: 'WHO DID THAT?'"
+1904. "TTT: Mic" - Traitor/Detective/Innocent. Voice. Karma. RDM. "Traitor: 'I'm Innocent.' Detective: 'Prove it.' *tests* 'INNOCENT.' Traitor: 'HA.'"
+1905. "Deceit: Voice" - Infected. Blood test. Fuse. Escape. Voice. Trust. "Blood test: Dave = Infected." Dave: "FALSE POSITIVE."
+1906. "Unfortunate Spacemen: Mic" - Monster. Shapeshift. Rescue. Voice. Paranoia. "Monster: *shapeshifts to Dave* 'Hey guys.' Real Dave: 'IMPOSTOR.'"
+1907. "Project Winter: Voice" - Traitor. Objectives. Sabotage. Bunker. Escape. Voice. "Traitor: 'Generator sabotaged.' 'Who?' 'IDK.'"
+1908. "Secret Hitler: Digital" - Web. Policies. Investigation. Veto. Special election. Hitler. "Policy: FASCIST. Investigation: Dave = FASCIST."
+1909. "Spyfall: App" - Phone app. Location cards. Timer. Spy guesses. Accusations. "Location: Dave's Apartment. Spy: Mike. 'Is fridge clean?'"
+1910. "Codenames: Online" - Web. Spymaster. Field operatives. Assassin. Timer. Clue log. "Clue: Lazy 3. Guess: Dave, Mike, Chris."
+1911. "Decrypto: Digital" - App. Intercept. Codes. Clues. Sandbox. Custom words. "Code: 4-2-1-3 = 'That time Dave...'"
+1912. "Just One: App" - Phone. Clues. Duplicates cancel. Guesser. Score. Custom words. "Word: Dave's type. Clues: Unavailable, Red flags, Tall."
+1913. "So Clover: Digital" - App. Grid. Clues. Reconstruct. Cooperative. Timer. "Keywords: Drama, Dave, Sarah, Mike."
+1914. "Crossfire: Online" - Web. Sniper. Agents. Assassins. VIP. Timer. Chat. "VIP = Group chat. Sniper = Admin."
+1915. "Two Rooms: Digital" - App. Rooms. Hostages. Leaders. Timer. Chat. Swap. "Room 1 = VC 1. Room 2 = VC 2."
+1916. "Avalon: Web" - Merlin. Percival. Morgana. Assassin. Oberon. Lady. Logs. "Merlin: *types furiously* Percival: *reads*"
+1917. "Resistance: Online" - Plot cards. Missions. Spies. Resistance. Vote logs. "Plot: Expose Dave. Mission: FAIL."
+1918. "Deception: App" - Forensic scientist. Tiles. Murderer. Accomplice. Witness. Clues. "Weapon: Dave's cooking. Location: Sarah's car."
+1919. "Mysterium: Digital" - Vision cards. Psychics. Ghost. Timer. Chat. Replay. "Vision: Dave as sad potato. Psychics: 'Dave's life.'"
+1920. "Obscurio: Online" - Grimoire. Clues. Traitor. Cohesion. Exit. Timer. "Grimoire: *chooses wrong clue* Traitor: 'Perfect.'"
+1921. "Witch Hunt: Web" - Accusations. Trials. Judge. Witches. Villagers. Logs. "Accused: Dave. Crime: Existing. Verdict: GUILTY."
+1922. "Salem: Digital" - Puritan. Witch. Constable. Accusations. Trials. Hangings. "Dave: 'I CONFESS! I'm witch!'" (saves Mike)
+1923. "One Night: App" - Roles. Night actions. Day discussion. Vote. Reveal. Logs. "Dave: Werewolf. Sarah: Seer. Mike: Villager."
+1924. "Blood Bound: Digital" - Clans. Ranks. Abilities. Deduction. Combat. Logs. "Dave: Rank 3 Rose. Sarah: Rank 2 Rose. ALLIES."
+1925. "Vampire: Online" - Politics. Blood. Influence. Votes. Boons. Clans. Disciplines. "Dave: Prince. Sarah: Primogen. Mike: Anarch."
+1926. "The Thing: Digital" - Infection. Test. Sabotage. Escape. Voice. Paranoia. "Test Dave." "1 test left." "Test Sarah." "0 tests. GUESS."
+1927. "Paranoia: App" - Computer. Missions. Secret societies. Mutants. Treason. Clones. "Friend Computer: 'Investigate Dave.'"
+1928. "Shadowrun: Digital" - Play Shadowrun digitally. The Matrix (hacking), Astral plane (magic), Meat space (physical), Runs (missions), Karma (XP), Gear (equipment), Contacts (NPCs). "Run: Steal Dave's gym log. Payout: 5000 nuyen."
+1929. "Arkham: App" - Digital Arkham Horror. Investigators explore locations, fight Mythos monsters, manage Sanity/Health, close Gates before the Ancient One awakes. "Dave: Sanity 0. Devoured by Shoggoth."
+1930. "Eldritch: Digital" - Digital Eldritch Horror. Solve Mysteries worldwide, close Gates, survive Reckonings, Travel the globe, face Encounters before the Ancient One wakes. "Solve Dave's mystery before Azathoth wakes."
+1931. "Mansions: App" - App-driven Mansions of Madness. Explore mansion scenarios, solve Puzzles, fight Combat encounters, manage Insanity. Traitor variant available. "Scenario: Dave's Apartment. Haunt: Mold Monster."
+1932. "Betrayal: Digital" - Digital Betrayal at House on the Hill. Explore house, draw Omen cards, trigger Haunt roll. Traitor revealed, play scenario 1-50. Traitor vs heroes. Legacy version available. "Haunt 23: Traitor is DAVE. Dave: 'Been waiting.'"
+1933. "Dead of Winter: App" - Colony. Crisis. Crossroads. Betrayer. Morale. Objectives. "Crossroad: Dave ate rations. Morale -2."
+1934. "Battlestar: Online" - Jump. Crisis. Cylon. Skill check. Reveal. New Caprica. "Cylon: Dave. Reveal: NUCLEAR."
+1935. "Homeland: Digital" - CIA. Terrorist. Intel. Drones. Sleeper. Mole. Assets. "Asset Dave compromised. Extract? Drone?"
+1936. "The Mole: App" - Journal. Sabotages. Challenges. Exemption. Execution. Finale. "Journal: Sabotaged challenge 3. Unnoticed."
+1937. "Traitors: Digital" - Shield. Murder. Round table. Banish. Traitors. Faithful. "Shield: Dave safe. Traitors: 'WHO?'"
+1938. "Clue: Online" - Suggestion. Accusation. Cards. Liar variant. Chat. Logs. "Liar: Dave. Cards: Hidden. Accusation: FAIL."
+1939. "Guess Who: Multiplayer" - Questions. Eliminate. Tournament. Custom boards. "Does your person have Dave's energy? YES."
+1940. "Battleship: Salvo" - Multiple shots. Lie about hits. Radar. Mines. Submarines. "Miss." *hit* "Miss." *hit* "HIT! YOU LIED!"
+1941. "Connect 4: Gravity" - Rotate board. Gravity shifts. 3D. Power ups. "Connect 4 in ANY dimension."
+1942. "Chess: Fog of War" - See only near pieces. Scout. Memory. Bluff. "I THINK your queen is there. Move knight... PAWN."
+1943. "Poker: Video" - Video chat. Hole cards private. Chat. Tells. Timer. "Dave's mic muted. Suspicious. Dave: 'Connection issues.'"
+1944. "Mafia: Video" - Video chat. Night actions PM. Day discussion. Vote. Narrator. "Dave's camera off. He's mafia. Sarah: 'CONVENIENT.'"
+1945. "Werewolf: Video" - Video. Roles. Night. Day. Vote. Special roles. Mod. "Sarah's lighting changed. She's werewolf. Mike: 'SHE'S GLOWING.'"
+1946. "Resistance: Video" - Video. Missions. Vote. Spies. Plot cards. Lady. "Mike's connection lagged. He's spy. Dave: 'LAG = SPY.'"
+1947. "Spyfall: Video" - Video. Location. Spy. Questions. Accusation. Vote. "Jen's background: bookshelf. Location: Library? Jen: 'I'm at HOME.'"
+1948. "Codenames: Video" - Video. Board shared. Spymaster PM clue. Timer. "Clue: Lazy 3. Guess: Dave, Mike, Chris. CORRECT."
+1949. "Decrypto: Video" - Video. Codes. Intercept. Clues. Sandbox. "Clue: 'Tuesday' (Dave's disaster). Intercept: 'EXPLAIN.'"
+1950. "Just One: Video" - Video. Clues. Duplicates. Guesser. Score. "Word: Dave's type. Clues: Unavailable, Red flags, Tall, Plays guitar. DUPLICATE: 'Red flags' CANCELLED."
+
+=== MINIMAL: VERBAL ONLY ===
+1951. "Contact: Personal" - Leader thinks player's trait. Others guess letters. "Contact!" when 2+ know. "D-A-V-E... Lazy!" Count down.
+1952. "Ghost: Personal Word Chain" - Add letter to player's name. "D-A-V-E-L..." Don't complete word. Challenge. Lose = letter.
+1953. "Categories: Personal Rapid" - Category: "Dave's excuses." Round robin. 3 sec. "Traffic." "Forgot." "Tired." Repeat = out.
+1954. "Taboo: Personal No Cards" - Describe player without 5 banned words. "Dave without: 'Late', 'Sorry', 'Traffic', 'Forgot', 'Busy'." Team guesses.
+1955. "Charades: Personal No Props" - Act out player's typical Saturday. No sounds. Team guesses. "Wake 2 PM. Scroll. Nap. Scroll. Sleep."
+1956. "Pictionary: Personal Air Draw" - Draw player's aura in air. Finger. Team guesses. "Chaotic scribble with question mark." "Dave!"
+1957. "20 Questions: Personal Lie" - Think player's secret. Answer questions. Can lie once. "Is it embarrassing?" "No." (Lie). Guessers detect.
+1958. "I Spy: Personal Abstract" - "I spy something... representing Dave's love life." "A dumpster fire." "Correct."
+1959. "Would You Rather: Personal Extreme" - "Dave: Fight 1 horse-sized Sarah or 100 duck-sized Mikes?" Debate. Vote. Dave answers.
+1960. "Never Have I Ever: Personal Fingers" - 10 fingers. "Never have I ever [Dave thing]." Dave puts fingers down. Last with fingers = not Dave.
+1961. "Most Likely To: Personal Point" - "Most likely to [Dave thing]." Count 3-2-1 point at Dave. Dave drinks/tells story.
+1962. "Paranoia: Personal Whisper" - Whisper: "Who's most like Dave?" Answer names person. Coin flip reveal. "Wait, I'm Dave?"
+1963. "Mafia: Personal No Cards" - Roles = players. "Dave = Mafia." "Sarah = Doctor." Night: eyes closed, tap Dave's shoulder. Day: discuss.
+1964. "Werewolf: Personal Minimal" - Seer = "Sarah". Doctor = "Mike". Werewolf = "Dave". Villagers = rest. Moderator = "Alex." Verbal.
+1965. "Resistance: Personal Fingers" - Mission team: hold fingers for players. "1=Dave, 2=Sarah..." Vote thumbs. Mission: fingers up/down.
+1966. "Coup: Personal Bluff" - 2 coins = 2 lives. Claim actions as players. "I'm Dave (Assassin), I kill Sarah." Challenge. Lose life = finger down.
+1967. "Love Letter: Personal Memory" - 16 cards = players. Remember played. "Guard (Dave) protects Sarah." "Prince (Mike) forces discard."
+1968. "Citadels: Personal Verbal" - Characters = players. "Assassin (Dave) kills Sarah." "Thief (Mike) steals from Jen." Draft verbal.
+1969. "Bang!: Personal Verbal" - Sheriff = "Alex". Deputies = "Sarah, Jen". Outlaws = "Dave, Mike". Renegade = "Chris". Verbal play.
+1970. "One Night: Personal Verbal" - Roles = players. "Dave = Werewolf." "Sarah = Seer." Night actions verbal. Day discuss. Vote.
+1971. "Spyfall: Personal Verbal" - Location = "Dave's apartment." Told verbally. Spy = "Mike" (didn't hear). Questions verbal. Vote.
+1972. "Codenames: Personal Verbal" - Grid 5x5 = player traits spoken. Spymaster clue verbal. "Lazy 3: Dave, Mike, Chris." Team guesses verbal.
+1973. "Decrypto: Personal Verbal" - Codes 4 digits = inside jokes. Clues verbal. "Clue: 'Tuesday' (Dave's disaster)." Intercept verbal.
+1974. "Just One: Personal Verbal" - Word = player trait told to clue givers. Guesser guesses. Clues verbal. Duplicates cancel verbal.
+1975. "So Clover: Personal Verbal" - Keywords = players verbal. Clues verbal. Grid reconstruct verbal. Cooperative verbal.
+1976. "Crossfire: Personal Verbal" - Roles = players verbal. Discussion verbal. Sniper shoots verbal. VIP survive verbal.
+1977. "Two Rooms: Personal Verbal" - Rooms = groups verbal. Hostages swap verbal. Leaders verbal. Timer verbal.
+1978. "Avalon: Personal Verbal" - Roles = players verbal. Teams verbal. Missions verbal. Assassin guesses Merlin verbal.
+1979. "Deception: Personal Verbal" - Clues verbal. Murderer = "Mike" verbal. Scientist places verbal tiles. "Weapon: Dave's cooking."
+1980. "Mysterium: Personal Verbal" - Visions described verbal. "Dave as a sad potato." Psychics discuss verbal. Ghost raps verbal.
+1981. "Obscurio: Personal Verbal" - Grimoire clues verbal. Traitor chooses verbal. Sorcerers guess verbal.
+1982. "Witch Hunt: Personal Verbal" - Accusations verbal. Trials verbal. Judge verbal. Vote verbal.
+1983. "Salem: Personal Verbal" - Cards verbal. Accusations verbal. Trials verbal. Hangings verbal.
+1984. "One Night Alien: Personal Verbal" - Roles verbal. Night verbal. Day verbal. Vote verbal.
+1985. "Blood Bound: Personal Verbal" - Clans verbal. Ranks verbal. Attack verbal. Deduce verbal.
+1986. "Vampire: Personal Verbal" - Politics verbal. Blood verbal. Votes verbal. Boons verbal.
+1987. "The Thing: Personal Verbal" - Infection verbal. Test verbal. Sabotage verbal. Escape verbal.
+1988. "Paranoia: Personal Verbal" - Missions verbal. Societies verbal. Mutants verbal. Clones verbal.
+1989. "Shadowrun: Personal Verbal" - Runs verbal. Matrix verbal. Astral verbal. Meat verbal.
+1990. "Arkham: Personal Verbal" - Investigations verbal. Gates verbal. Monsters verbal. Doom verbal.
+1991. "Eldritch: Personal Verbal" - Mysteries verbal. Gates verbal. Reckoning verbal. Ancient One verbal.
+1992. "Mansions: Personal Verbal" - Scenario verbal. Explore verbal. Puzzles verbal. Combat verbal.
+1993. "Betrayal: Personal Verbal" - House verbal. Omens verbal. Haunt verbal. Traitor verbal.
+1994. "Dead of Winter: Personal Verbal" - Colony verbal. Crisis verbal. Crossroads verbal. Betrayer verbal.
+1995. "Battlestar: Personal Verbal" - Jump verbal. Crisis verbal. Cylon verbal. Skill check verbal.
+1996. "Homeland: Personal Verbal" - Intel verbal. Terrorist verbal. Sleeper verbal. Mole verbal.
+1997. "The Mole: Personal Verbal" - Journal verbal. Sabotages verbal. Challenges verbal. Execution verbal.
+1998. "Traitors: Personal Verbal" - Shield verbal. Murder verbal. Round table verbal. Banish verbal.
+1999. "Clue: Personal Verbal" - Suggestions verbal. Accusations verbal. Cards verbal. Liar verbal.
+2000. "Guess Who: Personal Verbal" - Questions verbal. Eliminate verbal. Tournament verbal.

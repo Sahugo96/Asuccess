@@ -1,0 +1,201 @@
+TOP 40 FROM BATCH 11 (IDEAS 5001-5500) - BEST FOR TROLLING ALLIES, SIMPLE RULES, MEMORABLE MOMENTS
+
+1. THE TRUST FALL: VERBAL (Psychological - #5001)
+   Players: 4-8 | Time: 20 min | Props: None
+   Player states "I trust [name] with [secret/action]." That person can betray or honor. Points for honor, double for betrayal undetected.
+   WHY IT WORKS: Pure social calculus. "I trust Sarah with my phone password." Sarah: *scrolls through photos* "HONOR... wait, BETRAYAL. 200 POINTS."
+
+2. GASLIGHTING: THE GAME (Psychological - #5002)
+   Players: 5-10 | Time: 20 min | Props: None
+   Players take turns stating "Remember when [X] happened?" Group must agree or disagree. One player was asleep/absent for real events.
+   WHY IT WORKS: Collaborative reality distortion. "Remember when Dave fought a goose?" "YES. He lost." "Dave, you weren't there." "I... remember the feathers."
+
+3. THE FRAME-UP (Psychological - #5003)
+   Players: 5-10 | Time: 30 min | Props: Paper/pen
+   Before game, each player writes a "crime" on paper. Shuffle. Each round, one crime read. Players accuse each other. Real culprit stays silent.
+   WHY IT WORKS: Self-incrimination through accusation. "Who stole the last cookie?" Dave: "IT WAS SARAH!" Sarah: "I wrote 'Dave stole the last cookie'." Dave: "IT'S A SETUP."
+
+4. PARANOIA CIRCLE (Psychological - #5004)
+   Players: 5-10 | Time: 20 min | Props: Coin
+   Whisper a question to neighbor ("Who here would survive a horror movie?"). Neighbor answers NAME OUT LOUD. Coin flip: if heads, question revealed. If tails, stays secret.
+   WHY IT WORKS: Schrödinger's insult. Named person knows they were picked but not WHY. The uncertainty destroys friendships beautifully.
+
+5. LIAR'S RESUME (Creative - #5005)
+   Players: 4-10 | Time: 20 min | Props: Paper/pen
+   Each player writes 3 fake qualifications for a ridiculous job ("Professional Cloud Taster"). Read aloud. Group hires one. Hired player must justify qualifications for 60 seconds.
+   WHY IT WORKS: Writing phase lets everyone be creative. The 60-second defense forces committed absurdity. Group hiring = social betrayal.
+
+6. SECRET SANTA SABOTAGE (Social - #5006)
+   Players: 4-8 | Time: 20 min | Props: Random items
+   Draw names. Buy/give "gifts" (can be trash, insults, rocks). Recipient must act grateful and guess giver. Giver can lie.
+   WHY IT WORKS: Forced gratitude. "Oh wow, a used tissue! *tears of joy* Thanks, Mike!" Mike: "You're welcome. It has my DNA."
+
+7. THE WITNESS (Party - #5007)
+   Players: 5-10 | Time: 20 min | Props: None
+   One player witnesses a "crime" (staged by host). They describe it BADLY on purpose. Others reconstruct. Witness gets points for each wrong detail others include.
+   WHY IT WORKS: Deliberate misdirection as scoring mechanic. "The suspect was... tall. Wearing a hat. Maybe a bird?" Group: "So Dave?" Witness: "50 POINTS."
+
+8. ALIBI (Social Deduction - #5008)
+   Players: 4-8 | Time: 20 min | Props: None
+   Pair up. 5 mins to create shared alibi for a ridiculous crime. Separated. Interrogated individually. Contradictions = guilt.
+   WHY IT WORKS: Pressure reveals cracks. "We were at the movies." "Which movie?" "Uh... the one with the guy." "Dave said 'the one with the girl.' CONTRADICTION."
+
+9. THE PLANT (Social Deduction - #5010)
+   Players: 5-10 | Time: 20 min | Props: None
+   One player given a ridiculous opinion to defend ("Hot dogs are sandwiches"). Others don't know who. Plant gets points for each person they convince.
+   WHY IT WORKS: Turns gaslighting into a scored game. The plant must use genuine rhetoric. Others must distinguish conviction from performance.
+
+10. MAFIA: NARRATOR LIES (Social Deduction - #5011)
+    Players: 5-10 | Time: 20 min | Props: Role cards
+    Standard Mafia but narrator SECRETLY changes results: "Doctor saved you" (didn't). "Investigator found Werewolf" (wrong). Players must solve with corrupted info.
+    WHY IT WORKS: Adds a META-traitor (the narrator). Players must distinguish game lies from narrator lies. Short rounds = high replay.
+
+11. HIDDEN AGENDA (Social - #5012)
+    Players: 4-10 | Time: 30 min | Props: Agenda cards
+    Each player gets a secret win condition ("Make someone laugh", "Get voted out", "Say 'actually' 5 times"). Game ends when someone achieves theirs.
+    WHY IT WORKS: Secret missions during normal play. "I've been trying to say 'banana' for 3 hours." "BANANA." "YOU DID IT! YOU WIN!"
+
+12. THE INFORMANT (Social Deduction - #5013)
+    Players: 5-10 | Time: 20 min | Props: Role cards
+    One player gets all roles secretly. They announce "I'm the informant" and give ONE piece of true info, rest lies. Others must parse.
+    WHY IT WORKS: Information warfare. "I'm the informant. Dave is Villager." "Is that the truth or a lie?" "ONE TRUTH. FIND IT."
+
+13. SPYFALL: BROKEN TRANSLATOR (Social Deduction - #5015)
+    Players: 5-10 | Time: 15 min | Props: Spyfall cards
+    Spy gets a translator that gives wrong location names. Spy must guess real location from bad translations.
+    WHY IT WORKS: Spy already disadvantaged. Now they get "Location: Library" (actually "Space Station"). "So... many... books... in... space?"
+
+14. TWO TRUTHS, ONE LIE: COLLABORATIVE (Party - #5016)
+    Players: 4-10 | Time: 20 min | Props: None
+    Group writes 3 statements about one player. That player must guess which is the lie. If wrong, they do a dare.
+    WHY IT WORKS: Collaborative roasting. "Dave has 3 nipples. Dave met Tom Cruise. Dave can't snap." Dave: "I MET TOM CRUISE. He smelled like sandalwood."
+
+15. POKER FACE POKER (Card - #5017)
+    Players: 4-8 | Time: 30 min | Props: Deck of cards
+    Play poker but you can verbally declare any hand. Others choose to believe or call bluff. No cards shown until end.
+    WHY IT WORKS: Pure bluffing. "I have Royal Flush." "I believe you." "I CALL." *shows pair of 2s* "YOU BELIEVED ME?"
+
+16. THE MOLE'S NOTEBOOK (Social Deduction - #5018)
+    Players: 5-10 | Time: 30 min | Props: Notebook
+    One player has a notebook of "secret missions" (e.g., "make someone say 'banana'"). They read missions aloud but assign them to OTHER players secretly.
+    WHY IT WORKS: Public missions, secret targets. "Mission 1: Make someone say 'banana'." *looks at Dave* "Mission 2: Get someone to high-five you." *looks at Sarah*
+
+17. IMPOSTOR SYNDROME (Social Deduction - #5019)
+    Players: 5-10 | Time: 20 min | Props: Role cards
+    Everyone gets a role card. One says "Impostor". Impostor doesn't know they're the impostor. Others must guide them to reveal themselves without saying it directly.
+    WHY IT WORKS: Reverse deduction. "Impostor, you seem... nervous." "I'M NOT NERVOUS. *sweats* WHY WOULD I BE NERVOUS?" Group: "Just admit it." "ADMIT WHAT?!"
+
+18. BLIND ACCUSATION (Social Deduction - #5020)
+    Players: 5-10 | Time: 15 min | Props: None
+    Lights out. One player tapped as "killer". Lights on. Dead player gives ONE vague clue. Group votes. Killer wins if survives 3 rounds.
+    WHY IT WORKS: Minimal info = maximum paranoia. "Clue: 'It was... loud.'" Group: "DAVE SNORING?" "MIKE'S LAUGH?" "SARAH'S KEYBOARD?"
+
+19. FAKE IDENTITY (Social Deduction - #5021)
+    Players: 5-10 | Time: 20 min | Props: Celebrity cards
+    Each player draws a celebrity/character. They answer questions AS that person. One player has NO card - they improvise. Group guesses who's faking.
+    WHY IT WORKS: Improv under pressure. "Brad Pitt, what's your favorite color?" "Uh... the color of... freedom?" "YOU'RE THE FAKE."
+
+20. THE ACCUSER (Party - #5041)
+    Players: 4-8 | Time: 15 min | Props: None
+    One player accuses another of a ridiculous specific crime ("Dave stole my left sock at 3:47 PM"). Accused must defend with increasingly absurd evidence. Group votes guilty/not guilty.
+    WHY IT WORKS: Forces creative improv under pressure. The specificity makes it impossible to defend seriously.
+
+21. WHISPER DOWN THE LANE: SABOTAGE EDITION (Party - #5042)
+    Players: 5-10 | Time: 15 min | Props: None
+    Message passes through players. One designated saboteur must change exactly ONE word per pass. Final message read aloud.
+    WHY IT WORKS: Classic game with traitor twist. The constraint "exactly one word" forces surgical sabotage.
+
+22. GASLIGHT GALLERY (Social Deduction - #5043)
+    Players: 5-10 | Time: 20 min | Props: None
+    Players describe a shared "memory" that never happened. One player wasn't there - they must pretend they remember. Group votes on the impostor.
+    WHY IT WORKS: Collaborative lying creates hilarious escalating details. The impostor's desperate improvisation is comedy gold.
+
+23. SECRET SIGNAL (Social Deduction - #5044)
+    Players: 5-10 | Time: 20 min | Props: None
+    Two players have a secret signal. They must communicate it to each other publicly without others noticing. Others bet on who the pair is.
+    WHY IT WORKS: Creates paranoia in EVERY interaction. The signal can be anything. Betting involves whole group.
+
+24. FAKE RULES (Party - #5045)
+    Players: 4-10 | Time: 20 min | Props: None
+    Each round, one player invents a fake rule everyone must follow. Last to realize it's fake drinks/does penalty.
+    WHY IT WORKS: Creates paranoia about normal behavior. The reveal ("There was no rule!") is a perfect troll moment.
+
+25. TRAITOR'S TRANSLATOR (Social Deduction - #5046)
+    Players: 4-8 | Time: 15 min | Props: None
+    One player secretly retranslates everyone's words to the group with subtle malicious changes. Others must guess who's the "translator".
+    WHY IT WORKS: Zero prep, maximum gaslighting. Everyone talks so Translator has constant ammo. "Wait, I didn't say that!" moments are pure gold.
+
+26. HUMAN PIÑATA (Physical - #5053)
+    Players: 4-8 | Time: 20 min | Props: Gift, tape, newspaper, oven mitts
+    One player wears oven mitts, tries to unwrap a gift wrapped in 50 layers of tape/newspaper. Others give "helpful" verbal instructions only.
+    WHY IT WORKS: Physical comedy + verbal sabotage. "LEFT! NO, YOUR OTHER LEFT!" Victim struggles while "helpers" actively misdirect.
+
+27. BLINDFOLDED MAKEUP ARTIST (Physical - #5055)
+    Players: 4-6 | Time: 20 min | Props: Makeup, blindfold
+    One blindfolded does makeup on another. Third player gives instructions (can lie). Result photographed.
+    WHY IT WORKS: Triple chaos. Victim gets clown makeup. Artist blindly applies. Instructor: "Left eye... NO RIGHT EYE... oops too late."
+
+28. EGG ROULETTE (Physical - #5059)
+    Players: 4-10 | Time: 20 min | Props: 12 eggs (8 boiled, 4 raw)
+    Players take turns smashing on forehead. Raw = out. Can swap eggs secretly.
+    WHY IT WORKS: Russian roulette with breakfast. "Dave swapped his egg with Sarah's." *CRACK* "SARAH GOT THE RAW ONE. DAVE, YOU MONSTER."
+
+29. SARAN WRAP BALL (Physical - #5070)
+    Players: 4-10 | Time: 30 min | Props: Saran wrap, prizes, oven mitts, dice
+    Ball of saran wrap with prizes inside. Unwrap with oven mitts. Dice passes turn. Can steal ball.
+    WHY IT WORKS: Frantic unwrapping + theft. "I GOT THE GIFT CARD!" *dice rolls* "TURN PASSED." "NO, I STEAL THE BALL!" *tug of war*
+
+30. PICKLE JUICE PONG (Physical - #5071)
+    Players: 4-10 | Time: 30 min | Props: Cups, pickle juice, ping pong balls
+    Beer pong but pickle juice. Make shot = opponent drinks. Miss = you drink double.
+    WHY IT WORKS: Gross factor + skill. "I AIM FOR DAVE'S CUP." *misses* "I DRINK DOUBLE PICKLE JUICE. MY THROAT."
+
+31. BLINDFOLDED HAIRCUT (Physical - #5072)
+    Players: 3-4 | Time: 20 min | Props: Scissors, blindfold, wig (or real hair)
+    One cuts another's hair (wig or real) blindfolded. Third guides (can sabotage). Reveal at end.
+    WHY IT WORKS: Permanent(ish) consequences. "Sarah, why does Dave have a mullet?" "The guide said 'layers' but meant 'disaster'."
+
+32. WORST SUPERHERO (Creative - #5101)
+    Players: 4-8 | Time: 20 min | Props: None
+    Pitch a superhero with deliberately terrible power ("Captain Wet Sponge - absorbs 1 tsp water/hour"). Group funds one. Funded player acts it out.
+    WHY IT WORKS: Creative failure as entertainment. "My power: I can make any room 1° warmer. By entering it." "FUNDED. ACT IT OUT."
+
+33. BAD ADVICE HOTLINE (Creative - #5102)
+    Players: 4-8 | Time: 20 min | Props: None
+    Caller describes problem. Each player gives progressively worse advice. Caller MUST follow one. Results shared next round.
+    WHY IT WORKS: Escalating terrible advice is naturally funny. The "must follow" constraint creates accountability and future stories.
+
+34. EULOGY FOR INANIMATE OBJECT (Creative - #5103)
+    Players: 4-10 | Time: 15 min | Props: Random objects
+    Draw object (toaster, left sock). Deliver dramatic 60-second eulogy. Most moving wins. Others heckle.
+    WHY IT WORKS: Commitment to absurd premise = comedy. Heckling adds audience participation. Objects provide infinite variety.
+
+35. STARTUP PITCH: TERRIBLE IDEAS (Creative - #5104)
+    Players: 4-8 | Time: 25 min | Props: Fake money
+    Pitch "Uber for rocks", "Tinder for plants". Group invests fake money. CEO must hire players as ridiculous roles.
+    WHY IT WORKS: Business parody resonates. Hiring friends into absurd roles creates ongoing bits. "Quarterly reviews" extend the game.
+
+36. WIKIPEDIA: FAKE ARTICLE (Creative - #5107)
+    Players: 4-10 | Time: 20 min | Props: Paper/pen or laptop
+    Write fake Wikipedia entry for "The Great Emu War of 2024" etc. Mix 1 real fact. Others guess the fact.
+    WHY IT WORKS: Collaborative vandalism. "Early life: Dave was born 3 weeks late. 'Just 5 more minutes.' Career: Professional Procrastinator."
+
+37. HAIKU FOR HORRIBLE THINGS (Creative - #5108)
+    Players: 4-10 | Time: 15 min | Props: None
+    Write haiku about diarrhea, taxes, stubbed toe. Read with deep emotion.
+    WHY IT WORKS: Poetic form elevates crude content. "Taxes due tomorrow / Wallet screams in silent terror / Ramen for a month."
+
+38. TINDER BIO: VILLAIN EDITION (Creative - #5109)
+    Players: 4-10 | Time: 20 min | Props: Paper/pen
+    Write dating profile for Voldemort, Shrek, your landlord. Swipe left/right as group.
+    WHY IT WORKS: Character study through parody. "Voldemort, 71. Seeks someone who understands 'He-Who-Must-Not-Be-Named' is just a branding issue."
+
+39. VOTE: MOST LIKELY TO (Social - #5201)
+    Players: 5-10 | Time: 20 min | Props: Paper/pen
+    Anonymous votes. Reveal counts. Target guesses who voted for them. Correct guess = voter penalty.
+    WHY IT WORKS: Reveals group perceptions. The guessing phase creates meta-game: vote for friend to frame enemy? Anonymous but traceable.
+
+40. KINGMAKER (Social - #5202)
+    Players: 5-10 | Time: 30 min | Props: None
+    One "King" per round. Others petition for favor. King grants one wish, denies others. Next King = most denied.
+    WHY IT WORKS: Power corrupts. "King Dave, I petition for... Sarah to roast Mike." "GRANTED." "King Dave, I petition for... Dave to do pushups." "DENIED."

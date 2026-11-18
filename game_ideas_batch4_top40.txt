@@ -1,0 +1,201 @@
+TOP 40 FROM BATCH 4 (IDEAS 1501-2000) - BEST FOR TROLLING ALLIES, SIMPLE RULES, MEMORABLE MOMENTS
+
+1. HYDRA (Social Deduction - #1501)
+   Players: 6-10 | Time: 20 min | Props: Role cards
+   Two players share ONE role. They must AGREE on every action. Disagreement = both die. "We're the Seer." "No, WE'RE the Seer." "Okay, who do we check?" "Dave." "Sarah." "FIGHT."
+   WHY IT WORKS: Forces cooperation between potential enemies. "I'm Werewolf with DAVE?!" The negotiation IS the game. Disagreement death = high stakes comedy.
+
+2. SCHRÖDINGER'S ROLE (Social Deduction - #1502)
+   Players: 5-10 | Time: 20 min | Props: Box, role cards
+   Role card in box. Player doesn't know role until they OPEN it (once per game). Until opened, they're ALL roles simultaneously. "I might be Werewolf. I might be Villager. I'll act like both."
+   WHY IT WORKS: Quantum superposition gameplay. Player strategizes for ALL possibilities. Opening the box = wave function collapse. "I OPENED IT. I'm VILLAGER. My Werewolf strategy was USELESS."
+
+3. DOPPELGANGER (Social Deduction - #1504)
+   Players: 5-10 | Time: 15 min | Props: Role cards
+   Views another's card, BECOMES that role. Original KEEPS role. Two of same role now exist. "There are TWO Seers." "One is fake." "Both claim real."
+   WHY IT WORKS: Identity theft as mechanic. "I'm Seer!" "I'M SEER!" "One viewed the other." The real Seer doesn't know they were copied. Chaos.
+
+4. CUPID (Social Deduction - #1507)
+   Players: 5-10 | Time: 20 min | Props: Role cards
+   Night 1: chooses TWO lovers. Lovers win together OR die together. One Werewolf, one Villager = tragedy. "I love you but also I must eat you."
+   WHY IT WORKS: Forced alliance across team lines. Werewolf lover: "I can't kill my Villager lover!" Villager lover: "I must protect my Werewolf lover!" Romeo & Juliet with fangs.
+
+5. JESTER (Social Deduction - #1516)
+   Players: 5-10 | Time: 15 min | Props: Role cards
+   WANTS to be voted out. Wins if executed. Plays suspiciously. "I'm Werewolf! Vote me!" Villagers: "Trap." Werewolves: "Free kill?"
+   WHY IT WORKS: Reverse psychology weaponized. "VOTE ME!" Village: "No." Jester: "FINE. I'm Villager. *acts suspicious* Vote me!" Village: "OKAY." *executes* JESTER WINS.
+
+6. TANNER (Social Deduction - #1517)
+   Players: 5-10 | Time: 15 min | Props: Role cards
+   WANTS to die. Wins if killed (night kill, not vote). "Werewolves, EAT ME." Werewolves: "Why is he BEGGING?" Werewolves avoid = Tanner survives = Tanner loses.
+   WHY IT WORKS: Werewolves' dilemma. "Kill him? He WANTS it. Trap?" Tanner: "I'm delicious! Eat me!" Werewolves: *eat Villager instead* Tanner: "RUDE."
+
+7. CULT LEADER (Social Deduction - #1529)
+   Players: 6-12 | Time: 30 min | Props: Paper/pen
+   Recruits nightly. Recruited = Cult. Leader wins if majority. Leader dies = cult dissolves. "Join us. We have cookies."
+   WHY IT WORKS: Exponential growth. "Three people just nodded. CULT." Recruitment visible but Leader hidden. "Leader dies = cult dissolves" = assassination target.
+
+8. VAMPIRE: SIRE/CHILDE (Social Deduction - #1531-1533)
+   Players: 5-10 | Time: 30 min | Props: Paper/pen
+   Sire creates Childe nightly. Childe knows Sire. Sire doesn't know Childe actions. Blood bond = shared win. "Childe, kill Dave." Childe: "Okay." Sire: "I DIDN'T SAY THAT."
+   WHY IT WORKS: Asymmetric control. Sire gives orders, Childe interprets CREATIVELY. "Sire said 'handle Dave'." *hugs Dave* "Handled." Sire: "I MEANT KILL."
+
+9. RENFIELD (Social Deduction - #1534)
+   Players: 5-10 | Time: 20 min | Props: Paper/pen
+   Helps Vampires. Knows Vampires. Vampires DON'T know Renfield. "I'll frame Dave." Vampires: "Who's helping?" Renfield: "Me. *winks*"
+   WHY IT WORKS: Secret ally to secret enemies. Renfield's solo game: help without coordination. Vampires confused by "help." "Someone framed Dave... THANKS?"
+
+10. GODFATHER (Social Deduction - #1540)
+    Players: 6-12 | Time: 30 min | Props: Paper/pen
+    Appears innocent to Seer. Chooses kill. Can order hit ON SELF (fake). "Seer checks me: 'Villager'." *orders hit on self* "Frame complete."
+    WHY IT WORKS: Self-sacrifice as strategy. "Godfather dead! ...Wait, he ordered it." Consigliere: "Godfather, Seer is Dave." Godfather: "Kill Dave. Then kill me."
+
+11. FRAMER (Social Deduction - #1542)
+    Players: 6-12 | Time: 30 min | Props: Paper/pen
+    Frames one as Mafia. "Seer checks Dave: 'Mafia'." Dave: "I'm Villager!" Seer: "My Seer says Mafia." Dave: "FRAMER!"
+    WHY IT WORKS: Information warfare. Seer's info = unreliable. "I checked Sarah: Villager." "FRAMER GOT HER TOO." Trust nothing.
+
+12. HYPNOTIST (Social Deduction - #1545)
+    Players: 6-12 | Time: 30 min | Props: Paper/pen
+    Plants false memory. "You REMEMBER: Dave is Mafia." Victim: "I... remember that. Dave IS Mafia." Gaslighting as mechanic.
+    WHY IT WORKS: Memory manipulation. Victim genuinely believes planted memory. "I SAW Dave kill Sarah!" "That never happened." "I REMEMBER IT."
+
+13. BLACKMAILER (Social Deduction - #1546)
+    Players: 6-12 | Time: 30 min | Props: Paper/pen
+    Forces vote. "Vote Dave or I reveal your secret." "My secret: I'm Seer." "VOTE DAVE." Coercion as gameplay.
+    WHY IT WORKS: Social leverage. "Secret: I wet the bed until 14." "VOTE DAVE." "Secret: I'm Werewolf." "VOTE DAVE... wait, WHAT?"
+
+14. SPY (Social Deduction - #1547)
+    Players: 6-12 | Time: 30 min | Props: Paper/pen
+    Bugs one player. Hears their night action. "Dave visited Sarah." "Dave is Doctor? Or Werewolf?" Info gathering without reveal.
+    WHY IT WORKS: Surveillance gameplay. "I bugged Dave. He visited Sarah." "Dave's Doctor!" "Or Werewolf killing Sarah!" Spy: "I NEED MORE DATA."
+
+15. SURVIVOR (Social Deduction - #1549)
+    Players: 6-12 | Time: 30 min | Props: Paper/pen
+    Wins if alive at end. No team. "I just want to live." Both sides: "Survivor, help us." Survivor: "Who pays more?" Mercenary gameplay.
+    WHY IT WORKS: Pure self-interest. "I'll help Villagers today, Werewolves tomorrow." Both sides bid for loyalty. "I'll vote Wolf for... a cookie."
+
+16. ROAST BATTLE: STRUCTURED (Creative - #1601)
+    Players: 4-8 | Time: 20 min | Props: Timer
+    Target: Dave. Rounds: "Appearance", "Career", "Love Life", "Choices". 30 sec each. Judge = Sarah. "Dave's hairline: receding faster than his 401k."
+    WHY IT WORKS: Structured cruelty. Categories force creativity. "Love Life" round = personal attacks. Judge awards points. "10/10 for 'Dave's exes support group.'"
+
+17. ROAST BATTLE: TAG TEAM (Creative - #1602)
+    Players: 4-8 | Time: 20 min | Props: Timer
+    Teams of 2. Alternate lines. "Dave's shirt-" "Is wrinkled-" "Like his dreams-" "Of being on time." Seamless destruction.
+    WHY IT WORKS: Collaborative roasting. "Finish each other's roasts." Rhythm = comedy. "Dave's hair-" "LINE-" "RECEDING-" "FASTER-" "THAN-" "HIS-" "COMMITMENT."
+
+18. ROAST BATTLE: POWERPOINT (Creative - #1605)
+    Players: 4-8 | Time: 30 min | Props: Laptop/projector
+    Present roast as slides. "Slide 1: Dave's Timeline of Bad Decisions." "Slide 47: Today." Professional destruction.
+    WHY IT WORKS: Corporate roast format. "Q3 Projections: Dave's Gym Attendance (0)." Charts, graphs, pie charts of failure. "Slide 12: Dave's Hoodie Collection (47)."
+
+19. ROAST BATTLE: MUSICAL (Creative - #1606)
+    Players: 4-8 | Time: 20 min | Props: None
+    Roast in song. "Dave, Dave, give me your answer do / I'm half crazy / all for the love of NAPPING." Opera/rap/ballad.
+    WHY IT WORKS: Melody softens blows. "DAAAAVE ♫ YOUR GYM CARD ♫ COLLECTS DUST ♫" Hard to stay mad at a ballad. "Encore! Roast Sarah next!"
+
+20. ROAST BATTLE: HAIKU (Creative - #1607)
+    Players: 4-8 | Time: 15 min | Props: None
+    5-7-5 only. "Dave's hairline flees / faster than his motivation / to hit the gym." Deadpan delivery.
+    WHY IT WORKS: Constraint breeds creativity. "Dave's five minutes / forty-five in reality / we hate you Dave." Syllable counting = focus.
+
+21. EULOGY: LIVING ROAST (Creative - #1611)
+    Players: 4-10 | Time: 20 min | Props: None
+    "Here lies Dave's potential. Born: 1990. Died: 2019 (gym membership). Survived by: Regret, 3 hoodies, half-eaten protein bar."
+    WHY IT WORKS: Commitment to bit. "Dave would want us to roast him. He's not here... oh wait he IS." Subject sits through own funeral.
+
+22. WEDDING VOWS: FORCED (Creative - #1613)
+    Players: 4-10 | Time: 20 min | Props: Timer
+    Random pair. 2 min write. "Dave, I promise to love you until my gym membership expires (never)." "Sarah, I vow to stop stealing your fries (lie)."
+    WHY IT WORKS: Forced intimacy with strangers. "I now pronounce you... chaotic." Kiss = high five. "Divorce in 5 minutes." "PRENUP: Dave gets hoodies."
+
+23. BREAKUP TEXT: TO OBJECTS (Creative - #1614)
+    Players: 4-10 | Time: 15 min | Props: Phones
+    "Toaster, it's not you. It's me. I need someone who toasts evenly. You burn one side. I can't do this anymore."
+    WHY IT WORKS: Anthropomorphism + relationship drama. "Dear Pillow, you're too soft. I need FIRM support. It's over." Send to group chat.
+
+24. PERFORMANCE REVIEW: FRIEND (Creative - #1617)
+    Players: 4-8 | Time: 20 min | Props: Paper/pen
+    "Dave: Punctuality 2/10. Quality: 'It works on my machine.' Teamwork: Ghosts meetings. Communication: Memes only. Overall: 'Dave.'"
+    WHY IT WORKS: Corporate format for personal roasts. "Areas for improvement: Existing on time." "Goals for Q4: Finish ONE thing." "Signature: ______ Dave (late)."
+
+25. REFERENCE LETTER: FAKE JOB (Creative - #1618)
+    Players: 4-8 | Time: 15 min | Props: Paper/pen
+    "Dave for 'Professional Napper'. References: His pillow (enthusiastic), blanket (supportive), alarm clock (ignored 47 times)."
+    WHY IT WORKS: Absurdist job applications. "Mike for 'Chaos Agent'. Skills: Derailing conversations, spontaneous combustion." "Sarah for 'Mom of Group'."
+
+26. TINDER BIO: HONEST (Creative - #1620)
+    Players: 4-8 | Time: 15 min | Props: Phones/paper
+    "Dave, 30. Hobbies: Napping, ignoring texts, buying gym clothes. Looking for: Someone to carry me to the gym. Literally."
+    WHY IT WORKS: Radical honesty as comedy. "Sarah, 28. Red flags: Organized, judges your choices. Green flags: Will plan your life." Swipe as group.
+
+27. FAKE FACTS: BETTING (Trivia - #1703)
+    Players: 4-10 | Time: 20 min | Props: Chips/coins
+    "Dave has 3 nipples. Dave met Tom Cruise. Dave can't snap." Bet chips. "All in on 'met Tom Cruise'." "FAKE. Dave has 3 nipples (REAL)."
+    WHY IT WORKS: Personal trivia + gambling. "I KNOW Dave has 3 nipples. I've SEEN them." "WAIT, YOU HAVE?" "LOCKER ROOM. 2018." Dave: "I HATE YOU ALL."
+
+28. WIKIPEDIA VANDALISM (Trivia - #1704)
+    Players: 4-10 | Time: 20 min | Props: Phone/laptop
+    Start real article. Each changes ONE sentence. "Dave Smith (born 1990) is a professional napper. Known for: ignoring texts, hoodie collection."
+    WHY IT WORKS: Collaborative defacement. "Dave's notable achievements: 'Existing loudly.'" "Dave's philosophy: 'Later.'" Evolution tracked.
+
+29. MOVIE PLOT: BIOPIC (Trivia - #1706)
+    Players: 4-10 | Time: 20 min | Props: None
+    "Dave's Life: 'The 40-Year-Old Intern.' Starring Danny DeVito. Director: Sarah. Producer: Mike. Budget: $0."
+    WHY IT WORKS: Casting = roast. "Dave played by: Danny DeVito (body), Steve Buscemi (energy), Nicolas Cage (chaos)." Sarah directs: "More sadness. MORE."
+
+30. KINGMAKER: ASSASSINATION (Strategy - #1651)
+    Players: 5-10 | Time: 30 min | Props: Paper/pen
+    King names successor. Vote to assassinate. 3 dead successors = King dies. "Successor 1: DEAD. Successor 2: DEAD. Successor 3: Dave. King: 'I choose... myself.'"
+    WHY IT WORKS: Political murder simulator. "I nominate Sarah." "ASSASSINATE." "Sarah dead." "I nominate Mike." "ASSASSINATE." "King: 'I'm OUT of successors.'"
+
+31. SURVIVOR: FAKE IDOLS (Strategy - #1652)
+    Players: 6-12 | Time: 30 min | Props: Random objects
+    Plant fake idols. "This ROCK is idol. Swear on my life." Someone believes. Plays rock. "That's a rock." "IT'S AN IDOL ROCK."
+    WHY IT WORKS: Bluffing with props. "My idol: this half-eaten sandwich." "PLAY IT." *plays* "Sandwich provides immunity." "IT'S A SANDWICH."
+
+32. DICTATOR: COUP MECHANICS (Strategy - #1653)
+    Players: 5-10 | Time: 30 min | Props: Paper/pen
+    Dictator rules. Secret coup vote. Success = new Dictator. Fail = punish. "Coup vote: 4-3. COUP SUCCESS. Sarah is Dictator. Dave: 'I VOTED LOYAL.'"
+    WHY IT WORKS: Power struggle. Dictator: "Rule: Dave drinks on 'the'." Coup vote: "Dave, Sarah, Mike = YES." Dictator: "TRAITORS. *punishes*"
+
+33. CUTTHROAT KITCHEN: AUCTION (Strategy - #1663)
+    Players: 4-8 | Time: 45 min | Props: Kitchen items, fake money
+    "All salt → sugar: $500." "Cook with feet: $1000." "Blindfolded: $2000." Bid from shared budget. "I BID $5000 FOR DAVE TO COOK BLIND."
+    WHY IT WORKS: Economic sabotage. Targeted bidding. "I bid $10,000 for SARAH to cook with FEET." Sarah: "I HATE YOU." Budget management + cruelty.
+
+34. SECRET HITLER: CHAOS ROLE (Strategy - #1664)
+    Players: 7-10 | Time: 45 min | Props: Secret Hitler deck
+    5L, 3F, 1H, 1 CHAOS. Chaos wins if 10 rounds no win. Chaos lies about EVERYTHING. "I'm Liberal! *enacts Fascist* 'Oops.'"
+    WHY IT WORKS: Agent of entropy. Chaos: "I investigated Dave. He's Liberal." *Dave is Hitler* "Oops, my investigation was WRONG." Game goes long = Chaos wins.
+
+35. AVALON: MORGANA (Strategy - #1666)
+    Players: 5-10 | Time: 30 min | Props: Avalon deck
+    Morgana appears as Merlin to Percival. Two "Merlins". Percival: "Which is real?" Morgana: *perfect Merlin impression* "I'm Merlin." Real Merlin: "I'm Merlin."
+    WHY IT WORKS: Identity crisis. Percival MUST choose. Wrong choice = Evil wins. Morgana studies Merlin's tells. "Merlin blinks twice when lying." *Morgana blinks twice*
+
+36. COUP: INQUISITOR (Strategy - #1667)
+    Players: 4-6 | Time: 15 min | Props: Coup deck
+    Challenges AND steals. "You're lying. Give me card." "I'm Contessa!" "PROVE IT." *shows Contessa* "Okay... *steals anyway* Inquisitor ignores Contessa."
+    WHY IT WORKS: Rule-breaking role. "Inquisitor ignores blocks." Contessa useless. "I challenge... AND I take your card." Power fantasy.
+
+37. LOVE LETTER: SPY (Strategy - #1668)
+    Players: 4-6 | Time: 20 min | Props: Love Letter deck
+    Spy views hand. Guard names card -> if Spy, Spy out. Princess + Spy = win. "I guard Dave... Spy? SPY OUT." "Wait, I WAS SPY."
+    WHY IT WORKS: Spy as high-risk/high-reward. "I'm Spy. I see your hand. Princess? I WIN." Guard: "I guard... Spy? GOTCHA."
+
+38. CITADELS: WITCH (Strategy - #1669)
+    Players: 4-8 | Time: 30 min | Props: Citadels deck
+    Bewitches character. Skips turn. Witch takes turn. "I bewitch King. Dave (King) skips. I take King turn. Build TWO districts."
+    WHY IT WORKS: Turn theft. "Dave, you're King." "YAY." "Witch bewitches you. You skip. I build." Dave: "I HATE WITCH."
+
+39. MAJOR: JESTER (Strategy - #1672)
+    Players: 6-12 | Time: 30 min | Props: Paper/pen
+    Jester wins if voted Day 1. Plays suspicious. "I'm Mafia! Vote me!" Town: "Trap." Jester: "VOTE ME." Town: "Fine. *votes* JESTER WINS."
+    WHY IT WORKS: Day 1 chaos. "Jester: 'I'M MAFIA!' Town: 'No.' Jester: 'VOTE ME OR I'LL CRY.' Town: 'FINE.' *executes* JESTER: 'THANK YOU.'"
+
+40. HUMAN TETRIS (Physical - #1551)
+    Players: 6-10 | Time: 20 min | Props: Doorway/hallway
+    Players = tetrominoes. Fit into "lines" (doorways, hallway). Complete line = line clears (those players sit out). Rotate shapes.
+    WHY IT WORKS: Bodies as game pieces. "Dave = Long piece (tall). Sarah = Square. Mike = L-shape." "ROTATE DAVE." "I CAN'T ROTATE, I'M HUMAN." Physical puzzle.
